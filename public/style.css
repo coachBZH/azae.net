@@ -1,0 +1,98 @@
+/*------------------------------------*\
+	MAIN
+\*------------------------------------*/
+#follow-link{
+	display:block;
+	line-height:180px;
+}
+
+.skyBlue {
+	color: #204a87;
+}
+
+.scarletRed {
+	color: #a40000;
+}
+
+.chameleon {
+	color: #4e9a06;
+}
+
+.orange {
+	color: #ce5c00;
+}
+
+.debug {
+  border: solid 1px red;
+}
+
+html {
+  /*
+  font-family: "DejaVu Sans", "Bitstream Vera Sans", Geneva, Verdana, sans-serif;
+  font-family: 'Trebuchet MS', Verdana, Helvetica, Arial, sans-serif;
+  */
+  font-family: 'Linux Biolinum';
+  src: url('LinBiolinum_RB.woff') format('woff');
+}
+
+/*------------------------------------*\
+	TYPE
+\*------------------------------------*/
+
+
+
+/*------------------------------------*\
+	IMAGES
+\*------------------------------------*/
+#logo,
+#logo img {
+	width:403px; /* Width of your logo (ideally a round grid-number) */
+	height:180px; /* Height of your logo */
+}
+#logo img{
+  opacity:0;
+}
+#logo{
+	background:url(logo_bg.png);
+	margin-bottom:1.5em;
+}
+#logo:hover{
+	background-position:0 -180px;
+}
+
+
+/*------------------------------------*\
+	NARROW
+\*------------------------------------*/
+/*
+CSS for tablets and narrower devices
+*/
+
+@media (min-width: 721px) and (max-width: 959px){
+#follow-link{
+	display:block;
+	line-height:80px;
+}
+
+}
+/*--- END NARROW ---*/
+
+
+/*------------------------------------*\
+	MOBILE
+\*------------------------------------*/
+/*
+CSS for mobile devices.
+Linearise it!
+*/
+
+@media (max-width: 720px){
+body{
+	font-size:0.75em;
+}
+#follow-link{
+	display:block;
+	line-height:30px;
+}
+}
+/*--- END MOBILE ---*/

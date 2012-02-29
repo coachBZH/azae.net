@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+%html{:lang => "fr", :class => "prod" }
+  %head
+    %title Azaé
+    %link{:rel  => "stylesheet", 
+          :href => "inuit.css"}
+    %link{:rel  => "stylesheet", 
+          :href => "grid.inuit.css"}
+    %link{:rel  => "stylesheet", 
+          :href => "style.css"}
+  %body{:class=>"wrapper"}
+    = haml :header, :layout => false
+    = yield
+    %div{:id=>"footer"}
+      %p Azaé, 139 rue des arts, 59100 Roubaix - Courriel : contact@azae.net - Téléphone : +33 3 66 72 80 22 - GSM : +33 6 20 81 81 30
+      %p &copy; Copyright Azaé 2011
+
+
