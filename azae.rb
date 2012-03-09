@@ -2,16 +2,18 @@ require 'rubygems'
 require 'haml'
 require 'bundler/setup'
 
-require 'sinatra'
+require 'sinatra/base'
 
-configure do
-  set :haml, :format => :html5
-end
+class Azae < Sinatra::Base
+  configure do
+    set :haml, :format => :html5
+  end
 
-get '/' do
-  haml :index
-end
+  get '/' do
+    haml :index
+  end
 
-get '/devops' do
-  haml :devops
+  get '/devops' do
+    haml :devops
+  end
 end

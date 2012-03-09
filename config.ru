@@ -1,0 +1,2 @@
+require 'azae'
+run Azae
