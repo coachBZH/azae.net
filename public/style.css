@@ -1,11 +1,6 @@
 /*------------------------------------*\
 	MAIN
 \*------------------------------------*/
-#follow-link{
-	display:block;
-	line-height:180px;
-}
-
 .skyBlue {
 	color: #204a87;
 }
@@ -24,6 +19,18 @@
 
 .debug {
   border: solid 1px red;
+}
+
+#footer {
+	color: #204a87;
+	font-size:0.8em;
+}
+
+#follow {
+  position: absolute;
+  top: 0;
+  right: 0;
+padding: 1em;
 }
 
 html {
@@ -46,8 +53,8 @@ html {
 \*------------------------------------*/
 #logo,
 #logo img {
-	width:403px; /* Width of your logo (ideally a round grid-number) */
-	height:180px; /* Height of your logo */
+	width:313px; /* Width of your logo (ideally a round grid-number) */
+	height:140px; /* Height of your logo */
 }
 #logo img{
   opacity:0;
@@ -57,7 +64,7 @@ html {
 	margin-bottom:1.5em;
 }
 #logo:hover{
-	background-position:0 -180px;
+	background-position:0 -140px;
 }
 
 
@@ -69,12 +76,9 @@ CSS for tablets and narrower devices
 */
 
 @media (min-width: 721px) and (max-width: 959px){
-#follow-link{
-	display:block;
-	line-height:80px;
-}
 
 }
+
 /*--- END NARROW ---*/
 
 
@@ -87,12 +91,9 @@ Linearise it!
 */
 
 @media (max-width: 720px){
-body{
-	font-size:0.75em;
-}
-#follow-link{
-	display:block;
-	line-height:30px;
+html{
+	font-size:1em;
 }
 }
+
 /*--- END MOBILE ---*/

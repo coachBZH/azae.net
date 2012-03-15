@@ -4,9 +4,11 @@
        :title => "Retour à l'accueil"}
       %img{:src => "logo.png", 
            :alt => "Logo Azaé"}
-  %div{:class => "grid-8 text-right"}
-    %strong{:id=>"follow-link"} 
-      Nous suivre sur 
-      %a{:href=>"http://twitter.com/azae_net"} Twitter
-      ou 
-      %a{:href=>"https://gitorious.org/+azae"}Gitorious
+%div{:id => "follow", :class => "text-right"}
+  %strong
+    Nous suivre sur 
+    %a{:href=>"http://twitter.com/azae_net"} 
+      %img{:src=>"twitter.png", :alt=>"Twitter", :align => "center"}
+    ou 
+    %a{:href=>"https://gitorious.org/+azae"}
+      %img{:src=>"gitorious.png", :alt=>"Gitorious", :align => "center"}
