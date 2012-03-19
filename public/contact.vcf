@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Contact Azaé
+N:Contact;Azaé;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:contact@azae.net
+X-JABBER:contact@azae.net
+TEL;TYPE=CELL:+33620818130
+TEL;TYPE=WORK:+33366728022
+ADR;TYPE=WORK:;;139 rue des arts;Roubaix;;59100;
+ORG:Azaé
+URL;TYPE=WORK:http://azae.net
+END:VCARD

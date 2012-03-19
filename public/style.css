@@ -24,13 +24,67 @@
 #footer {
 	color: #204a87;
 	font-size:0.8em;
+  padding-top : 2em;
+  display: block;
 }
 
 #follow {
   position: absolute;
   top: 0;
   right: 0;
-padding: 1em;
+  padding: 1em;
+}
+
+#realcontactform {
+  border: 0px;
+  background-color : #eeeeec;
+  padding: 0.8em;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+input[type="text"], textarea {
+  width: 95%;
+}
+
+#realcontactform input {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#menu_haut ul {
+  font-size:1.1em;
+  /*
+  text-transform:uppercase;
+  */
+  font-weight:normal;
+  letter-spacing:1px;
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 2em;
+  margin-left: 4em;
+  margin-right: 4em;
+  padding:0 40px 0.25em 40px;
+  border-bottom: 2px solid #555753;
+}
+#menu_haut ul li {
+  display:inline;
+  list-style-type:none;
+  padding:0 0.5em 0 0;
+}
+#menu_haut ul a, #menu_haut ul a:link, #menu_haut ul a:visited {
+  color:#555753;
+  text-decoration:none;
+  padding-bottom: 3px;
+}
+#menu_haut ul a:hover {
+  color:#000;
+  padding-bottom: 1px;
+  /*text-decoration:underline*/
+  border-bottom: solid 1px black;
 }
 
 html {
@@ -41,6 +95,27 @@ html {
   font-family: 'Linux Biolinum';
   src: url('LinBiolinum_RB.woff') format('woff');
 }
+
+#flash {
+  cursor: pointer;
+  vertical-align: middle;
+  font-weight: normal;
+  position: fixed;
+  top: 1%;
+  right: 10%;
+  bottom: auto;
+  left: 10%;
+  opacity: 0.9;
+}
+
+.notice {
+	border: solid 1px #4e9a06;
+  background-color: #8ae234;
+  text-align: left;
+  color: #000;
+  padding: 0.2em;
+}
+
 
 /*------------------------------------*\
 	TYPE

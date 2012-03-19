@@ -2,13 +2,17 @@
 %html{:lang => "fr", :class => "prod" }
   %head
     %title Azaé
-    %link{:rel  => "stylesheet", 
-          :href => "inuit.css"}
-    %link{:rel  => "stylesheet", 
-          :href => "grid.inuit.css"}
-    %link{:rel  => "stylesheet", 
-          :href => "style.css"}
+    %link{:rel => "shortcut icon", :type=>"image/png", :href=>"favicon.png"}
+    %link{:rel => "stylesheet", :href => "inuit.css"}
+    %link{:rel => "stylesheet", :href => "grid.inuit.css"}
+    %link{:rel => "stylesheet", :href => "style.css"}
+    %script{:src=>"http://code.jquery.com/jquery-latest.js"}
   %body{:class=>"wrapper"}
+    :javascript
+      $(".flash").click(function () {
+        $(this).fadeOut("slow");
+      });
+    = styled_flash
     = haml :header, :layout => false
     = yield
     %div{:id=>"footer"}
@@ -17,6 +21,22 @@
         %br/
         139 rue des arts, 59100 Roubaix - Courriel : contact@azae.net - Téléphone : +33 3 66 72 80 22 - GSM : +33 6 20 81 81 30 
         %br/
-        &copy;&nbsp;Copyright Azaé 2011
+        &copy;&nbsp;Copyright Azaé 2011. Tous droits de reproduction réservés
+    :javascript
+      setTimeout(function(){
+          $("#flash").fadeOut("slow");
+        }, 7000);
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-30170124-1']);
+      _gaq.push(['_setDomainName', 'azae.net']);
+      _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 
 
