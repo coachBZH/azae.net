@@ -22,10 +22,17 @@
 }
 
 #footer {
-	color: #204a87;
+  background-color: #d3d7cf;
+	color: #555753;
 	font-size:0.8em;
-  padding-top : 2em;
+  margin-top : 2em;
+  padding-top : 1em;
+  padding-left : 102px;
+  background-image: url('logo_nb.png');
+  background-repeat:no-repeat;
+  background-position: 10px 10px;
   display: block;
+  height: 82px;
 }
 
 #follow {

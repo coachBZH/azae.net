@@ -5,6 +5,10 @@ class Azae < Sinatra::Base
     set :haml, :format => :html5
   end
 
+  error do
+    'Sorry there was a nasty error - ' + env['sinatra.error'].name
+  end
+
   get '/' do
     haml :index
   end
