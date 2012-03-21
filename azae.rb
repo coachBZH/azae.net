@@ -21,6 +21,10 @@ class Azae < Sinatra::Base
     haml :contact
   end
 
+  get '/offre' do
+    haml :offre
+  end
+
   post '/contact' do
     Pony.mail :to        => "contact@azae.net",
               :from      => params[:email],
