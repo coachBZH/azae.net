@@ -10,14 +10,26 @@ class Azae < Sinatra::Base
   end
 
   get '/' do
+    @meta = Meta.new;
+    @meta.title = "Partenaire devops"
+    @meta.description = "Azaé : votre partenaire devops"
+    @meta.keywords = "Devops, Agile, Scrum, Formation, Linux, Opensource, Puppet, Chef, Architecture web, Cloud"
     haml :index
   end
 
   get '/devops' do
+    @meta = Meta.new;
+    @meta.title = "Devops"
+    @meta.description = "Définition et description du mouvement devops"
+    @meta.keywords = "Devops, Autonomie, Scrum, Kanban, Dashboard, Exploitation, Agile, Puppet, Nagios, Git, Collaboration"
     haml :devops
   end
 
   get '/contact' do
+    @meta = Meta.new;
+    @meta.title = "Contact"
+    @meta.description = "Contacter Azaé"
+    @meta.keywords = "Contact, Thomas Clavier, Azaé"
     haml :contact
   end
 
@@ -53,4 +65,8 @@ class Azae < Sinatra::Base
     @flash[type] = Array.new if @flash[type] == nil
     @flash[type] << message
   end 
+end
+
+class Meta
+  attr_accessor :description, :keywords, :title
 end

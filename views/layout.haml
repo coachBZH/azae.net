@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 %html{:lang => "fr", :class => "prod" }
   %head
-    %title Azaé
+    %title 
+      Azaé - 
+      = @meta.title
     %link{:rel => "shortcut icon", :type=>"image/png", :href=>"favicon.png"}
     %link{:rel => "stylesheet", :href => "inuit.css"}
     %link{:rel => "stylesheet", :href => "grid.inuit.css"}
     %link{:rel => "stylesheet", :href => "style.css"}
     %script{:src=>"http://code.jquery.com/jquery-latest.js"}
+    %meta{:name=>"description", :content=>@meta.description}
+    %meta{:name=>"keywords", :content=>@meta.keywords}
   %body{:class=>"wrapper"}
     :javascript
       $(".flash").click(function () {
