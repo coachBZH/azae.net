@@ -3,5 +3,6 @@ require 'bundler'
 
 Bundler.require
 
-require 'azae'
+require File.expand_path(File.join(File.dirname(__FILE__), 'azae'))
+
 run Azae
