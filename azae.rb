@@ -10,9 +10,13 @@ class Azae < Sinatra::Base
     'Sorry there was a nasty error - ' + env['sinatra.error'].name
   end
 
+  before do
+    cache_control :public, :must_revalidate, :max_age => 60
+  end
+
   get '/' do
     @meta = Meta.new;
-    @meta.title = "Partenaire devops"
+    @meta.title = "Spécialiste devops"
     @meta.description = 'Azaé : votre partenaire devops'
     @meta.keywords = "Devops, Agile, Scrum, Formation, Linux, Opensource, Puppet, Chef, Architecture web, Cloud"
     haml :index
