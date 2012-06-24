@@ -17,7 +17,7 @@ class Azae < Sinatra::Base
   get '/' do
     @meta = Meta.new;
     @meta.title = "Spécialiste devops"
-    @meta.description = 'Azaé : votre partenaire devops'
+    @meta.description = 'Azaé, votre partenaire devops'
     @meta.keywords = "Devops, Agile, Scrum, Formation, Linux, Opensource, Puppet, Chef, Architecture web, Cloud"
     haml :index
   end
