@@ -38,6 +38,14 @@ class Azae < Sinatra::Base
     haml :contact
   end
 
+  get '/apropos' do
+    @meta = Meta.new;
+    @meta.title = "À propos"
+    @meta.description = "Les valeurs d'Azaé"
+    @meta.keywords = "Logiciel libre, Partage, Motivation, Valeurs, Philosophie, Organisation"
+    haml :about
+  end
+
   get '/offre' do
     haml :offre
   end
