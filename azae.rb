@@ -18,7 +18,7 @@ class Azae < Sinatra::Base
     @meta = Meta.new;
     @meta.title = "Spécialiste devops"
     @meta.description = 'Azaé, votre partenaire devops'
-    @meta.keywords = "Devops, Agile, Scrum, Formation, Linux, Opensource, Puppet, Chef, Architecture web, Cloud"
+    @meta.keywords = "Devops, Agile, Scrum, Formation, Linux, Opensource, Puppet, Chef, Architecture web, Cloud, Lille, Roubaix, Tourcoing, Villeneuve d'ascq"
     haml :index
   end
 
@@ -58,6 +58,16 @@ class Azae < Sinatra::Base
               :via       => :smtp
     flash "Votre message à bien été envoyé"
     redirect '/contact'
+  end
+
+  get '/sitemap.xml' do
+    map = XmlSitemap::Map.new('azae.net') do |m|
+      m.add('/devops')
+      m.add('/contact')
+    end
+
+    headers['Content-Type'] = 'text/xml'
+    map.render
   end
 
   def styled_flash 
