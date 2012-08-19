@@ -64,6 +64,7 @@ class Azae < Sinatra::Base
     map = XmlSitemap::Map.new('azae.net') do |m|
       m.add('/devops')
       m.add('/contact')
+      m.add('/apropos')
     end
 
     headers['Content-Type'] = 'text/xml'
