@@ -1,6 +1,7 @@
 # encoding: utf-8
 
 class Azae < Sinatra::Base
+  @flash
 
   configure do
     set :haml, :format => :html5
@@ -38,6 +39,15 @@ class Azae < Sinatra::Base
     haml :contact
   end
 
+  get '/merci' do
+    @meta = Meta.new;
+    @meta.title = "Merci"
+    @meta.description = "Contacter Azaé"
+    @meta.keywords = "Contact, Thomas Clavier, Azaé"
+    flash "Votre message à bien été envoyé"
+    haml :contact
+  end
+
   get '/apropos' do
     @meta = Meta.new;
     @meta.title = "À propos"
@@ -57,7 +67,7 @@ class Azae < Sinatra::Base
               :html_body => haml(:contact_email, {:layout => :layout_mail}),
               :via       => :smtp
     flash "Votre message à bien été envoyé"
-    redirect '/contact'
+    redirect '/merci'
   end
 
   get '/sitemap.xml' do
@@ -73,7 +83,6 @@ class Azae < Sinatra::Base
 
   def styled_flash 
     display_messages = Array.new
-    debug = ""
     if @flash != nil
       @flash.each do |type, messages| 
         messages.each do |message|
