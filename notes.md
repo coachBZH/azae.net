@@ -1,7 +1,5 @@
-learning company
 
-
-
+learning company / organisation apprenante (https://fr.wikipedia.org/wiki/Organisation_apprenante)
 coach
 agile
 accompagnement
