@@ -46,12 +46,13 @@ Symptomes:
   - frustration des équipes (amertume, cynisme, ...)
 
 
-  Tag line:
-  catalyseurs    | de | système      | agile
-  initiateur     |    | structure    |
-  faiseur        |    | entreprise   |
-  *accélérateur* |    | organisation |
-  activateur     |
-  architecte     |
-  constructeur   |
-  artisan        |
+Tag line:
+catalyseurs    | de | système      | agile
+initiateur     |    | structure    |
+faiseur        |    | entreprise   |
+*accélérateur* |    | organisation |
+activateur     |
+architecte     |
+constructeur   |
+artisan        |
+transformation |
