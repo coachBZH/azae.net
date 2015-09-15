@@ -13,7 +13,7 @@ valeur
 
 amelioration continue
 
-innovation organisationnelle
+Innovation organisationnelle
 intelligence collective
 
 docker
@@ -47,12 +47,14 @@ Symptomes:
 
 
 Tag line:
-catalyseurs    | de | système      | agile
-initiateur     |    | structure    |
-faiseur        |    | entreprise   |
-*accélérateur* |    | organisation |
-activateur     |
-architecte     |
-constructeur   |
-artisan        |
-transformation |
+  catalyseurs    | de | système      | agile
+  initiateur     |    | structure    |
+  faiseur        |    | entreprise   |
+  *accélérateur* |    | organisation |
+  activateur     |
+  architecte     |
+  constructeur   |
+  artisan        |
+  transformation |
+
+Animation de séminaire, Hackathon, Openspace
