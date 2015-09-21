@@ -3,8 +3,8 @@ title: Azaé
 email: contact@azae.net
 description: > # this means to ignore newlines until "baseurl:"
   Spécialiste devops, coaching agile
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://azae.net" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://azae.net"
 twitter_username: azae_net
 github_username:  azae
 
