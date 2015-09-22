@@ -103,32 +103,11 @@ body {
   font-family: 'Linux Biolinum';
 }
 
-#flash {
-  cursor: pointer;
-  vertical-align: middle;
-  font-weight: normal;
-  position: fixed;
-  top: 1%;
-  right: 10%;
-  bottom: auto;
-  left: 10%;
-  opacity: 0.9;
+.text-justify {
+  -moz-hyphens: auto;
+  text-align: justify;
+  word-wrap: break-word;
 }
-
-.notice {
-	border: solid 1px #4e9a06;
-  background-color: #8ae234;
-  text-align: left;
-  color: #000;
-  padding: 0.2em;
-}
-
-
-/*------------------------------------*\
-	TYPE
-\*------------------------------------*/
-
-
 
 /*------------------------------------*\
 	IMAGES
