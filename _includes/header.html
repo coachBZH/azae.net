@@ -1,37 +1,33 @@
 <header class="site-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <a href='/' title="Retour à l'accueil">
-          <img alt='Logo Azaé' src='/img/logo.png'>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img alt="Brand" src="/img/logo-50x50.png" height="20">
         </a>
       </div>
-    </div>
-    <div class="row" id='menu_haut'>
-      <div class="col-md-12">
-        <ul>
-          <li>
-            <a href='/contact/'>Contact</a>
-          </li>
-          <li>
-            <a href='/devops/'>Devops</a>
-          </li>
-          <li>
-            <a href='/apropos/'>À propos</a>
-          </li>
-          <li>
-            <a href='http://deliverous.com'>Deliverous</a>
-          </li>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        {% assign current = page.url | downcase | split: '/' %}
+        <ul class="nav navbar-nav">
+          <li {% if current[1] == 'devops' %}class='active'{% endif %}><a href='/devops/'>Devops</a></li>
+          <li {% if current[1] == 'apropos' %}class='active'{% endif %}><a href='/apropos/'>À propos</a></li>
+          <li><a href='http://deliverous.com'>Deliverous</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href='https://github.com/azae'><i class="fa fa-github"></i> Github</a></li>
+          <li><a href='http://twitter.com/azae_net'><i class="fa fa-twitter"></i> Twitter</a></li>
+          <li><a href='/contact/'><i class="fa fa-envelope"></i> Contact</a></li>
         </ul>
       </div>
     </div>
-  </div>
-  <div class='text-right' id='follow'>
-    <strong>
-    Nous suivre sur
-    <a href='http://twitter.com/azae_net'><big><big><i class="fa fa-twitter"></i></big></big></a>
-    ou
-    <a href='https://github.com/azae'><big><big><i class="fa fa-github"></i></big></big></a>
-    </strong>
+  </nav>
+  <div class="page-header text-center">
+    <img alt="Brand" src="/img/logo_mono.png">
   </div>
 </header>
