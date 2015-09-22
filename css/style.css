@@ -94,13 +94,13 @@ input[type="text"], textarea {
   border-bottom: solid 1px black;
 }
 
-html {
-  /*
-  font-family: "DejaVu Sans", "Bitstream Vera Sans", Geneva, Verdana, sans-serif;
-  font-family: 'Trebuchet MS', Verdana, Helvetica, Arial, sans-serif;
-  */
-  font-family: 'Linux Biolinum';
+@font-face {
+  font-family: "Linux Biolinum";
   src: url('LinBiolinum_RB.woff') format('woff');
+}
+
+body {
+  font-family: 'Linux Biolinum';
 }
 
 #flash {
