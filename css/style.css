@@ -21,24 +21,32 @@
   border: solid 1px red;
 }
 
-#footer {
-  background-color: #d3d7cf;
-	color: #555753;
-	font-size:0.8em;
+.footer {
+  background-color: #2e3436;
+	color: #eeeeec;
   margin-top : 2em;
-  padding-top : 1em;
-  padding-left : 102px;
-  background-repeat:no-repeat;
-  background-position: 10px 10px;
-  display: block;
-  height: 82px;
+  padding-bottom : 2em;
+  padding-top : 2em;
 }
 
-#follow {
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 1em;
+.footer h1 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.footer i{
+  background-color: #555753;
+  font-size: 25px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 42px;
+  margin: 10px 15px;
+  vertical-align: middle;
+}
+.footer a{
+	color: #eeeeec;
 }
 
 #realcontactform {
