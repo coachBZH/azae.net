@@ -56,3 +56,6 @@ Tag line:
   transformation |
 
 Animation de séminaire, Hackathon, Openspace
+
+
+Accélérateur d'organisation agile, Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprises. Optez pour le déploiement continu, une démarche devops, Scrum, Kanban ou le Lean management. Quelque soit vos choix Azaé saura vous accompagner.
