@@ -59,3 +59,20 @@ Animation de séminaire, Hackathon, Openspace
 
 
 Accélérateur d'organisation agile, Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprises. Optez pour le déploiement continu, une démarche devops, Scrum, Kanban ou le Lean management. Quelque soit vos choix Azaé saura vous accompagner.
+
+
+facilitateur 
+
+La vidéo du FO de 3400 personnes: http://osius.org/content/girl-scouts-national-convention-large-open-space Le lien pour télécharger le Livre Blanc 2 de Colligence en Intelligence Collective : http://colligence.fr/content/17-intelligence-collective-livre-blanc
+
+Pour aller plus loin, différentes formules :
+* Coaching / supervision pour manager et facilitateurs.
+* Accompagnement du facilitateur dans la préparation et/ou facilitation de l’événement en intelligence collective.
+* Formation des personnes en intra-entreprise ou réseau. 
+* Formations sur mesure, plusieurs modules sont disponibles.
+
+Si vous avez aimé la formation et que vous souhaitez contribuer à diffuser nos façons de travailler et coopérer pour créer un monde qui marche. Vous pouvez:
+* Ecrire une recommandation sur nos profil Linkedin
+* Nous communiquer trois emails de trois personnes, qui pourraient vouloir former leurs équipes aux techniques des outils d’intelligence collective et/ou de gouvernance participative :-) 
+
+
