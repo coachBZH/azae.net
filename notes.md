@@ -1,3 +1,8 @@
+---
+layout: default
+title: Notes
+---
+
 
 learning company / organisation apprenante (https://fr.wikipedia.org/wiki/Organisation_apprenante)
 coach
