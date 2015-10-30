@@ -56,3 +56,5 @@ Tag line:
   transformation |
 
 Animation de séminaire, Hackathon, Openspace
+
+Économie social et solidaire.
