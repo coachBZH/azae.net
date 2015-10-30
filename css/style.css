@@ -103,7 +103,7 @@ input[type="text"], textarea {
 
 @font-face {
   font-family: "Linux Biolinum";
-  src: url('LinBiolinum_RB.woff') format('woff');
+  src: url('fonts/LinBiolinum_RB.woff') format('woff');
 }
 
 body {
