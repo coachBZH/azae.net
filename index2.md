@@ -12,6 +12,8 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 
 * innovation organisationelle
 * démarche agile, devops, lean ou d'entreprise libérée
+* lean startup
+* intelligence collective
 
 
 ## Accompagnement technique
@@ -28,7 +30,7 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 * Tests (TDD, BDD)
 * Devops
 * Software Craftmanship
-* Docker
+* Docker et container applicatifs
 
 
 # Qui sommes nous ?
