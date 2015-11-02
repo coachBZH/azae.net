@@ -5,12 +5,33 @@ Catalyseurs d'agilité
 
 # Notre métier
 
-## Coaching
+Le coaching est notre posture privilégiée, car nous croyons dans l’émergence des solutions par ceux qui les possèdent, c’est-à-dire VOUS.
 
-## Formation
+
+## Accompagnement pour votre organisation
+
+* innovation organisationelle
+* démarche agile, devops, lean ou d'entreprise libérée
+
+
+## Accompagnement technique
+
+* software craftmanship
+* administration système
+* docker
+* expertise open source
+
+
+# Formations
+
+* Méthodes Agiles (Scrum, Kanban, Extreme programming (XP), Lean)
+* Tests (TDD, BDD)
+* Devops
+* Software Craftmanship
+* Docker
+
 
 # Qui sommes nous ?
 
 
-Le coaching est notre posture privilégiée, car nous croyons dans l’émergence des solutions par ceux qui les possèdent, c’est-à-dire VOUS.
 
