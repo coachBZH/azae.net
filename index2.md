@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-catalyseurs d'entreprises agile
+Catalyseurs d'agilité
 
 # Notre métier
+
 ## Coaching
+
 ## Formation
 
 # Qui sommes nous ?
