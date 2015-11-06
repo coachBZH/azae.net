@@ -6,19 +6,25 @@ categories:
 ---
 
 
-# Trunk based
+# Strategies explicites
 
-# Team branches
+## Trunk based
 
-# Feature branches
+## Team branches
 
-# Feature branches with automerge
+## Feature branches
 
-# Git flow
+## Feature branches with automerge
 
-# Github flow
+## Git flow
 
+## Github flow
 
+# Strategies implicites
+
+## Workspace Branch
+
+## Feature toggle
 
 # Notes
 
