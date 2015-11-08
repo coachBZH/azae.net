@@ -8,7 +8,7 @@ Catalyseur d'agilité, Azaé vous accompagne dans votre innovation organisationn
 Le coaching est notre posture privilégiée, car nous croyons dans l’émergence des solutions par ceux qui les possèdent, c’est-à-dire VOUS.
 
 
-## Accompagnement pour votre organisation
+# Accompagnement pour votre organisation
 
 * innovation organisationelle
 * démarche agile, devops, lean ou d'entreprise libérée
@@ -16,7 +16,7 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 * intelligence collective
 
 
-## Accompagnement technique
+# Accompagnement technique
 
 * software craftmanship
 * docker
