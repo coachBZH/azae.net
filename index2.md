@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-Catalyseurs d'agilité
 
-# Notre métier
+
+Catalyseur d'agilité, Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprises. Optez pour le déploiement continu, une démarche devops, Scrum, ...
 
 Le coaching est notre posture privilégiée, car nous croyons dans l’émergence des solutions par ceux qui les possèdent, c’est-à-dire VOUS.
 
@@ -19,7 +19,6 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 ## Accompagnement technique
 
 * software craftmanship
-* administration système
 * docker
 * expertise open source
 
@@ -32,12 +31,3 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 * Software Craftmanship
 * Docker et container applicatifs
 
-
-# Qui sommes nous ?
-
-Accélérateur d'organisation agile, Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprises. Optez pour le déploiement continu, une démarche devops, Scrum, ...
-
-
-Azae:
-- Deliverous: docker
--
