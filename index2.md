@@ -35,5 +35,6 @@ Le coaching est notre posture privilégiée, car nous croyons dans l’émergenc
 
 # Qui sommes nous ?
 
+Accélérateur d'organisation agile, Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprises. Optez pour le déploiement continu, une démarche devops, Scrum, ...
 
 
