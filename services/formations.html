@@ -3,32 +3,55 @@ layout: default
 title: Formation
 permalink: /services/formations/
 ---
-
 {% for formation in site.formations %}
-  <h1>{{ formation.title }}</h1>
-
-  <h2><i class='fa fa-fw fa-flag-checkered'></i>Objectifs</h2>
-  <ul>
-  {% for objective in formation.objectives %}
-  <li>{{objective}}</li>
-  {% endfor %}
-  </ul>
-
-  <h2><i class='fa fa-fw fa-clock-o'></i>Durée</h2>
-  <p>{{formation.length}}</p>
-
-  <h2><i class='fa fa-fw fa-check-square-o'></i>Pré-requis</h2>
-  <ul>
-  {% for prerequisite in formation.prerequisites %}
-  <li>{{prerequisite}}</li>
-  {% endfor %}
-  </ul>
-
-  <h2><i class='fa fa-fw fa-list-alt'></i>Plan</h2>
-  <ul>
-  {% for item in formation.plan %}
-  <li>{{item}}</li>
-  {% endfor %}
-  </ul>
-
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img alt="Docker-logo" src="/img/formation/{{formation.image}}" width="260" />
+            </div>
+            <div class="col-md-8">
+                <h1>{{ formation.title }}</h1>
+                <h2>Présentation</h2>
+                <p>
+                    {{formation.content}}
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1 icon"><i class='fa fa-fw fa-flag-checkered'></i></div>
+            <div class="col-md-5">
+                <h2>Objectifs</h2>
+                <ul>
+                    {% for objective in formation.objectives %}
+                        <li>{{objective}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-1 icon"><i class='fa fa-fw fa-clock-o'></i></div>
+            <div class="col-md-5">
+                <h2>Durée</h2>
+                <p>{{formation.length}}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1 icon"><i class='fa fa-fw fa-check-square-o'></i></div>
+            <div class="col-md-5">
+                <h2></i>Pré-requis</h2>
+                <ul>
+                    {% for prerequisite in formation.prerequisites %}
+                        <li>{{prerequisite}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-1 icon"><i class='fa fa-fw fa-list-alt'></i></div>
+            <div class="col-md-5">
+                <h2>Plan</h2>
+                <ul>
+                    {% for item in formation.plan %}
+                        <li>{{item}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
 {% endfor %}

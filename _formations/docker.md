@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introduction à Docker par la pratique
+image: docker-logo.png
 objectives:
 - Appréhender l'utilisation de Docker
 - Comprendre et utiliser Docker au sein de vos projets

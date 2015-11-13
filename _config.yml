@@ -20,5 +20,4 @@ baseline: "Catalyseur d'agilité"
 
 collections:
   formations:
-    output: true
     permalink: /services/formations/:path/

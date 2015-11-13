@@ -149,3 +149,9 @@ body {
   float: right;
   border-radius: 5px;
 }
+
+.icon {
+  font-size: 50px;
+  text-align: center;
+  color: #848484;
+}
