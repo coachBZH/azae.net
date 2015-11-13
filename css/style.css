@@ -82,6 +82,11 @@ body {
   height: 400px;
 }
 
+.big-fa a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .big-fa i {
   line-height: 200px;
   font-size: 100px;
