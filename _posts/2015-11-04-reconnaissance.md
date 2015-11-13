@@ -3,6 +3,7 @@ layout: post
 title:  "L'art de la reconnaissance"
 date:   2015-11-04 11:45:00
 categories:
+authors: Olivier Albiez
 ---
 
 Beaucoup de personnes ont besoin de reconnaissances de leurs actions, comportements, ... C'est donc un élément important dans la relation sociale. Recevoir de la reconnaissance est très énergisant et motivant.
