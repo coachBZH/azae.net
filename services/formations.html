@@ -3,3 +3,32 @@ layout: default
 title: Formation
 permalink: /services/formations/
 ---
+
+{% for formation in site.formations %}
+  <h1>{{ formation.title }}</h1>
+
+  <h2><i class='fa fa-fw fa-flag-checkered'></i>Objectifs</h2>
+  <ul>
+  {% for objective in formation.objectives %}
+  <li>{{objective}}</li>
+  {% endfor %}
+  </ul>
+
+  <h2><i class='fa fa-fw fa-clock-o'></i>Durée</h2>
+  <p>{{formation.length}}</p>
+
+  <h2><i class='fa fa-fw fa-check-square-o'></i>Pré-requis</h2>
+  <ul>
+  {% for prerequisite in formation.prerequisites %}
+  <li>{{prerequisite}}</li>
+  {% endfor %}
+  </ul>
+
+  <h2><i class='fa fa-fw fa-list-alt'></i>Plan</h2>
+  <ul>
+  {% for item in formation.plan %}
+  <li>{{item}}</li>
+  {% endfor %}
+  </ul>
+
+{% endfor %}
