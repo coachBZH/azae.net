@@ -84,61 +84,14 @@ body {
   vertical-align: middle;
 }
 
-/*------------------------------------*\
-	IMAGES
-\*------------------------------------*/
-#logo,
-#logo img {
-	width:313px; /* Width of your logo (ideally a round grid-number) */
-	height:140px; /* Height of your logo */
+.big-fa:hover {
+  background-color: #555753;
+  color: #eeeeec;
 }
-#logo img{
-  opacity:0;
-}
-#logo{
-	background:url('/img/logo_bg.png');
-	margin-bottom:1.5em;
-}
-#logo:hover{
-	background-position:0 -140px;
-}
-
-
-/*------------------------------------*\
-	NARROW
-\*------------------------------------*/
-/*
-CSS for tablets and narrower devices
-*/
-
-@media (min-width: 721px) and (max-width: 959px){
-
-}
-
-/*--- END NARROW ---*/
-
-
-/*------------------------------------*\
-	MOBILE
-\*------------------------------------*/
-/*
-CSS for mobile devices.
-Linearise it!
-*/
-
-@media (max-width: 720px){
-html{
-	font-size:1em;
-}
-}
-
-/*--- END MOBILE ---*/
-
 
 .spacer-20 {
   margin-top: 20px;
 }
-
 
 #l-main article {
   background: white;
