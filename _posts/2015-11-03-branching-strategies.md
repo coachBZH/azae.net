@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Stratégies de branching"
-date:   2015-11-03 14:00:00
+title:  "Stratégies de branches"
 categories:
+toto: foo bar
 ---
 
 

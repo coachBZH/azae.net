@@ -2,7 +2,7 @@
 layout: post
 title:  "Popcorn Flow"
 date:   2015-11-03 14:00:00
-categories:
+image: popcornflow.jpg
 ---
 
 
