@@ -4,12 +4,12 @@ title: Coaching
 permalink: /services/coaching/
 ---
 
-* Accueillir les changements pour les transformaer en valeurs
-* raccourcir les cycles de feedbacks, accélerer les prises de décision pour réduire les risques
-* mettre en place une dynamique d'amélioration continue
-* Optez pour le déploiement continu et n'attendez plus pour apporter de la valeur.
-* Aligner l'ensemble de vos équipes pour évitez les rivalités entre silos.
-* Valorisez le capital humain de votre organisation.
+- Accueillir les changements pour les transformaer en valeurs
+- raccourcir les cycles de feedbacks, accélerer les prises de décision pour réduire les risques
+- mettre en place une dynamique d'amélioration continue
+- Optez pour le déploiement continu et n'attendez plus pour apporter de la valeur.
+- Aligner l'ensemble de vos équipes pour évitez les rivalités entre silos.
+- Valorisez le capital humain de votre organisation.
 
 Nous mettons notre expertise à votre service pour faire grandir l'ensemble de vos équipes.
 
@@ -18,10 +18,11 @@ Révéler le capital de vos collaborateurs.
 Libérez votre "leadership" pour devenir vous même un cataliseur de valeur dans votre organisation.
 
 Définir ensemble un plan de transition agile :
-* déclancher le mouvement à l'aide d'ateliers ludique
-* Faciliter, accompagner le mouvement avec du coaching et du mentoring
-* rythmer la transition, mettre en place de l'amélioration continu
-* formation et apprentissage, amélioration de l'outils de production.
+
+- déclancher le mouvement à l'aide d'ateliers ludique
+- Faciliter, accompagner le mouvement avec du coaching et du mentoring
+- rythmer la transition, mettre en place de l'amélioration continu
+- formation et apprentissage, amélioration de l'outils de production.
 
 dynamique itérative et incrémentale
 
