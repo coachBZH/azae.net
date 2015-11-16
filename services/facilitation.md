@@ -7,7 +7,7 @@ permalink: /services/facilitation/
 # Introduction
 
 Nous animons des ateliers de 2H à plusieurs jours.
-A partir d'un problème de votre organisation, nous mettons en place un atelier ludique et créatif dans lequel l'itelligence collective du groupe se révèlera.
+À partir d'un problème de votre organisation, nous mettons en place un atelier ludique et créatif dans lequel l'itelligence collective du groupe se révèlera.
 
 Avec un objectif clair élaboré avec vous, dans un cadre rassurant et motivant nous vous garantissons un résultat sans précédent.
 
