@@ -40,3 +40,9 @@ Chaque atelier respecte les 3 étapes clés :
 - Exploration
 - Cloture : retours sur les objectifs et partage du plan d'action
 
+
+# mots clés 
+* intelligence collective
+* co-création
+* création
+* innovation

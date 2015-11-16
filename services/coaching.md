@@ -30,3 +30,5 @@ Facilitation à tous les niveaux de l’organisation (comité de direction, mét
 
 
 Convaincu qu’il n’y a pas de performance sans bonheur, et pas de bonheur sans responsabilité, nous pensons qu'il est possible de laisser les producteurs de valeurs d'auto-organiser.
+
+Dans le cadre de nos interventions au sein de vos équipes, nous varions notre posture entre le coaching, le mentorat et le conseil en fonction de vos besoins. Notre grande experience dans les transformation agile nous permettent de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continueent sans nous.
