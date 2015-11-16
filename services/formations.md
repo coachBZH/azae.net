@@ -6,7 +6,7 @@ permalink: /services/formations/
 
 # Formations
 
-Nous pouvons réaliser n'importe quelle formation sur nos sujets de compétences:
+Nous pouvons réaliser n'importe quelle formation sur nos sujets de compétences :
 
 - Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
 - Devops
@@ -15,8 +15,6 @@ Nous pouvons réaliser n'importe quelle formation sur nos sujets de compétences
 - L'intelligence collective
 - Lean startup
 
+Toutes nos formations sont adaptables à vos besoins propres. N'hésitez pas à nous contacter.
 
-Toutes nos formation sont adaptable à vos besoins propre. N'hésitez pas à nous contacter.
-
-
-Déclaration d'activité de formation enregistrée sous le numéro 31~59~08320~59 auprès du préfet de région de Nord-Pas de Calais.
+Déclaration d'activité de formation enregistrée sous le numéro 31 59 08320 59 auprès du préfet de région de Nord-Pas de Calais.
