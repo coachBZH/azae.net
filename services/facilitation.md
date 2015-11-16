@@ -4,7 +4,7 @@ title: Facilitation
 permalink: /services/facilitation/
 ---
 
-# Introduction
+# Facilitation
 
 Nous animons des ateliers de 2H à plusieurs jours.
 Avec un objectif clair élaboré avec vous ou à partir d'un problème de votre organisation, nous mettons en place un atelier ludique et créatif dans lequel l'intelligence collective du groupe se révélera.
