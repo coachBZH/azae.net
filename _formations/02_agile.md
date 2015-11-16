@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Introduction aux méthodes agiles
+description: Découvrir les méthodes agiles
+icon: users
 image:
 objectives:
 - Comprendre les méthodes agiles

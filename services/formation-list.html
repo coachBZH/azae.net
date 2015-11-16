@@ -1,0 +1,17 @@
+---
+layout: default
+title: Formations
+---
+<div class="container">
+    <div class="row">
+        {% for formation in site.formations %}
+            <div class="col-md-4 text-center">
+                <div class="big-fa">
+                    <div><i class="fa fa-{{ formation.icon }}"></i></div>
+                    <h1>{{ formation.title }}</h1>
+                    <p>{{formation.description}}</p>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>

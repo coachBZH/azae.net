@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Introduction à Docker par la pratique
+description: Découvrir Docker et les container applicatifs en deux jours de pratiques
+icon: wrench
 image: docker-logo.png
 objectives:
 - Appréhender l'utilisation de Docker
