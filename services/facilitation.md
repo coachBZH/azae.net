@@ -7,57 +7,39 @@ permalink: /services/facilitation/
 # Introduction
 
 Nous animons des ateliers de 2H à plusieurs jours.
-À partir d'un problème de votre organisation, nous mettons en place un atelier ludique et créatif dans lequel l'itelligence collective du groupe se révèlera.
+Avec un objectif clair élaboré avec vous ou à partir d'un problème de votre organisation, nous mettons en place un atelier ludique et créatif dans lequel l'intelligence collective du groupe se révélera.
 
-Avec un objectif clair élaboré avec vous, dans un cadre rassurant et motivant nous vous garantissons un résultat sans précédent.
+L'atelier est souvent le déclencheur du mouvement, et nous vous proposons de vous [accompagner](/services/coaching) dans le temps pour transformer réellement votre organisation.
 
-L'atelier est souvant le déclancheur du mouvement, et nous vous proposons de vous accompagner dans le temps pour transformer réellement votre organisation. -> coaching
-
-
-L'organisation est souvent la même :
-
-- mise en place d'un petit groupe d'organisateur
-- préparation de l'événement (vision, logisque, communication, etc.)
-- facilitation de l'événement
-- cloture et partage des plan d'actions de chacun
-
+    L'organisation est souvent la même :
+    - mise en place d'un petit groupe d'organisateur
+    - préparation de l'événement (vision, logistique, communication, etc.)
+    - facilitation de l'événement
+    - clôture et partage des plans d'actions de chacun
 
 # Nos outils
 
-## Atelier ludique / serious games (légos, kapla, jeux divers, ...)
+## Serious Game
 
-Animation d'atelier ludique pour focaliser l'ensemble du groupe, révéler des tallents, déclancher un changement, faire émerger l'innovation, etc.
+Nous animons des serious games (ateliers ludiques en français) pour focaliser l'ensemble du groupe, révéler des talents, déclencher un changement, faire émerger l'innovation et la créativité, etc.
 
-Collaboration et animation d'atelier de créativité, de révélation d'intelligence collective.
+Nous utilisons régulièrement des légos, des kaplas, des ballons, des ciseaux, des feutres et du papier ainsi que d'autres jeux divers comme support de nos ateliers.
 
-Pourquoi ça marche ?
+    Pourquoi ça marche ?
+    - nous aimons tous jouer,
+    - les simulations ludiques permettent des apprentissages riches et pérennes, en se détachant de nos     mauvaises habitudes, sans contraintes techniques et en toute autonomie, chacun va pouvoir apprendre.
 
-- Nous aimons tous jouer,
-- Les simulations ludique permettent des apprentissages riches et pérennes, en se détachant de nos mauvaises habitudes, sans contraintes technique et en toute autonomie, chacun va pouvoir apprendre, même les plus conservateurs.
-- Sérious game avec des légo, des kaplas, des ballons, des ciseaux, des feutres et du papier.
+## Intelligence collective
 
-Chaque atelier respecte les 3 étapes :
-
-- Ouverture : partage des objectifs
-- Exploration
-- Cloture : retours sur les objectifs et partage du plan d'action
-
-## Intelligence collective (open space, world café, rétrospective, ...)
-
-Openspace, world café, pro action café, rétrospectives, speed boat ...
-
+Les outils d'intelligence collective sont notre spécialité. Au vert pendant trois jours ou une demi-journée dans vos locaux, nous facilitons régulièrement des openspaces (forum ouvert en français), world café, pro action café, rétrospectives, speed boat, ...
 
 # Exemples
 
 Exemple de différents thèmes déjà abordé durant ces séminaires :
 
-- Faire découvrir et comprendre l'agilité ?
-- Comprendre les conteneurs applicatifs et leur implication dans l'organisation de l'entreprise
+- Co-créer une nouvelle organisation d'entreprise pour une entrée en bourse
+- Découvrir et comprendre l'agilité
+- Découvrir et comprendre l'entreprise libérée
 - Quel sera notre métier dans 10 ans ?
-- Comment fare mieux, plus vite et moins chère en préservant notre qualité de vie ?
-
-# mots clés 
-* intelligence collective
-* co-création
-* création
-* innovation
+- Faire émerger un modèle économique
+- Appréhender un nouveau sujet technique et son implication dans l'organisation de l'entreprise
