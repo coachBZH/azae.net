@@ -174,7 +174,7 @@ body {
 }
 
 .formation {
-  background-color: #eee;
+  background-color: #eeeeec;
   padding: 1em;
   height: 300px;
 }
@@ -188,11 +188,7 @@ body {
   background-color: #204a87;
 }
 
-.label-niveau1 {
-  background-color: #4e9a06;
+.label-level {
+  background-color: #5c3566;
 }
 
-.label-niveau2 {
-  color: #4e9a06;
-  background-color: #babdb6;
-}
