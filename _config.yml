@@ -16,8 +16,3 @@ paginate_path: "/blog/page:num/"
 
 
 baseline: "Catalyseur d'agilité"
-
-
-collections:
-  formations:
-    permalink: /services/formations/:path/

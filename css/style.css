@@ -114,6 +114,10 @@ body {
   margin-top: 20px;
 }
 
+.spacer-40 {
+  margin-top: 40px;
+}
+
 #l-main article {
   background: white;
   padding-right: 3rem;
@@ -167,4 +171,20 @@ body {
   font-size: 50px;
   text-align: center;
   color: #848484;
+}
+
+.formation {
+  background-color: #eee;
+  padding: 1em;
+  height: 300px;
+}
+
+.formation a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.formation i {
+  font-size: 50px;
+  vertical-align: middle;
 }

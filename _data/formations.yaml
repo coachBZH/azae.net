@@ -1,0 +1,28 @@
+
+- title: Introduction aux méthodes agiles
+  description: Découvrir les méthodes agiles
+  icon: users
+
+- title: Devops
+  description: Comprendre la philosophie Devops
+  icon: users
+
+- title: Introduction à Docker par la pratique
+  description: Découvrir Docker et les container applicatifs en deux jours de pratiques
+  icon: wrench
+
+- title: Software caftmanship
+  description: S'initier au Software caftmanship
+  icon: wrench
+
+- title: Intelligence Collective
+  description: Découvrir les outils de l'intelligence collective et les mettre ene oeuvre
+  icon: users
+
+
+#- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
+#- Devops
+#- Software caftmanship (TDD, BDD, refactoring, etc.)
+#- Technique (Docker, Java, Go, Puppet)
+#- L'intelligence collective
+#- Lean startup
