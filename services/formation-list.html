@@ -5,12 +5,16 @@ title: Formations
 <div class="container">
     <div class="row">
         {% for formation in site.data.formations %}
-            {% assign col = forloop.index | modulo: 4 %}
-            <div class="col-md-3 text-center">
+            {% assign col = forloop.index | modulo: 3 %}
+            <div class="col-md-4 ">
                 <div class="formation">
-                    <div><i class="fa fa-{{ formation.icon }}"></i></div>
-                    <h1>{{ formation.title }}</h1>
-                    <p>{{formation.description}}</p>
+                    <div class="label label-technique"><i class="fa fa-{{ formation.icon }}"></i> Technique</div>
+                    <div class="label label-niveau1"><i class="fa fa-{{ formation.icon }}"></i> Débutant</div>
+                    <div class="label label-niveau2"><i class="fa fa-{{ formation.icon }}"></i> Confirmé</div>
+                    <div class="text-center">
+                      <h1>{{ formation.title }}</h1>
+                      <p>{{formation.description}}</p>
+                    </div>
                 </div>
             </div>
             {% if col == 0 %}

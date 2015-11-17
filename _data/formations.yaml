@@ -11,14 +11,17 @@
   description: Découvrir Docker et les container applicatifs en deux jours de pratiques
   icon: wrench
 
-- title: Software caftmanship
-  description: S'initier au Software caftmanship
+- title: Software craftmanship
+  description: S'initier au Software craftmanship
   icon: wrench
 
 - title: Intelligence Collective
   description: Découvrir les outils de l'intelligence collective et les mettre ene oeuvre
   icon: users
 
+- title: Git par la pratique
+  description: 4h pour découvrir git et ses secrets
+  icon: wrench
 
 #- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
 #- Devops
