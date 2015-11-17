@@ -34,8 +34,8 @@ catalog:
   category: technical
   level: beginers
 
-- title: Software caftmanship
-  description: S'initier au Software caftmanship
+- title: Software craftmanship
+  description: S'initier au Software craftmanship
   category: technical
   level: advanced
 
@@ -44,6 +44,9 @@ catalog:
   category: methods
   level: beginers
 
+- title: Git par la pratique
+  description: 4h pour découvrir git et ses secrets
+  icon: wrench
 
 #- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
 #- Devops
