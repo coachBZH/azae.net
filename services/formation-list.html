@@ -4,8 +4,11 @@ title: Formations
 ---
 <div class="container">
     <div class="row">
-        {% for formation in site.data.formations %}
+        {% assign categories = site.data.formations.categories %}
+        {% assign levels = site.data.formations.levels %}
+        {% for formation in site.data.formations.catalog %}
             {% assign col = forloop.index | modulo: 4 %}
+            {% assign category = categories[formation.category] %}
             <div class="col-md-3 text-center">
                 <div class="formation">
                     <div><i class="fa fa-{{ formation.icon }}"></i></div>

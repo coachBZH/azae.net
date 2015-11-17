@@ -1,23 +1,48 @@
 
+categories:
+  technical:
+    icon: wrench
+    label: Technique
+  methods:
+    icon: users
+    label: Méthodes
+
+levels:
+  beginers:
+    icon:
+    label: Débutants
+  advanced:
+    icon:
+    label: Confirmés
+  experts:
+    icon:
+    label: Experts
+
+catalog:
 - title: Introduction aux méthodes agiles
   description: Découvrir les méthodes agiles
-  icon: users
+  category: methods
+  level: beginers
 
 - title: Devops
   description: Comprendre la philosophie Devops
-  icon: users
+  category: methods
+  level: advanced
 
 - title: Introduction à Docker par la pratique
   description: Découvrir Docker et les container applicatifs en deux jours de pratiques
-  icon: wrench
+  category: technical
+  level: beginers
 
 - title: Software caftmanship
   description: S'initier au Software caftmanship
-  icon: wrench
+  category: technical
+  level: advanced
 
 - title: Intelligence Collective
   description: Découvrir les outils de l'intelligence collective et les mettre ene oeuvre
-  icon: users
+  category: methods
+  level: beginers
 
 
 #- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
