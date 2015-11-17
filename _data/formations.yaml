@@ -9,14 +9,13 @@ categories:
 
 levels:
   beginers:
-    icon:
+    icon: star-o
     label: Débutants
+    class: label-niveau1
   advanced:
-    icon:
+    icon: star
     label: Confirmés
-  experts:
-    icon:
-    label: Experts
+    class: label-niveau2
 
 catalog:
 - title: Introduction aux méthodes agiles
@@ -46,7 +45,8 @@ catalog:
 
 - title: Git par la pratique
   description: 4h pour découvrir git et ses secrets
-  icon: wrench
+  category: technical
+  level: advanced
 
 #- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
 #- Devops

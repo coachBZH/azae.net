@@ -9,11 +9,11 @@ title: Formations
         {% for formation in site.data.formations.catalog %}
             {% assign col = forloop.index | modulo: 3 %}
             {% assign category = categories[formation.category] %}
+            {% assign level = levels[formation.level] %}
             <div class="col-md-4">
                 <div class="formation">
-                    <div class="label label-technique"><i class="fa fa-{{ category.icon }}"></i> Technique</div>
-                    <div class="label label-niveau1"><i class="fa fa-{{ category.icon }}"></i> Débutant</div>
-                    <div class="label label-niveau2"><i class="fa fa-{{ category.icon }}"></i> Confirmé</div>
+                    <div class="label label-category"><i class="fa fa-{{ category.icon }}"></i> {{ category.label }}</div>
+                    <div class="label {{ level.class }}"><i class="fa fa-{{ level.icon }}"></i> {{ level.label }}</div>
                     <div class="text-center">
                       <h1>{{ formation.title }}</h1>
                       <p>{{formation.description}}</p>
