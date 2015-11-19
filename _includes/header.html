@@ -16,7 +16,7 @@
         {% assign current = page.url | downcase | split: '/' %}
         <ul class="nav navbar-nav">
           <li {% if current[1] == 'devops' %}class='active'{% endif %}><a href='/devops/'>Devops</a></li>
-          <li {% if current[1] == 'apropos' %}class='active'{% endif %}><a href='/apropos/'>À propos</a></li>
+          <li {% if current[1] == 'about' %}class='active'{% endif %}><a href='/about/'>À propos</a></li>
           <li><a href='http://deliverous.com'>Deliverous</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
