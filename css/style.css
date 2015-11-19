@@ -176,7 +176,10 @@ body {
 .formation {
   background-color: #eeeeec;
   padding: 1em;
-  height: 300px;
+}
+
+.fixed-300 {
+  height: 150px;
 }
 
 .formation a {

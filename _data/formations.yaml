@@ -1,56 +1,48 @@
 
-categories:
+tags:
   technical:
     icon: wrench
     label: Technique
+    class: label-category
+
   methods:
     icon: users
     label: Méthodes
+    class: label-category
 
-levels:
   beginers:
     icon: star-o
     label: Débutants
-    class: label-niveau1
+    class: label-level
+
   advanced:
     icon: star
     label: Confirmés
-    class: label-niveau2
+    class: label-level
+
 
 catalog:
 - title: Introduction aux méthodes agiles
-  description: Découvrir les méthodes agiles
-  category: methods
-  level: beginers
+  description: "Découvrir les méthodes agiles et en expérimenter des pratiques"
+  tags: [methods, beginers]
 
 - title: Devops
-  description: Comprendre la philosophie Devops
-  category: methods
-  level: advanced
+  description: "Comprendre la philosophie Devops et son implication dans une organisation"
+  tags: [methods, advanced]
 
 - title: Introduction à Docker par la pratique
-  description: Découvrir Docker et les container applicatifs en deux jours de pratiques
-  category: technical
-  level: beginers
+  description: "Découvrir Docker et les container applicatifs en deux jours de pratiques"
+  tags: [technical, beginers]
 
 - title: Software craftmanship
-  description: S'initier au Software craftmanship
-  category: technical
-  level: advanced
+  description: "S'initier au Software craftmanship"
+  tags: [technical, advanced]
 
 - title: Intelligence Collective
-  description: Découvrir les outils de l'intelligence collective et les mettre ene oeuvre
-  category: methods
-  level: beginers
+  description: "Découvrir les outils de l'intelligence collective et les mettre en oeuvre"
+  tags: [methods, beginers]
 
 - title: Git par la pratique
-  description: 4h pour découvrir git et ses secrets
-  category: technical
-  level: advanced
+  description: "4h pour découvrir git et ses secrets"
+  tags: [technical, advanced]
 
-#- Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)
-#- Devops
-#- Software caftmanship (TDD, BDD, refactoring, etc.)
-#- Technique (Docker, Java, Go, Puppet)
-#- L'intelligence collective
-#- Lean startup
