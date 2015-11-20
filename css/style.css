@@ -62,6 +62,23 @@
   vertical-align: middle;
 }
 
+.team i{
+  background-color: #eeeeec;
+  font-size: 25px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 42px;
+  margin: 2px;
+  vertical-align: middle;
+}
+
+.team a {
+  color: inherit;
+  text-decoration: none;
+}
+
 @font-face {
   font-family: "Linux Biolinum";
   src: url('/fonts/LinBiolinum_R.woff') format('woff');
@@ -120,6 +137,10 @@ body {
   margin-top: 40px;
 }
 
+.spacer-80 {
+  margin-top: 80px;
+}
+
 #l-main article {
   background: white;
   padding-right: 3rem;
@@ -158,7 +179,7 @@ body {
   clear: both;
 }
 #l-main article .excerpt {
-  font-size: 2rem;
+  font-size: 2em;
   letter-spacing: 0.2px;
   font-family: Georgia;
   text-align: justify;
@@ -197,3 +218,10 @@ body {
   background-color: #5c3566;
 }
 
+.partenaire-img {
+}
+
+.partenaire-img img {
+  width: 120px;
+  margin: 10px;
+}
