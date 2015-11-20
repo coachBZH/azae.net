@@ -16,3 +16,8 @@ paginate_path: "/blog/page:num/"
 
 
 baseline: "Catalyseur d'agilité"
+
+collections:
+  cards:
+    output: true
+    permalink: /cards/:path/

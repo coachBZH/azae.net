@@ -45,6 +45,7 @@
   margin: 10px 15px;
   vertical-align: middle;
 }
+
 .footer a{
 	color: #eeeeec;
 }
@@ -174,13 +175,13 @@ body {
   color: #848484;
 }
 
+.fixed-300 {
+  height: 150px;
+}
+
 .formation {
   background-color: #eeeeec;
   padding: 1em;
-}
-
-.fixed-300 {
-  height: 150px;
 }
 
 .formation a {
