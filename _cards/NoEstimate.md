@@ -11,7 +11,4 @@ D'autre part, l'activité d'estimation ne rentre pas en ligne de compte dans la 
 
 Source: Lean Kanban France 2015, Vasco Duarte, No estimates : how you can predict the release date of your project wuthout estimating
 
-
 ~PopCornFlow
-
-polop
