@@ -81,19 +81,19 @@
 
 @font-face {
   font-family: "Linux Biolinum";
-  src: url('/fonts/LinBiolinum_R.woff') format('woff');
+  src: url('/assets/fonts/LinBiolinum_R.woff') format('woff');
 }
 
 @font-face {
   font-family: "Linux Biolinum";
   font-style: italic;
-  src: url('/fonts/LinBiolinum_RI.woff') format('woff');
+  src: url('/assets/fonts/LinBiolinum_RI.woff') format('woff');
 }
 
 @font-face {
   font-family: "Linux Biolinum";
   font-weight: bold;
-  src: url('/fonts/LinBiolinum_RB.woff') format('woff');
+  src: url('/assets/fonts/LinBiolinum_RB.woff') format('woff');
 }
 
 body {
