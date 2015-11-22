@@ -1,0 +1,60 @@
+---
+layout: default
+title: Formations
+permalink: /services/formation/
+---
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Formations</h1>
+        <p>Toutes nos formations sont adaptables à vos besoins propres. N’hésitez pas à nous contacter.</p>
+    </div>
+</div>
+
+<div class="spacer-40"></div>
+
+<div class="row">
+    {% assign tags = site.data.formations.tags %}
+    {% for formation in site.data.formations.catalog %}
+        {% assign col = forloop.index | modulo: 3 %}
+        <div class="col-md-4">
+            <div class="formation">
+                {% for tag_name in formation.tags %}
+                    {% assign tag = tags[tag_name] %}
+                    <div class="label {{tag.class}}">
+                        <i class="fa fa-{{ tag.icon }}"></i>
+                        {{ tag.label }}
+                    </div>
+                {% endfor %}
+                <div class="text-center fixed-300">
+                    <h2>{{ formation.title }}</h2>
+                    <p>{{formation.description}}</p>
+                </div>
+                <div class="text-center">
+                    <a class="btn btn-primary" href="mailto:contact@azae.net">Contactez-nous</a>
+                </div>
+            </div>
+        </div>
+        {% if col == 0 %}
+            </div>
+            <div class="spacer-40"></div>
+            <div class="row">
+        {% endif %}
+    {% endfor %}
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <p>Si vous ne trouvez pas la formation qui vous convient, sachez que nous pouvons réaliser n’importe quelle formation autour des domaines suivants</p>
+        <ul>
+            <li>Les méthodes agiles (Scrum, kanban, eXtrem Programming, Lean, etc.)</li>
+            <li>Devops</li>
+            <li>Software caftmanship (TDD, BDD, refactoring, etc.)</li>
+            <li>Technique (Docker, Java, Go, Puppet)</li>
+            <li>L’intelligence collective</li>
+            <li>Lean startup</li>
+        </ul>
+
+        <p><i>Déclaration d’activité de formation enregistrée sous le numéro 31&nbsp;59&nbsp;08320&nbsp;59 auprès du préfet de région de Nord-Pas de Calais.</i></p>
+    </div>
+</div>
