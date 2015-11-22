@@ -28,7 +28,7 @@ catalog:
 
 - title: Devops
   description: "Comprendre la philosophie Devops et son implication dans une organisation"
-  tags: [methods, advanced]
+  tags: [methods, beginers]
 
 - title: Introduction à Docker par la pratique
   description: "Découvrir Docker et les container applicatifs en deux jours de pratiques"
@@ -36,7 +36,7 @@ catalog:
 
 - title: Software craftmanship
   description: "S'initier au Software craftmanship"
-  tags: [technical, advanced]
+  tags: [technical, beginers]
 
 - title: Intelligence Collective
   description: "Découvrir les outils de l'intelligence collective et les mettre en oeuvre"
@@ -44,5 +44,5 @@ catalog:
 
 - title: Git par la pratique
   description: "4h pour découvrir git et ses secrets"
-  tags: [technical, advanced]
+  tags: [technical, beginers]
 
