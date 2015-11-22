@@ -15,11 +15,11 @@ permalink: /services/training/
 
 <div class="row">
     {% assign tags = site.data.formations.tags %}
-    {% for formation in site.data.formations.catalog %}
+    {% for training in site.data.formations.catalog %}
         {% assign col = forloop.index | modulo: 3 %}
         <div class="col-md-4">
-            <div class="formation">
-                {% for tag_name in formation.tags %}
+            <div class="training">
+                {% for tag_name in training.tags %}
                     {% assign tag = tags[tag_name] %}
                     <div class="label {{tag.class}}">
                         <i class="fa fa-{{ tag.icon }}"></i>
@@ -27,8 +27,8 @@ permalink: /services/training/
                     </div>
                 {% endfor %}
                 <div class="text-center fixed-300">
-                    <h2>{{ formation.title }}</h2>
-                    <p>{{formation.description}}</p>
+                    <h2>{{ training.title }}</h2>
+                    <p>{{training.description}}</p>
                 </div>
                 <div class="text-center">
                     <a class="btn btn-primary" href="mailto:contact@azae.net">Contactez-nous</a>
