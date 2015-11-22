@@ -24,3 +24,8 @@ defaults:
   values:
     permalink: /articles/:title
     layout: post
+
+exclude:
+- README.md
+- Dockerfile
+- Gemfile
