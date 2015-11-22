@@ -11,10 +11,16 @@ github_username:  azae
 # Build settings
 markdown: kramdown
 
-paginate: 3
-paginate_path: "/blog/page:num/"
-
 baseline: "Catalyseur d'agilité"
 
 gems:
 - jekyll-paginate
+
+
+defaults:
+- scope:
+   path: "articles"
+   type: "posts"
+  values:
+    permalink: /articles/:title
+    layout: post
