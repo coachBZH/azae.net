@@ -227,6 +227,11 @@ body {
   line-height: 100px;
   display: inline-block;
   background-color: white;
+  border: 1px solid white;
+}
+
+.partenaire-logo:hover {
+  border: 1px solid #eee;
 }
 
 .partenaire-logo img {
