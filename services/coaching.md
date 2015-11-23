@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: services
 title: Coaching
 permalink: /services/coaching/
 ---
-
-
-# Coaching
 
 Nous mettons notre expérience et notre expertise pour révéler les talents de vos collaborateurs. Nous valorisons le principe et l'efficacité d'une organisation apprenante. Dans le cadre de nos interventions au sein de vos équipes, nous varions notre posture entre le coaching, le mentorat et le conseil en fonction de vos besoins.
 
