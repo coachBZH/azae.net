@@ -1,9 +1,14 @@
 # Site settings
 title: Azaé
 baseline: Catalyseur d'agilité
-email: contact@azae.net
-baseurl: ""
+
 url: "http://azae.net"
+baseurl: ""
+
+contact:
+  email: contact@azae.net
+  phone: +33 3 66 72 80 22
+  address: "139 Rue des Arts, 59100 Roubaix"
 
 social:
 - link: https://github.com/azae
@@ -18,7 +23,6 @@ social:
   icon: socicon-viadeo
 
 
-# Build settings
 markdown: kramdown
 
 

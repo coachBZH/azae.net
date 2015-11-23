@@ -23,8 +23,7 @@ permalink: /contact/
       </div>
       <div class="col-xs-10">
         Azaé<br>
-        139 rue des arts<br>
-        59100 Roubaix
+        {{site.contact.address}}
       </div>
     </div>
   </div>
@@ -32,13 +31,13 @@ permalink: /contact/
     <h2 class='color-sky-blue'>Téléphone</h2>
     <p>
       <i class="fa fa-phone"></i>
-      +33 3 66 72 80 22
+      {{site.contact.phone}}
     </p>
   </div>
   <div class="col-md-4">
     <h2 class='color-orange'>Email</h2>
     <i class="fa fa-envelope"></i>
-    <a href='mailto:{{site.email}}'>{{site.email}}</a>
+    <a href='mailto:{{site.contact.email}}'>{{site.contact.email}}</a>
   </div>
 </div>
 <div class="row">
