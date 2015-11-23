@@ -141,55 +141,6 @@ body {
   margin-top: 80px;
 }
 
-#l-main article {
-  background: white;
-  padding-right: 3rem;
-  margin-top: 5rem;
-  box-shadow: 0 0 10px #999;
-  border-radius: 5px;
-}
-#l-main article .date {
-  text-align: center;
-  font-weight: bold;
-}
-#l-main article .day {
-  background-color: black;
-  color: white;
-  width: 5rem;
-  height: 5rem;
-  margin: 2rem auto 0.5rem auto;
-  font: normal normal bold 2.4rem/4.9rem "Verdana",sans-serif;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-}
-#l-main article .category {
-  font-style: italic;
-  font-family: comic sans ms, cursive;
-}
-#l-main article .title {
-  font: normal bold 4rem Georgia, serif;
-  margin-bottom: 0.4rem;
-  text-shadow: 2px 3px 0px #C1C1C1;
-}
-#l-main article .title a {
-  color: #333;
-}
-#l-main article hr {
-  clear: both;
-}
-#l-main article .excerpt {
-  font-size: 2em;
-  letter-spacing: 0.2px;
-  font-family: Georgia;
-  text-align: justify;
-}
-#l-main article .continue {
-  margin: 0 2rem 2rem;
-  float: right;
-  border-radius: 5px;
-}
-
 .icon {
   font-size: 50px;
   text-align: center;
