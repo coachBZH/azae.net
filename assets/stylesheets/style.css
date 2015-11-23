@@ -125,6 +125,12 @@ body {
   vertical-align: middle;
 }
 
+.fa-illustration {
+  line-height: 100px;
+  font-size: 100px;
+  vertical-align: middle;
+}
+
 .big-fa:hover {
   background-color: #ccc;
 }
