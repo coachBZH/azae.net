@@ -1,17 +1,16 @@
 # Site settings
 title: Azaé
+baseline: Catalyseur d'agilité
 email: contact@azae.net
-description: > # this means to ignore newlines until "baseurl:"
-  Spécialiste devops, coaching agile
 baseurl: ""
 url: "http://azae.net"
 twitter_username: azae_net
 github_username:  azae
 
+
 # Build settings
 markdown: kramdown
 
-baseline: "Catalyseur d'agilité"
 
 gems:
 - jekyll-paginate
