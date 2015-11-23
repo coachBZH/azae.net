@@ -4,8 +4,18 @@ baseline: Catalyseur d'agilité
 email: contact@azae.net
 baseurl: ""
 url: "http://azae.net"
-twitter_username: azae_net
-github_username:  azae
+
+social:
+- link: https://github.com/azae
+  icon: fa-github
+- link: https://google.com/+AzaeNet
+  icon: fa-google
+- link: http://twitter.com/azae_net
+  icon: fa-twitter
+- link: http://www.linkedin.com/company/aza-
+  icon: fa-linkedin
+- link: http://www.viadeo.com/fr/company/azae
+  icon: socicon-viadeo
 
 
 # Build settings
@@ -18,11 +28,12 @@ gems:
 
 defaults:
 - scope:
-   path: "articles"
-   type: "posts"
+    path: "articles"
+    type: "posts"
   values:
     permalink: /articles/:title
     layout: post
+
 
 exclude:
 - README.md

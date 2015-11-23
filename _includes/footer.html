@@ -26,11 +26,9 @@
           Azaé est une SARL au capital de 600€ enregistré au registre du commerce et des sociétés de Lille Métropole sous le numéro :
           531&nbsp;735&nbsp;108.
           <div class="text-center">
-            <a href='https://google.com/+AzaeNet'><i class="fa fa-google"></i></a>
-            <a href='https://github.com/azae'><i class="fa fa-github"></i></a>
-            <a href='http://twitter.com/azae_net'><i class="fa fa-twitter"></i></a>
-            <a href='http://www.linkedin.com/company/aza-'><i class="fa fa-linkedin"></i></a>
-            <a href='http://www.viadeo.com/fr/company/azae'><i class="fa socicon-viadeo"></i></a>
+            {% for social in site.social %}
+              <a href='{{social.link}}'><i class="fa {{social.icon}}"></i></a>
+            {% endfor %}
           </div>
         </div>
       </div>

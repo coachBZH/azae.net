@@ -20,11 +20,9 @@
           <li><a href='http://deliverous.com'>Deliverous</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-          <li><a href='https://google.com/+AzaeNet'><i class="fa fa-google"></i></a></li>
-          <li><a href='https://github.com/azae'><i class="fa fa-github"></i></a></li>
-          <li><a href='http://twitter.com/azae_net'><i class="fa fa-twitter"></i></a></li>
-          <li><a href='http://www.linkedin.com/company/aza-'><i class="fa fa-linkedin"></i></a></li>
-          <li><a href='http://www.viadeo.com/fr/company/azae'><i class="fa socicon-viadeo"></i></a></li>
+          {% for social in site.social %}
+            <li><a href='{{social.link}}'><i class="fa {{social.icon}}"></i></a></li>
+          {% endfor %}
           <li><a href='/contact/'><i class="fa fa-envelope"></i> Contact</a></li>
         </ul>
       </div>
