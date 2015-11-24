@@ -20,8 +20,8 @@
           <li><a href='http://deliverous.com'>Deliverous</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-          {% for social in site.social %}
-            <li><a href='{{social.link}}'><i class="fa {{social.icon}}"></i></a></li>
+          {% for link in site.social %}
+            <li><a href='{{link.url}}'><i class="fa {{link.icon}}"></i></a></li>
           {% endfor %}
           <li><a href='/contact/'><i class="fa fa-envelope"></i> Contact</a></li>
         </ul>

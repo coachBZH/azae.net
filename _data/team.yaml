@@ -1,0 +1,33 @@
+- name: Thomas Clavier
+  photo: /assets/images/thomas.clavier.jpg
+  social:
+  - url: https://github.com/tclavier
+    icon: fa-github
+  - url: http://plus.google.com/+ThomasClavier
+    icon: fa-google-plus
+  - url: https://twitter.com/thomasclavier
+    icon: fa-twitter
+  - url: http://fr.linkedin.com/in/thomasclavier
+    icon: fa-linkedin
+  - url: http://fr.viadeo.com/fr/profile/thomas.clavier
+    icon: socicon-viadeo
+  bio: >
+    Je suis coach agile, enseignant à l'université de Lille 1 et co-fondateur de deliverous,
+    mes sujets de prédilection sont l'agilité, devops, docker, le lean startup et l'artisanat
+    logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
+    les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
+
+- name: Olivier Albiez
+  photo: /assets/images/olivier.albiez.jpg
+  social:
+  - url: https://github.com/oalbiez
+    icon: fa-github
+  - url: https://twitter.com/thomasclavier
+    icon: fa-twitter
+  - url: https://twitter.com/OlivierAlbiez
+    icon: fa-linkedin
+  bio: >
+    Je suis artisant logiciel et coach agile, passionné des méthodes de travail et de
+    l'auto-organisation dans les entreprises. Curieux par nature, je suis toujours à la
+    recherche de ce qui peut améliorer le travail collectif d'une organisation. Je suis
+    récemment co-fondateur de deliverous.

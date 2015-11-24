@@ -11,15 +11,15 @@ contact:
   address: "139 Rue des Arts, 59100 Roubaix"
 
 social:
-- link: https://github.com/azae
+- url: https://github.com/azae
   icon: fa-github
-- link: https://google.com/+AzaeNet
+- url: https://google.com/+AzaeNet
   icon: fa-google
-- link: http://twitter.com/azae_net
+- url: http://twitter.com/azae_net
   icon: fa-twitter
-- link: http://www.linkedin.com/company/aza-
+- url: http://www.linkedin.com/company/aza-
   icon: fa-linkedin
-- link: http://www.viadeo.com/fr/company/azae
+- url: http://www.viadeo.com/fr/company/azae
   icon: socicon-viadeo
 
 
