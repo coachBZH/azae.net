@@ -15,14 +15,15 @@
       <div class="collapse navbar-collapse" id="main-navbar-collapse">
         {% assign current = page.url | downcase | split: '/' %}
         <ul class="nav navbar-nav">
+          <li {% if current[2] == 'coaching' %}class='active'{% endif %}><a href='/services/coaching/'>Coaching</a></li>
+          <li {% if current[2] == 'facilitation' %}class='active'{% endif %}><a href='/services/facilitation/'>Facilitation</a></li>
+          <li {% if current[2] == 'training' %}class='active'{% endif %}><a href='/services/training/'>Formation</a></li>
+          <li {% if current[2] == 'consulting' %}class='active'{% endif %}><a href='/services/consulting/'>Conseil</a></li>
           <li {% if current[1] == 'about' %}class='active'{% endif %}><a href='/about/'>À propos</a></li>
           <li {% if current[1] == 'devops' %}class='active'{% endif %}><a href='/devops/'>Devops</a></li>
           <li><a href='http://deliverous.com'>Deliverous</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
-          {% for link in site.social %}
-            <li><a href='{{link.url}}'><i class="fa {{link.icon}}"></i></a></li>
-          {% endfor %}
           <li><a href='/contact/'><i class="fa fa-envelope"></i> Contact</a></li>
         </ul>
       </div>

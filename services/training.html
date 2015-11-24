@@ -24,13 +24,13 @@ permalink: /services/training/
 {% for training in site.data.trainings %}
     {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-md-4">
-            <div class="text-center ">
-                <h3>{{ training.title }}</h3>
-                <p>{{training.description}}</p>
-            </div>
-            <div class="text-center">
-                <a class="btn btn-primary" href="mailto:{{site.contact.email}}">Contactez-nous</a>
-            </div>
+                <div class="text-center ">
+                    <h3 class="color-chameleon">{{ training.title }}</h3>
+                    <p>{{training.description}}</p>
+                </div>
+                <div class="text-center">
+                    <a class="btn btn-primary" href="mailto:{{site.contact.email}}">Contactez-nous</a>
+                </div>
         </div>
     {% cycle 'end row' : nil, nil, '</div>' %}
 {% endfor %}
