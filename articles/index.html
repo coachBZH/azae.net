@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Cards
+layout: services
+title: Articles
 ---
-<h1>Articles</h1>
 {% for post in site.categories.articles | sort: 'title' %}
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
         <div class="col-md-3">
