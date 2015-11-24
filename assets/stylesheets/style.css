@@ -157,20 +157,6 @@ body {
   height: 150px;
 }
 
-.training {
-  border-radius: 6px;
-  padding: 1em;
-}
-
-.training-tag {
-  margin: 3px;
-}
-
-.training a {
-  color: inherit;
-  text-decoration: none;
-}
-
 .label-category {
   background-color: #204a87;
 }
