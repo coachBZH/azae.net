@@ -1,0 +1,25 @@
+
+- title: Introduction aux méthodes agiles
+  description: "Découvrir les méthodes agiles et en expérimenter des pratiques"
+  tags: [methods, beginers]
+
+- title: Devops
+  description: "Comprendre la philosophie Devops et son implication dans une organisation"
+  tags: [methods, beginers]
+
+- title: Introduction à Docker par la pratique
+  description: "Découvrir Docker et les container applicatifs en deux jours de pratiques"
+  tags: [technical, beginers]
+
+- title: Software craftmanship
+  description: "S'initier aux bonnes pratiques de l'artisanat logiciel"
+  tags: [technical, beginers]
+
+- title: Intelligence Collective
+  description: "Découvrir les outils de l'intelligence collective et apprendre à les mettre en œuvre"
+  tags: [methods, beginers]
+
+- title: Git par la pratique
+  description: "4h pour découvrir git et ses secrets"
+  tags: [technical, beginers]
+
