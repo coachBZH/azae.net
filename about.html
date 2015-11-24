@@ -92,10 +92,18 @@ permalink: /about/
     </div>
   </div>
 {% endfor %}
-<!--
+
 <div class='row spacer-20'>
   <div class='col-md-12 text-center'>
     <h1 class="color-chameleon">Nos amis</h1>
+    {% for partner in site.data.partners %}
+      <div class="partenaire-logo">
+        <a href='{{partner.link}}'>
+          <img src="{{partner.logo}}" alt="Logo {{partner.name}}">
+          <div class="text-center">{{partner.name}}</div>
+        </a>
+      </div>
+    {% endfor %}
   </div>
 </div>
--->
+
