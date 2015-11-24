@@ -1,26 +1,4 @@
 
-tags:
-  technical:
-    icon: wrench
-    label: Technique
-    class: label-category
-
-  methods:
-    icon: users
-    label: Méthodes
-    class: label-category
-
-  beginers:
-    icon: star-o
-    label: Débutants
-    class: label-level
-
-  advanced:
-    icon: star
-    label: Confirmés
-    class: label-level
-
-
 catalog:
 - title: Introduction aux méthodes agiles
   description: "Découvrir les méthodes agiles et en expérimenter des pratiques"
@@ -35,11 +13,11 @@ catalog:
   tags: [technical, beginers]
 
 - title: Software craftmanship
-  description: "S'initier au Software craftmanship"
+  description: "S'initier aux bonnes pratiques de l'artisanat logiciel"
   tags: [technical, beginers]
 
 - title: Intelligence Collective
-  description: "Découvrir les outils de l'intelligence collective et les mettre en oeuvre"
+  description: "Découvrir les outils de l'intelligence collective et apprendre à les mettre en œuvre"
   tags: [methods, beginers]
 
 - title: Git par la pratique
