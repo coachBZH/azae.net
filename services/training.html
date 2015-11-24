@@ -28,15 +28,13 @@ permalink: /services/training/
     {% for training in site.data.formations.catalog %}
         {% assign col = forloop.index | modulo: 3 %}
         <div class="col-md-4">
-            <div class="training">
                 <div class="text-center ">
-                    <h3>{{ training.title }}</h3>
+                    <h3 class="color-chameleon">{{ training.title }}</h3>
                     <p>{{training.description}}</p>
                 </div>
                 <div class="text-center">
                     <a class="btn btn-primary" href="mailto:{{site.contact.email}}">Contactez-nous</a>
                 </div>
-            </div>
         </div>
         {% if col == 0 %}
             </div>
