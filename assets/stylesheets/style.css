@@ -158,8 +158,12 @@ body {
 }
 
 .training {
-  background-color: #eeeeec;
+  border-radius: 6px;
   padding: 1em;
+}
+
+.training-tag {
+  margin: 3px;
 }
 
 .training a {
@@ -203,3 +207,5 @@ body {
   text-decoration: none;
   color: inherit;
 }
+
+
