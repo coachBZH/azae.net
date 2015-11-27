@@ -1,5 +1,30 @@
 ---
 layout: default
+
+services:
+- name: Coaching
+  icon: fa-users
+  color: color-scarlet-red
+  url: /services/coaching/
+  description: Accompagnement dans la mise en place une démarche d'amélioration continue.
+
+- name: Facilitation
+  icon: fa-support
+  color: color-chameleon
+  url: /services/facilitation/
+  description: Animation de séminaire, facilitation d'atelier pour révéler l'intelligence collective de votre organisation.
+
+- name: Formations
+  icon: fa-graduation-cap
+  color: color-sky-blue
+  url: /services/training/
+  description: Organisme de formation agréé, nos formations peuvent être prises en charge.
+
+- name: Conseil
+  icon: fa-info
+  color: color-orange
+  url: /services/consulting/
+  description: Conseil en développement logiciel, expert en logiciel libre.
 ---
 <div class="text-center">
   <img alt="Brand" src="/assets/images/logo.png">
@@ -19,60 +44,19 @@ layout: default
   </div>
 </div>
 <div class="row">
+  {% for service in page.services %}
   <div class="col-md-3">
-    <div class="big-fa">
-      <a href="/services/coaching/">
-        <div class="color-scarlet-red text-center"><i class="fa fa-users"></i></div>
-        <h2 class="text-center">Coaching</h2>
-        <p class="text-center">
-          Accompagnement dans la mise en place une démarche d'amélioration continue.
-        </p>
+    <div class="service-block">
+      <a href="{{service.url}}">
+        <div class="text-center {{service.color}}"><i class="fa {{service.icon}}"></i></div>
+        <h2 class="text-center">{{service.name}}</h2>
+        <p class="text-center">{{service.description}}</p>
       </a>
     </div>
   </div>
-  <div class="col-md-3">
-    <div class="big-fa">
-      <a href="/services/facilitation/">
-        <div class="color-chameleon text-center"><i class="fa fa-support"></i></div>
-        <h2 class="text-center">Facilitation</h2>
-        <p class="text-center">
-          Animation de séminaire, facilitation d'atelier pour révéler l'intelligence collective de votre organisation.
-        </p>
-      </a>
-    </div>
-  </div>
-  <div class="col-md-3">
-    <div class="big-fa">
-      <a href="/services/training/">
-        <div class="color-sky-blue text-center"><i class="fa fa-graduation-cap"></i></div>
-        <h2 class="text-center">Formations</h2>
-        <p class="text-center">
-          Organisme de formation agréé, nos formations peuvent être prises en charge.
-        </p>
-      </a>
-    </div>
-  </div>
-  <div class="col-md-3">
-    <div class="big-fa">
-      <a href="/services/consulting/">
-        <div class="color-orange text-center"><i class="fa fa-info"></i></div>
-        <h2 class="text-center">Conseil</h2>
-        <p class="text-center">
-          Conseil en développement logiciel, expert en logiciel libre.
-        </p>
-      </a>
-    </div>
-  </div>
+  {% endfor %}
 </div>
-<div class="spacer-40"></div>
-<!--
-<div class="row">
-  <div class="col-md-8 col-md-offset-2 text-center">
-    <h1>Colportez</h1>
-  </div>
-</div>
--->
-<div class="row">
+<div class="row spacer-40">
   <div class="col-md-2 col-md-offset-1 text-center">
     <i class="fa fa-bullhorn fa-illustration"></i>
   </div>
