@@ -60,7 +60,7 @@ permalink: /about/
   </div>
   <div class='col-md-5'>
     {% for reference in site.data.ecosystem %}
-      <div class="partenaire-logo">
+      <div class="partner-logo">
         <a href='{{reference.link}}'>
           <img src="{{reference.logo}}" alt="Logo {{reference.name}}">
           <div class="text-center">{{reference.name}}</div>
@@ -82,7 +82,7 @@ permalink: /about/
     <div class='col-md-10'>
       <h2>
       {{member.name}}
-      <span class="team">
+      <span class="circled-icon">
         {% for link in member.social %}
           <a href='{{link.url}}'><i class='fa {{link.icon}}'></i></a>
         {% endfor %}
@@ -97,7 +97,7 @@ permalink: /about/
   <div class='col-md-12 text-center'>
     <h1 class="color-chameleon">Nos amis</h1>
     {% for partner in site.data.partners %}
-      <div class="partenaire-logo">
+      <div class="partner-logo">
         <a href='{{partner.link}}'>
           <img src="{{partner.logo}}" alt="Logo {{partner.name}}">
           <div class="text-center">{{partner.name}}</div>
