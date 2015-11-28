@@ -1,6 +1,7 @@
 ---
 title:  "Popcorn Flow"
 date:   2015-11-03 14:00:00
+author: Olivier Albiez
 ---
 
 Pour devenir une organisation apprenante, il y a plusieurs méthodes. Beaucoup passent par des rétrospectives. Claudio Perrone a mis au point une démarche pratique pour structurer cette démarche d'apprentissage qu'il a appelé popcorn flow.
