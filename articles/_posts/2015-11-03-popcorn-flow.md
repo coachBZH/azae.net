@@ -21,7 +21,7 @@ Ce kanban pourra être suivi au daily meeting et mis à jour lors des rétrospec
 
 ## Les points forts
 
-### [Real Options]
+### Real Options
 
 Le principe de trouver un maximum de solution différentes permet de libérer la créativité et évite d'approfondir la première idée qui apparaît. Ce n'est pas sans rappeler [Real Options] de [Pascal Van Cauwenberghe].
 
@@ -30,9 +30,7 @@ Le principe de trouver un maximum de solution différentes permet de libérer la
 
 L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a pour vocation de rapidement tester une option. D'autre part, parce qu'elle est limitée, elle suscite moins de résistance de la part des équipes. C'est un point crucial, surtout si on cherche des décisions à l'unanimité.
 
-<!--
-Une experience peut etre arrété, mais il est très dificile d'oublier ce que l'on a apprit. De ce point de vue, l'experience peut etre utiliser pour
--->
+[//]: # (Une experience peut etre arrété, mais il est très dificile d'oublier ce que l'on a apprit. De ce point de vue, l'experience peut etre utiliser pour)
 
 
 ### Le changement rendu visible
