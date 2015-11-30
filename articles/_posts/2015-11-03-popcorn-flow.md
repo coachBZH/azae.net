@@ -6,7 +6,7 @@ author: Olivier Albiez
 
 Pour devenir une organisation apprenante, il y a plusieurs méthodes. Beaucoup passent par des rétrospectives. [Claudio Perrone] a mis au point une démarche pratique pour structurer cette démarche d'apprentissage qu'il a appelé [Popcorn Flow].
 
-L'idée principale est que comme changer, c'est difficile, il faut le faire plus souvent. Pour cela, on va utiliser un kanban qui va piloter nos apprentissages / changements.
+L'idée principale est _"changer, c'est difficile, il faut donc le faire plus souvent"_. Pour cela, on va utiliser un kanban qui va piloter nos apprentissages / changements.
 
 - Problem
 - Options
@@ -28,12 +28,16 @@ Le principe de trouver un maximum de solution différentes permet de libérer la
 
 ### L'expérimentation comme vecteur du changement
 
-L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a pour vocation de rapidement tester une option. D'autre part, parce qu'elle est limitée, elle ne suscite pas autant de résistance de la part des équipes. C'est un point crucial, surtout si on cherche des décisions à l'unanimité.
+L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a pour vocation de rapidement tester une option. D'autre part, parce qu'elle est limitée, elle suscite moins de résistance de la part des équipes. C'est un point crucial, surtout si on cherche des décisions à l'unanimité.
+
+<!--
+Une experience peut etre arrété, mais il est très dificile d'oublier ce que l'on a apprit. De ce point de vue, l'experience peut etre utiliser pour
+-->
 
 
 ### Le changement rendu visible
 
-La colonne ongoing permet de voir le nombre de changement en cours dans l'équipe et est donc un indicateur visuel de ses apprentissages et améliorations.
+La colonne ongoing permet de voir le nombre de changements en cours et c'est donc un indicateur visuel des apprentissages et améliorations de l'équipe.
 
 
 ---
