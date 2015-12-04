@@ -5,14 +5,14 @@ layout: default
     <div class="page-header">
         <div class="row">
             <div class="col-md-2">
-                <img alt='{{ page.title }} illustration' src='/assets/images/articles/{{page.slug}}/illustration.jpg' height="150">
+                <img alt='{{ page.title }} illustration' src='{{page.illustration}}' height="150">
             </div>
             <div class="col-md-10">
                 <h1 class="post-title">{{ page.title }} <small>{{ page.subtitle }}</small></h1>
                 <p class="post-meta">
                     <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
-                    {% if page.author %}
-                    </p>
+                </p>
+                {% if page.author %}
                     <p class="post-meta">
                         <i class='fa fa-user'></i> {{ page.author }}
                     </p>
