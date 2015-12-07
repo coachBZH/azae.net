@@ -1,4 +1,5 @@
 ---
+layout: article
 title:  "Popcorn Flow"
 date:   2015-11-03 14:00:00
 author: Olivier Albiez
