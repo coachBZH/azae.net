@@ -5,11 +5,6 @@ baseline: Catalyseur d'agilité
 url: "http://azae.net"
 baseurl: ""
 
-contact:
-  email: contact@azae.net
-  phone: +33 3 66 72 80 22
-  address: "139 Rue des Arts, 59100 Roubaix"
-
 social:
 - url: https://github.com/azae
   icon: fa-github
