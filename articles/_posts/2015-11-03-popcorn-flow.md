@@ -1,8 +1,8 @@
 ---
-layout: article
 title:  "Popcorn Flow"
+authors:
+  - Olivier Albiez
 date:   2015-11-03 14:00:00
-author: Olivier Albiez
 illustration: /assets/images/articles/popcorn-flow/illustration.jpg
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: article
 title:  Une belle prairie ensoleillée
-tags: 
+authors:
+  - Thomas Clavier
+tags:
   - serious game
-authors: Thomas Clavier
 ---
 
 Voici un petit jeu rapide pour démontrer par l'exemple l'importance de la collaboration et la difficulté de décrire une pensée par écrit.
