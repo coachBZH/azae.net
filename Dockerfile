@@ -15,9 +15,9 @@ COPY Gemfile /site/
 COPY Gemfile.lock /site/
 RUN bundle install --system --quiet
 
+COPY _src/nginx_vhost.conf /etc/nginx/conf.d/azae.conf
+
 COPY . /site/
 RUN jekyll build --destination /var/www
 
-COPY _src/nginx_vhost.conf /etc/nginx/conf.d/azae.conf
 
-WORKDIR /var/www
