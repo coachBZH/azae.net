@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: with-title
 title: Conseil
 permalink: /services/consulting/
 ---
@@ -17,5 +17,5 @@ Notre spécialté, intégrer vos équipes et les faire grandire de l'intérieur 
 
 L'opensource est un vivier d'applications dans lequel il est difficile de se retrouver. Grace à notre expertise dans le domaine et notre intégration dans le réseau, nous saurons trouver et configurer le logiciel qu'il vous faut.
 
-Nous avons par exemple assemblé des briques libres pour construire un système d'information, une usine de déploiement continue ou un "cloud" privé. 
+Nous avons par exemple assemblé des briques libres pour construire un système d'information, une usine de déploiement continue ou un "cloud" privé.
 Nous avons aussi outillé des équipes dans une démarche devops.

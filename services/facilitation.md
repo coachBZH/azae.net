@@ -1,5 +1,5 @@
 ---
-layout: services
+layout: with-title
 title: Facilitation
 permalink: /services/facilitation/
 ---

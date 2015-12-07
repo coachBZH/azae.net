@@ -35,8 +35,8 @@ defaults:
     path: "articles"
     type: "posts"
   values:
-    permalink: /articles/:title
-    layout: post
+    permalink: /articles/:title.html
+    layout: article
 
 
 exclude:
