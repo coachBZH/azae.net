@@ -4,6 +4,7 @@ title:  Une belle prairie ensoleillée
 tags: 
   - serious game
 authors: Thomas Clavier
+published: false
 ---
 
 Voici un petit jeux rapide pour démontrer par l'exemple l'importance de la collaboration et la difficulté de décrire une pensée par écrit.
