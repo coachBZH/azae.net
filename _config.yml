@@ -1,16 +1,23 @@
 # Site settings
-title: Azaé
 baseline: Catalyseur d'agilité
+keywords:
+- Devops
+- Agile
+- Scrum
+- Formation
+- Linux
+- Opensource
+- Puppet
+- Chef
+- Architecture web
+- Cloud
+- Lille
+- Roubaix
+- Tourcoing
+- Villeneuve d'ascq
 
 url: "http://azae.net"
 baseurl: ""
-
-
-markdown: kramdown
-
-
-gems:
-- jekyll-paginate
 
 
 defaults:
@@ -20,6 +27,13 @@ defaults:
   values:
     permalink: /articles/:title.html
     layout: article
+
+
+markdown: kramdown
+
+
+gems:
+- jekyll-paginate
 
 
 exclude:
