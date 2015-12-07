@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Stratégies de branches"
-categories:
-toto: foo bar
 ---
 
 

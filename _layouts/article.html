@@ -14,11 +14,11 @@ layout: default
                 <p class="post-meta">
                     <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
                 </p>
-                {% if page.author %}
+                {% for author in page.authors %}
                     <p class="post-meta">
-                        <i class='fa fa-user'></i> {{ page.author }}
+                        <i class='fa fa-user'></i> {{ author }}
                     </p>
-                {% endif %}
+                {% endfor %}
             </div>
         </div>
     </div>
