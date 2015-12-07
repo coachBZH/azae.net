@@ -4,9 +4,11 @@ layout: default
 <div class="post">
     <div class="page-header">
         <div class="row">
+            {% if page.illustration %}
             <div class="col-md-2">
                 <img alt='{{ page.title }} illustration' src='{{page.illustration}}' height="150">
             </div>
+            {% endif %}
             <div class="col-md-10">
                 <h1 class="post-title">{{ page.title }} <small>{{ page.subtitle }}</small></h1>
                 <p class="post-meta">
