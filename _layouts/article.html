@@ -11,6 +11,14 @@ layout: default
             {% endif %}
             <div class="col-md-10">
                 <h1 class="post-title">{{ page.title }} <small>{{ page.subtitle }}</small></h1>
+                {% if page.tags.size > 0 %}
+                    <p >
+                        <i class="fa fa-tags"></i>
+                        {% for tag in page.tags %}
+                            <span class="label label-default">{{tag}}</span>
+                        {% endfor %}
+                    </p>
+                {% endif %}
                 <p class="post-meta">
                     <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
                 </p>

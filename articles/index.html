@@ -2,11 +2,18 @@
 layout: with-title
 title: Articles
 ---
-{% assign sorted_pages = (site.categories.articles | sort: 'title') %}
-{% for post in sorted_pages %}
+{% assign sorted_articles = (site.categories.articles | sort: 'title') %}
+{% for article in sorted_articles %}
     {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
         <div class="col-md-3">
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ article.url }}">{{ article.title }}</a>
+            {% if article.tags.size > 0 %}
+                <p class="small">
+                    {% for tag in article.tags %}
+                        <span class="label label-default">{{tag}}</span>
+                    {% endfor %}
+                </p>
+            {% endif %}
         </div>
     {% cycle 'end row' : nil, nil, nil, '</div>' %}
 {% endfor %}
