@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="post">
-    <div class="page-header">
-        <div class="row">
+    <div class="row">
+        <div class="page-header">
             {% if page.illustration %}
             <div class="col-md-2">
                 <img alt='{{ page.title }} illustration' src='{{page.illustration}}' height="150">
@@ -30,5 +30,15 @@ layout: default
             </div>
         </div>
     </div>
-    {{ content }}
+    <div class="row">
+      <div class="col-md-12">
+        {{ content }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-right">
+        <a class="btn btn-default" href="https://github.com/azae/azae.net/edit/master/{{ page.path}} ">Éditer</a>
+      </div>
+    </div>
+
 </div>
