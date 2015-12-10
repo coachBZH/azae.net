@@ -1,5 +1,4 @@
 ---
-layout: article
 title:  Une belle prairie ensoleillée
 authors:
   - Thomas Clavier
