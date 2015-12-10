@@ -1,0 +1,66 @@
+---
+layout: default
+title: Articles
+---
+<!--
+{% assign sorted_articles = (site.categories.articles | sort: 'title') %}
+{% for article in sorted_articles %}
+    {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
+        <div class="col-md-3">
+            <a href="{{ article.url }}">{{ article.title }}</a>
+            {% if article.tags.size > 0 %}
+                <p class="small">
+                    {% for tag in article.tags %}
+                        <span class="label label-default">{{tag}}</span>
+                    {% endfor %}
+                </p>
+            {% endif %}
+        </div>
+    {% cycle 'end row' : nil, nil, nil, '</div>' %}
+{% endfor %}
+{% cycle 'end row' : nil, '</div>', '</div>', '</div>' %}
+-->
+<div class="row">
+<div class="col-md-3">
+    <h1>Derniers articles</h1>
+</div>
+<div class="col-md-9 spacer-20">
+    <ul class="list-group article-list">
+        {% for article in site.categories.articles %}
+            <li class="list-group-item">
+                {% if article.tags.size > 0 %}
+                    <span class="pull-right">
+                        {% for tag in article.tags %}
+                            <span class="label label-default">{{tag}}</span>
+                        {% endfor %}
+                    </span>
+                {% endif %}
+                <a href="{{ article.url }}">
+                    <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
+                    {{ article.title }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+</div>
+{% for tag_map in site.tags %}
+{% assign tag = tag_map | first %}
+{% assign articles = tag_map | last %}
+<div class="row">
+    <div class="col-md-3">
+        <h1><div class="label-block label-default" >{{tag | downcase | replace:" ","-" }}</div></h1>
+    </div>
+    <div class="col-md-9 spacer-20">
+        <ul class="list-group article-list">
+            {% for article in articles %}
+                <li class="list-group-item">
+                    <a href="{{ article.url }}">
+                        <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
+                        {{ article.title }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>  </div>
+{% endfor %}
