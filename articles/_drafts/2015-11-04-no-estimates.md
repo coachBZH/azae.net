@@ -2,6 +2,8 @@
 title:  "No Estimates"
 authors:
   - Olivier Albiez
+tags:
+  - outil
 ---
 
 Statistiquement, prédire sur le throughput des users story est plus précis et moins couteux en bureaucracy que d'estimer en story point.
