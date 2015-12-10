@@ -1,5 +1,9 @@
 ---
 title:  "Stratégies de branches"
+authors:
+  - Olivier Albiez
+tags:
+  - technique
 ---
 
 
