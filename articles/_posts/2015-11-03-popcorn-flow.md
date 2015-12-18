@@ -1,5 +1,5 @@
 ---
-title:  "Popcorn Flow"
+title: Popcorn Flow
 authors:
   - Olivier Albiez
 tags:
