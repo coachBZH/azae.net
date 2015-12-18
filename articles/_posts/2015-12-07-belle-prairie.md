@@ -1,5 +1,5 @@
 ---
-title:  Une belle prairie ensoleillée
+title: Une belle prairie ensoleillée
 authors:
   - Thomas Clavier
 tags:
