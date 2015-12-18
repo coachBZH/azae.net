@@ -10,7 +10,13 @@ layout: default
             </div>
             {% endif %}
             <div class="col-md-10">
-                <h1 class="post-title">{{ page.title }} <small>{{ page.subtitle }}</small></h1>
+                <h1 class="post-title">
+                    {{ page.title }}
+                    {% if page.draft %}
+                        <span class="label label-danger"><i class="fa fa-exclamation-triangle"></i> Draft</span>
+                    {% endif %}
+                    <small>{{ page.subtitle }}</small>
+                </h1>
                 {% if page.tags.size > 0 %}
                     <p >
                         <i class="fa fa-tags"></i>

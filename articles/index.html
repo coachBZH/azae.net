@@ -38,6 +38,9 @@ title: Articles
                 <a href="{{ article.url }}">
                     <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
                     {{ article.title }}
+                    {% if article.draft %}
+                        <span class="label label-danger"><i class="fa fa-exclamation-triangle"></i> Draft</span>
+                    {% endif %}
                 </a>
             </li>
         {% endfor %}
@@ -58,6 +61,9 @@ title: Articles
                     <a href="{{ article.url }}">
                         <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
                         {{ article.title }}
+                        {% if article.draft %}
+                            <span class="label label-danger"><i class="fa fa-exclamation-triangle"></i> Draft</span>
+                        {% endif %}
                     </a>
                 </li>
             {% endfor %}
