@@ -1,5 +1,5 @@
 - name: Thomas Clavier
-  vcard: "Clavier;Thomas"
+  vcard_name: "Clavier;Thomas"
   photo: /assets/images/thomas.clavier.jpg
   social:
   - url: https://github.com/tclavier
@@ -21,7 +21,7 @@
   mobile: "+33620818130"
 
 - name: Olivier Albiez
-  vcard: "Albiez;Olivier"
+  vcard_name: "Albiez;Olivier"
   photo: /assets/images/olivier.albiez.jpg
   social:
   - url: https://github.com/oalbiez
