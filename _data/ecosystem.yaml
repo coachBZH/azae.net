@@ -1,15 +1,16 @@
 - name: April
   link: http://www.april.org/association/personnes-morales.html
-  logo: /assets/images/ecosystem/membre-de-april-120x120.png
+  logo: /assets/images/logo-membre-de-april.png
 
 - name: Libre-Entreprise
   link: http://www.libre-entreprise.org/
-  logo: /assets/images/ecosystem/libre-entreprise-120x120.png
+  logo: /assets/images/logo-libre-entreprise.png
 
 - name: Pole Nord
   link: http://www.polenord.info/
-  logo: /assets/images/polenord.png
+  logo: /assets/images/logo-polenord.png
 
 - name: MOM 21
   link: http://www.mom21.org/
-  logo: /assets/images/mom21.png
+  logo: /assets/images/logo-mom21.png
+
