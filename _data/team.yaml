@@ -1,4 +1,5 @@
 - name: Thomas Clavier
+  vcard: "Clavier;Thomas"
   photo: /assets/images/thomas.clavier.jpg
   social:
   - url: https://github.com/tclavier
@@ -17,9 +18,10 @@
     logiciel. Depuis plus de 10 ans, j'essaye de transformer le travail en un jeu, faire progresser
     les geeks et challenger les managers, poser des questions pour faire progresser les équipes.
   mail: tclavier@azae.net
-  mobile: +33620818130
+  mobile: "+33620818130"
 
 - name: Olivier Albiez
+  vcard: "Albiez;Olivier"
   photo: /assets/images/olivier.albiez.jpg
   social:
   - url: https://github.com/oalbiez
@@ -34,4 +36,4 @@
     recherche de ce qui peut améliorer le travail collectif d'une organisation. Je suis
     récemment co-fondateur de deliverous.
   mail: oalbiez@azae.net
-  mobile: +33662767812
+  mobile: "+33662767812"
