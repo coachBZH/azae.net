@@ -43,6 +43,14 @@ defaults:
     layout: article
 
 
+page_gen:
+  - data: 'team'
+    template: 'vcard'
+    name: 'name'
+    dir: '/assets/contact'
+    extension: 'vcf'
+
+
 markdown: kramdown
 
 
