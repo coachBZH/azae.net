@@ -10,6 +10,8 @@ tags:
 draft: true
 ---
 
+TEST
+
 Dans une organisation militaire hiérarchisée, le cycle de décision ralenti en montant dans la hiérarchie. En règle générale dans les armées modernes, on observe une accélération d'un facteur trois entre un niveau et son niveau subordonné.
 
 Donc quand le supérieur et un subordonné d'un niveau ont tous les deux besoin d'une réponse, le subordonné en a besoin 9 fois plus vite que le supérieur. En conséquence de cela, un chef qui traite en priorité les demandes de son supérieur, pénalise énormément son subordonné.
