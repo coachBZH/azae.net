@@ -1,5 +1,5 @@
 ---
-title: Une belle prairie ensoleillée
+title: Une belle prairie ensoleillée (ou "Artists & designer")
 authors:
   - Thomas Clavier
 tags:
