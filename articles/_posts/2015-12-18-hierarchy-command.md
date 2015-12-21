@@ -2,6 +2,7 @@
 title: La hiérarchie
 authors:
   - Olivier Albiez
+  - Hervé Taboubou
 tags:
   - military
   - concepts
