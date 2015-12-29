@@ -15,7 +15,7 @@ L'idée principale est _"changer, c'est difficile, il faut donc le faire plus so
 - Problem
 - Options
 - Possible experiments
-- Comit
+- Commit
 - Ongoing
 - Review
 - Next
@@ -32,7 +32,7 @@ Le principe de trouver un maximum de solution différentes permet de libérer la
 
 ### L'expérimentation comme vecteur du changement
 
-L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a pour vocation de rapidement tester une option. D'autre part, parce qu'elle est limitée, elle suscite moins de résistance de la part des équipes. C'est un point crucial, surtout pour des décisions à l'unanimité.
+L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a pour vocation de rapidement tester une option. Ainsi, parce qu'elle est limitée, elle suscite moins de résistance de la part des équipes. C'est un point crucial, surtout pour des décisions à l'unanimité.
 
 
 ### Le changement rendu visible
