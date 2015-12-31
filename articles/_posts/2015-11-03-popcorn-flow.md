@@ -10,20 +10,22 @@ illustration: /assets/images/articles/popcorn-flow/illustration.jpg
 
 Pour devenir une organisation apprenante, il y a plusieurs méthodes. Beaucoup passent par des rétrospectives. [Claudio Perrone] a mis au point une démarche pratique pour structurer cette démarche d'apprentissage qu'il a appelé [Popcorn Flow].
 
-L'idée principale est _"changer, c'est difficile, il faut donc le faire plus souvent"_. Pour cela, on va utiliser un kanban qui va piloter nos apprentissages / changements.
+L'idée principale est _"changer, c'est difficile, il faut donc le faire plus souvent"_. Pour cela, on va utiliser un kanban qui va piloter nos apprentissages / changements. Ce kanban pourra être suivi au daily meeting et mis à jour lors des rétrospectives.
 
-- Problem
-- Options
-- Possible experiments
-- Commit
-- Ongoing
-- Review
-- Next
 
-Ce kanban pourra être suivi au daily meeting et mis à jour lors des rétrospectives.
+## Les Etapes
+
+| ![Problem](/assets/images/articles/popcorn-flow/Problem.png){: width="100" } | Le processus commence en identifiant des points qui bloquent ou qui gênent. L'objectif est d'identifier les problèmes. Il n'est pas nécessaire de factualiser, il suffit que le problème soit partagé par l'équipe. |
+|![Options](/assets/images/articles/popcorn-flow/Options.png){: width="100" } | Chercher plusieurs options pour adresser le même problème. Suivez la [Règle des 3] ou des [Real Options], trouvez au moins trois options différentes. |
+|![Experiments](/assets/images/articles/popcorn-flow/Experiments.png){: width="100" } | Pour définir une expérience, il faut en préciser les actions à réaliser, sa raison, les résultats attendus et une durée. |
+|![Committed](/assets/images/articles/popcorn-flow/Committed.png){: width="100" } | Quand toute l'équipe accepte l'expérience, il faudra lui définir une date de revue et éventuellement un responsable. |
+|![Ongoing](/assets/images/articles/popcorn-flow/Ongoing.png){: width="100" } | La liste des expériences en cours... |
+|![Review](/assets/images/articles/popcorn-flow/Review.png){: width="100" } | Partage sur les résultats de l'expérience. Quelles étaient nos attentes ? Que c'est-il effectivement passé ? Qu'avons-nous appris ? |
+|![Next](/assets/images/articles/popcorn-flow/Next.png){: width="100" } | Que faisons-nous après ? Le problème est-il complétement réglé ? Faut-il de nouvelles options ? C'est le moment de reboucler au début du cycle. |
 
 
 ## Les points forts
+
 
 ### Real Options
 
@@ -39,6 +41,18 @@ L'expérimentation est limitée dans le temps ou dans son périmètre. Elle a po
 
 La colonne ongoing permet de voir le nombre de changements en cours et c'est donc un indicateur visuel des apprentissages et améliorations de l'équipe.
 
+
+### Roue de Deming
+
+[Adrien Piquot] dans son article [Vous reprendrez bien un peu de popcorn] fait remarquer a juste titre que le popcorn flow incarne une [Roue de Deming].
+En effet, nous pouvons voir :
+
+- Plan: Problem, Options, Possible experiments
+- Do: Committed, Ongoing
+- Check: Review
+- Act: Next
+
+
 ---
 Sources:
 
@@ -49,4 +63,7 @@ Sources:
 [Popcorn Flow]: http://popcornflow.com/
 [Real Options]: http://www.agilecoach.net/coach-tools/real-options/
 [Pascal Van Cauwenberghe]: https://www.linkedin.com/in/pascalvancauwenberghe
-
+[Roue de Deming]: https://fr.wikipedia.org/wiki/Roue_de_Deming
+[Adrien Piquot]: http://blog.soat.fr/author/adrien-piquot/
+[Vous reprendrez bien un peu de popcorn]: http://blog.soat.fr/2015/12/lean-kanban-france-2015-vous-reprendrez-bien-un-peu-de-popcorn/
+[Règle des 3]: http://www.conferencesthatwork.com/index.php/learning/2012/05/make-better-decisions-with-the-rule-of-three/
