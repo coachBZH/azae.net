@@ -1,23 +1,26 @@
-FROM tclavier/nginx
+from tclavier/nginx
 
-ENV DEBIAN_FRONTEND noninteractive
+env DEBIAN_FRONTEND noninteractive
 
-RUN apt-get update \
+run apt-get update \
  && apt-get install -y -q \
     bundler \
+    git \
+    locales \
     ruby \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/*
 
-RUN mkdir -p /site
-WORKDIR /site
-COPY Gemfile /site/
-COPY Gemfile.lock /site/
-RUN bundle install --system --quiet
+run echo "en_US.UTF-8 UTF-8" > /etc/locale.gen \
+ && locale-gen
 
-COPY _src/nginx_vhost.conf /etc/nginx/conf.d/azae.conf
+run mkdir -p /site
+workdir /site
+copy Gemfile /site/
+copy Gemfile.lock /site/
+run bundle install --system --quiet
 
-COPY . /site/
-RUN jekyll build --destination /var/www
+copy _src/nginx_vhost.conf /etc/nginx/conf.d/azae.conf
+copy . /site/
 
-
+run LANG=en_US.UTF-8 jekyll build --destination /var/www

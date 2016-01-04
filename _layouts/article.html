@@ -36,11 +36,16 @@ layout: default
     <div class="row">
       <div class="col-md-12">
         {{ content }}
+        <hr>
       </div>
     </div>
+
     <div class="row">
-      <div class="col-md-12 text-right">
-        <a class="btn btn-default" href="https://github.com/azae/azae.net/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Éditer</a>
+      <div class="col-md-10">
+        Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
+      </div>
+      <div class="col-md-2 text-right">
+        <a class="btn btn-default" href="https://github.com/azae/azae.net/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
       </div>
     </div>
 
