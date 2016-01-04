@@ -2,6 +2,7 @@
 title:  "Le style de commandement"
 authors:
   - Olivier Albiez
+  - Hervé Taboubou
 tags:
   - military
   - concepts
