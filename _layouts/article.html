@@ -23,7 +23,7 @@ layout: default
                     </p>
                 {% endif %}
                 <p class="post-meta">
-                    <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+                    <i class='fa fa-calendar'></i> {{ page.updated | date: "%b %-d, %Y" }}
                 </p>
                 {% for author in page.authors %}
                     <p class="post-meta">
