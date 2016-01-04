@@ -88,7 +88,7 @@ permalink: /about/
         {% endfor %}
       </span>
       </h2>
-      <p>{{member.bio}}</p>
+      <p>{{member.bio | markdownify}}</p>
     </div>
   </div>
 {% endfor %}
