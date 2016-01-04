@@ -15,13 +15,61 @@ L'idée principale est _"changer, c'est difficile, il faut donc le faire plus so
 
 ## Les Etapes
 
-| ![Problem](/assets/images/articles/popcorn-flow/Problem.png){: width="100" } | Le processus commence en identifiant des points qui bloquent ou qui gênent. L'objectif est d'identifier les problèmes. Il n'est pas nécessaire de factualiser, il suffit que le problème soit partagé par l'équipe. |
-|![Options](/assets/images/articles/popcorn-flow/Options.png){: width="100" } | Chercher plusieurs options pour adresser le même problème. Suivez la [Règle des 3] ou des [Real Options], trouvez au moins trois options différentes. |
-|![Experiments](/assets/images/articles/popcorn-flow/Experiments.png){: width="100" } | Pour définir une expérience, il faut en préciser les actions à réaliser, sa raison, les résultats attendus et une durée. |
-|![Committed](/assets/images/articles/popcorn-flow/Committed.png){: width="100" } | Quand toute l'équipe accepte l'expérience, il faudra lui définir une date de revue et éventuellement un responsable. |
-|![Ongoing](/assets/images/articles/popcorn-flow/Ongoing.png){: width="100" } | La liste des expériences en cours... |
-|![Review](/assets/images/articles/popcorn-flow/Review.png){: width="100" } | Partage sur les résultats de l'expérience. Quelles étaient nos attentes ? Que c'est-il effectivement passé ? Qu'avons-nous appris ? |
-|![Next](/assets/images/articles/popcorn-flow/Next.png){: width="100" } | Que faisons-nous après ? Le problème est-il complétement réglé ? Faut-il de nouvelles options ? C'est le moment de reboucler au début du cycle. |
+
+![Problem](/assets/images/articles/popcorn-flow/Problem.png){: .image-100 .pull-left }
+
+### Problème <small>Problem</small>
+
+Le processus commence en identifiant des points qui bloquent ou qui gênent. L'objectif est d'identifier les problèmes. Il n'est pas nécessaire de factualiser, il suffit que le problème soit partagé par l'équipe.
+{: .clearfix }
+
+
+![Options](/assets/images/articles/popcorn-flow/Options.png){: .image-100 .pull-left }
+
+### Options <small>Options</small>
+
+Chercher plusieurs options pour adresser le même problème. Suivez la [Règle des 3] ou des [Real Options], trouvez au moins trois options différentes.
+{: .clearfix }
+
+
+![Experiments](/assets/images/articles/popcorn-flow/Experiments.png){: .image-100 .pull-left }
+
+### Experimentation possible <small>Possible experiments</small>
+
+Pour définir une expérience, il faut en préciser les actions à réaliser, sa raison, les résultats attendus et une durée.
+{: .clearfix }
+
+
+![Committed](/assets/images/articles/popcorn-flow/Committed.png){: .image-100 .pull-left }
+
+### Accepté <small>Committed</small>
+
+Quand toute l'équipe accepte l'expérience, il faudra lui définir une date de revue et éventuellement un responsable.
+{: .clearfix }
+
+
+![Ongoing](/assets/images/articles/popcorn-flow/Ongoing.png){: .image-100 .pull-left }
+
+### En cours <small>Ongoing</small>
+
+La liste des expériences en cours...
+{: .clearfix }
+
+
+![Review](/assets/images/articles/popcorn-flow/Review.png){: .image-100 .pull-left }
+
+### Résultats <small>Review</small>
+
+Partage sur les résultats de l'expérience. Quelles étaient nos attentes ? Que c'est-il effectivement passé ? Qu'avons-nous appris ?
+{: .clearfix }
+
+
+![Next](/assets/images/articles/popcorn-flow/Next.png){: .image-100 .pull-left }
+
+### La suite <small>Next</small>
+
+Que faisons-nous après ? Le problème est-il complétement réglé ? Faut-il de nouvelles options ? C'est le moment de reboucler au début du cycle.
+{: .clearfix }
 
 
 ## Les points forts
