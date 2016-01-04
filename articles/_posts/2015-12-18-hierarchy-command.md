@@ -8,7 +8,6 @@ tags:
   - concepts
   - managment
   - leadership
-draft: true
 ---
 
 
