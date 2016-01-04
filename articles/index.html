@@ -8,8 +8,7 @@ title: Articles
     </div>
     <div class="col-md-9 spacer-20">
         <ul class="list-group article-list">
-            {% assign articles = (site.categories.articles | sort: 'updated' | reverse ) %}
-            {% for article in articles limit:10 %}
+            {% for article in site.categories.articles limit:10 %}
                 <li class="list-group-item">
                     {% if article.tags.size > 0 %}
                         <span class="pull-right">
@@ -19,7 +18,7 @@ title: Articles
                         </span>
                     {% endif %}
                     <a href="{{ article.url }}">
-                        <span class="article-date">{{ article.updated | date: "%d/%m" }}</span>
+                        <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
                         {{ article.title }}
                     </a>
                 </li>
@@ -46,7 +45,7 @@ title: Articles
                 {% for article in articles %}
                     <li class="list-group-item">
                         <a href="{{ article.url }}">
-                            <span class="article-date">{{ article.updated | date: "%d/%m" }}</span>
+                            <span class="article-date">{{ article.date | date: "%d/%m" }}</span>
                             {{ article.title }}
                         </a>
                     </li>

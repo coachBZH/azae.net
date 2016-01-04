@@ -1,10 +1,13 @@
 ---
 title: Popcorn Flow
+date: 2016-01-04
 authors:
   - Olivier Albiez
+contributors:
+  - Thomas Clavier
+  - Damien Salvador
 tags:
   - outil
-date:   2015-11-03 14:00:00
 illustration: /assets/images/articles/popcorn-flow/illustration.jpg
 ---
 

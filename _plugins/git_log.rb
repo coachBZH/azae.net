@@ -13,9 +13,9 @@ module Jekyll
 
       site.posts.docs.each do |post|
         relative = Pathname.new(post.path).relative_path_from(root).to_s
-        contributors = git.log.object(relative).map {|l| l.author.name }.uniq.sort
-        post.data['contributors'] = contributors
-        post.data['updated'] = git.log.object(relative).first.date
+        #contributors = git.log.object(relative).map {|l| l.author.name }.uniq.sort
+        #post.data['contributors'] = contributors
+        #post.data['updated'] = git.log.object(relative).first.date
       end
     end
   end
