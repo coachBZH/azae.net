@@ -1,8 +1,12 @@
 ---
 title: La hiérarchie
+date: 2016-01-04
 authors:
   - Olivier Albiez
   - Hervé Taboubou
+contributors:
+  - Thomas Clavier
+  - Damien Salvador
 tags:
   - military
   - concepts
