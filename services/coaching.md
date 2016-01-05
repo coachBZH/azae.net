@@ -2,6 +2,8 @@
 layout: with-title
 title: Coaching
 permalink: /services/coaching/
+description: >
+    Notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous.
 ---
 
 Nous mettons notre expérience et notre expertise pour révéler les talents de vos collaborateurs. Nous valorisons le principe et l'efficacité d'une organisation apprenante. Dans le cadre de nos interventions au sein de vos équipes, nous varions notre posture entre le coaching, le mentorat et le conseil en fonction de vos besoins.
