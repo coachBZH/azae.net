@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<article itemscope itemtype="http://schema.org/Article">
 <div class="post">
     <div class="row">
         <div class="page-header">
@@ -10,7 +11,7 @@ layout: default
             </div>
             {% endif %}
             <div class="col-md-10">
-                <h1 class="post-title">
+                <h1 class="post-title" itemprop="Headline">
                     {{ page.title }}
                     <small>{{ page.subtitle }}</small>
                 </h1>
@@ -25,11 +26,9 @@ layout: default
                 <p class="post-meta">
                     <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
                 </p>
-                {% for author in page.authors %}
-                    <p class="post-meta">
-                        <i class='fa fa-user'></i> {{ author }}
-                    </p>
-                {% endfor %}
+                <p class="post-meta">
+                  <i class='fa fa-user'></i> <span itemprop="author">{{ page.authors | join: ", " }}
+                </p>
             </div>
         </div>
     </div>
@@ -50,3 +49,4 @@ layout: default
     </div>
 
 </div>
+</article>
