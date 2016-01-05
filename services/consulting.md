@@ -2,6 +2,8 @@
 layout: with-title
 title: Conseil
 permalink: /services/consulting/
+description: >
+    Nous pouvons vous conseiller sur vos architectures informatiques, vous aider dans le développement de vos applications et vous soutenir dans vos choix stratégiques informatiques.
 ---
 
 Nous pouvons vous conseiller sur vos architectures informatiques, vous aider dans le développement de vos applications et vous soutenir dans vos choix stratégiques informatiques.
