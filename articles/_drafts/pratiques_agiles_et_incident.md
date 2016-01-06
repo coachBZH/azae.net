@@ -1,6 +1,7 @@
 ---
 ---
-# le contexte
+# Contexte
+Les équipes que nous accompagnons 
 Un client qui adopte un certains nombre de bonnes pratique agiles et qui constate une baisse significative des incidents
 
 # Taxonomie des incidents et des demandes
