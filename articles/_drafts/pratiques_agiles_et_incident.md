@@ -1,11 +1,11 @@
 ---
 ---
 # Contexte
-Récement, des équipes de nous accompagnons dans leur changement vers l'agilité ont fait un bilan des apports de leur transformations en cours. Autour de la table il y avait, le PO, quelques utilisateurs, le scrum master, des représentants de l'équipe de production (ops) et moi. Alors que les utilisateurs observaient tous les effets attendu : moins de bug, une plus grande réactivité, moins cher, confiance et implication, les équipes de production ont été très surprisent de compter 27% d'incidents en moins. D'ou l'idée de corréler les types de demandes et d'incident avec les bonnes pratiques agiles pour voir si la baisse était bien la conséquence de la transformation.
+Récement, des équipes de nous accompagnons dans leur changement vers l'agilité ont fait un bilan des apports de leur transformations en cours. Autour de la table il y avait, les PO, quelques utilisateurs, les scrum master, des représentants de l'équipe de production (ops) et moi. Alors que les utilisateurs observaient tous les effets attendu : moins de bug, une plus grande réactivité, moins cher, confiance et implication, les équipes de production ont été très surprisent de compter 27% d'incidents en moins. D'ou l'idée de corréler les types de demandes et d'incident avec les bonnes pratiques agiles pour voir si la baisse était bien la conséquence de la transformation.
 
 # Taxonomie ITIL
 
-Classer et trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une grandes forces d'ITIL. Nous ne nous sommes attardé que sur les catégories des origines (root cause) des incidents et des demandes. 
+Classer et trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une grandes forces d'ITIL. Nous ne nous sommes attardé que sur les catégories des origines (root cause) des incidents ainsi que les demandes.
 
 ## Origine
 * Logiciel : quand l'origine du problème est un bug, un problème de configuration applicatif ou une régression.
