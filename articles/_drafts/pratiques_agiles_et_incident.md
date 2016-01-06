@@ -1,19 +1,21 @@
 ---
 ---
 # Contexte
-Les équipes que nous accompagnons 
-Un client qui adopte un certains nombre de bonnes pratique agiles et qui constate une baisse significative des incidents
+Récement, des équipes de nous accompagnons dans leur changement vers l'agilité ont fait un bilan des apports de leur transformations en cours. Autour de la table il y avait, le PO, quelques utilisateurs, le scrum master, des représentants de l'équipe de production (ops) et moi. Alors que les utilisateurs observaient tous les effets attendu : moins de bug, une plus grande réactivité, moins cher, confiance et implication, les équipes de production ont été très surprisent de compter 27% d'incidents en moins. D'ou l'idée de corréler les types de demandes et d'incident avec les bonnes pratiques agiles pour voir si la baisse était bien la conséquence de la transformation.
 
-# Taxonomie des incidents et des demandes
+# Taxonomie ITIL
 
-## Root cause
-* Software: bugs, malfunctions and configuration errors in applications.
-* Firmware: bugs, malfunctions and configuration errors in firmware and operating systems of servers and network and security devices.
-* Hardware: Malfunctions and errors in hardware, e.g. fans, CPU, memory, bus, cards, etc.
-* Process: Poorly defined, implemented, communicated or supervised process, e.g. too loose change management process
-* Human error: Something that was not intended by the actor thus causing the incident.
-* Other: Any other root cause for the incident.
-* Unknown: Root cause was not found or it was not analyzed
+Classer et trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une grandes forces d'ITIL. Nous ne nous sommes attardé que sur les catégories des origines (root cause) des incidents et des demandes. 
+
+## Origine
+* Logiciel : quand l'origine du problème est un bug, un problème de configuration applicatif ou une régression.
+* Matériel : cette catégorie parle d'elle même.
+* Process : Quand un process est mal défini, mal documenté ou mal suivi.
+* Erreur humaine : les erreurs humaines non lié au process.
+* Autre incidents
+* Inconnu : l'origine n'a pas été trouvé
+
+Ces 3 dernières catégories ne regroupent que très peux d'incident, 
 
 ## Demandes
 
