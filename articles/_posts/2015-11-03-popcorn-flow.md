@@ -71,7 +71,7 @@ Partage sur les résultats de l'expérience. Quelles étaient nos attentes ? Que
 
 ### La suite <small>Next</small>
 
-Que faisons-nous après ? Le problème est-il complétement réglé ? Faut-il de nouvelles options ? C'est le moment de reboucler au début du cycle.
+Que faisons-nous après ? Le problème est-il complétement réglé ? Faut-il de nouvelles options ? C'est le moment de revenir au début du cycle.
 {: .clearfix }
 
 
