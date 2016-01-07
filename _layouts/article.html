@@ -1,7 +1,42 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://schema.org/Article">
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage":{
+    "@type":"WebPage",
+    "@id":"{{ page.url }}"
+  },
+  "headline": "{{ page.title }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{page.illustration}}",
+  },
+  "datePublished": "{{ page.date |",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.authors | join: ", " }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Azaé",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://azae.net/assets/images/logo-azae.png",
+      "width": 400,
+      "height": 174
+    }
+  },
+  {% if page.description %}
+      "description": "{{page.description | strip_newlines}}">
+  {% else if page.excerpt %}
+      "description": "{{page.excerpt | strip_html  | strip_newlines}}">
+  {% endif %}
+}
+</script>
+
 <div class="post">
     <div class="row">
         <div class="page-header">
@@ -11,7 +46,7 @@ layout: default
             </div>
             {% endif %}
             <div class="col-md-10">
-                <h1 class="post-title" itemprop="Headline">
+                <h1 class="post-title">
                     {{ page.title }}
                     <small>{{ page.subtitle }}</small>
                 </h1>
@@ -24,10 +59,11 @@ layout: default
                     </p>
                 {% endif %}
                 <p class="post-meta">
-                    <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+                  <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
+
                 </p>
                 <p class="post-meta">
-                  <i class='fa fa-user'></i> <span itemprop="author">{{ page.authors | join: ", " }}
+                  <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
                 </p>
             </div>
         </div>
@@ -49,4 +85,3 @@ layout: default
     </div>
 
 </div>
-</article>
