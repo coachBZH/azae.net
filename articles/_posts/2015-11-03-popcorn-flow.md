@@ -117,4 +117,4 @@ Sources:
 [Roue de Deming]: https://fr.wikipedia.org/wiki/Roue_de_Deming
 [Adrien Piquot]: http://blog.soat.fr/author/adrien-piquot/
 [Vous reprendrez bien un peu de popcorn]: http://blog.soat.fr/2015/12/lean-kanban-france-2015-vous-reprendrez-bien-un-peu-de-popcorn/
-[Règle des 3]: http://www.conferencesthatwork.com/index.php/learning/2012/05/make-better-decisions-with-the-rule-of-three/
+[Règle des 3]: /articles/rule-of-three.html
