@@ -17,10 +17,11 @@ layout: default
     "height" 400:
   },
   "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.authors | join: ", " }}"
-  },
+  "author": [
+    {% for author in page.authors %}
+      {"@type": "Person", "name": "{{ author }}"}
+    {% endfor %}
+  ],
   "publisher": {
     "@type": "Organization",
     "name": "Azaé",
