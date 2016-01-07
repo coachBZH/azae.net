@@ -4,3 +4,9 @@
 - name: Efidev
   link: http://www.efidev.com/
   logo: /assets/images/logo-efidev.png
+- name: Code Lutin
+  link: https://www.codelutin.com/
+  logo: /assets/images/logo-codelutin.jpg
+- name: Entr'ouvert
+  link: http://www.entrouvert.com/
+  logo: /assets/images/logo-entrouvert.png
