@@ -7,12 +7,14 @@ layout: default
   "@type": "Article",
   "mainEntityOfPage":{
     "@type":"WebPage",
-    "@id":"{{ page.url }}"
+    "@id":"http://azae.net/{{ page.url }}"
   },
   "headline": "{{ page.title }}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{page.illustration}}"
+    "url": "http://azae.net/{{page.illustration}}",
+    "width": 400,
+    "height" 400:
   },
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "author": {
