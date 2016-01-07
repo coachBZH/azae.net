@@ -30,9 +30,9 @@ layout: default
     }
   },
   {% if page.description %}
-      "description": "{{page.description | strip_newlines}}">
+      "description": "{{page.description | strip_newlines}}"
   {% else if page.excerpt %}
-      "description": "{{page.excerpt | strip_html  | strip_newlines}}">
+      "description": "{{page.excerpt | strip_html  | strip_newlines}}"
   {% endif %}
 }
 </script>
