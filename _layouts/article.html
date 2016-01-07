@@ -76,10 +76,11 @@ layout: default
         <hr>
       </div>
     </div>
-
     <div class="row">
       <div class="col-md-10">
+        {% if page.contributors.size > 0 %}
         Contributeurs: <i>{{ page.contributors | join: ', ' }}</i>
+        {% endif %}
       </div>
       <div class="col-md-2 text-right">
         <a class="btn btn-default" href="https://github.com/azae/azae.net/edit/master/{{ page.path}} "><i class="fa fa-pencil"></i> Contribuez</a>
