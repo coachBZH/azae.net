@@ -1,6 +1,5 @@
 ---
 title: Une belle prairie ensoleillée
-date: 2015-12-18
 authors:
   - Thomas Clavier
 contributors:
