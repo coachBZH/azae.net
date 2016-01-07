@@ -12,9 +12,9 @@ layout: default
   "headline": "{{ page.title }}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{page.illustration}}",
+    "url": "{{page.illustration}}"
   },
-  "datePublished": "{{ page.date |",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
   "author": {
     "@type": "Person",
     "name": "{{ page.authors | join: ", " }}"
