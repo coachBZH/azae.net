@@ -16,7 +16,7 @@ Notre grande expérience dans les transformations agile nous permet de vous guid
     - rythmer la transition, mettre en place de l'amélioration continue,
     - sensibiliser à l'amélioration de l'outil de production.
 
-Convaincu qu’il n’y a pas de performance sans bonheur, et pas de bonheur sans responsabilité, nous pensons qu'il est possible de laisser les producteurs de valeurs s'auto-organiser.
+Convaincu qu’il n’y a pas de performance sans bonheur, et pas de bonheur sans responsabilité, nous pensons qu'il est possible de laisser les producteurs de valeurs s'auto-organiser et progresser vers un modèle d'entreprise libérée.
 
 Nous pouvons accompagner l'ensemble des niveaux de l’organisation (Comité de direction, métiers, équipes de développement, achats, ressources humaines, infrastructure, marketing, commercial, etc. ). Les valeurs agiles sont pour nous un cadre que nous adaptons avec vous dans l'entreprise en fonction de vos contraintes.
 
