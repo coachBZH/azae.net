@@ -9,7 +9,7 @@ contributors:
   - Damien Salvador
 tags:
   - military
-  - concepts
+  - concept
   - managment
   - leadership
 ---
