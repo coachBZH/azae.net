@@ -3,12 +3,12 @@ layout: with-title
 title: Coaching
 permalink: /services/coaching/
 description: >
-    Notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous.
+    Notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous. Nous partagons les valeurs du Manifeste Agile.
 ---
 
 Nous mettons notre expérience et notre expertise pour révéler les talents de vos collaborateurs. Nous valorisons le principe et l'efficacité d'une organisation apprenante. Dans le cadre de nos interventions au sein de vos équipes, nous varions notre posture entre le coaching, le mentorat et le conseil en fonction de vos besoins.
 
-Notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous.
+Nous partagons les valeurs du [Manifeste Agile] et notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous.
 
     Définir ensemble un plan de transition agile :
     - déclencher le mouvement à l'aide d'ateliers ludique,
@@ -41,3 +41,5 @@ Dans un contexte de sous-traitance industrielle avec un an de retard sur les dé
 ## Accompagnement d'une entreprise innovante
 
 Nous avons aligné l'ensemble des salariés sur la satisfaction client et accompagnés l'équipe de recherche et développement dans sa démarche d'amélioration continue. Nous avons formé l'ensemble des développeurs au software caftmanship, mis en place une chaîne de déploiements continue en production à chaque commit.
+
+[Manifeste Agile]: http://agilemanifesto.org/iso/fr/
