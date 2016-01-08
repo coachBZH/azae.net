@@ -14,6 +14,10 @@
   link: http://atos.net/fr-fr/accueil.html
   logo: logo-atos.jpg
 
+- name: Auchan
+  link: http://www.auchan.com/
+  logo: logo-auchan.jpg
+
 - name: Camaïeu
   link: http://www.camaieu.fr/
   logo: logo-camaieu.jpg
@@ -25,10 +29,6 @@
 - name: Conso globe
   link: http://www.consoglobe.com/
   logo: logo-consoglobe.png
-
-- name: E-Commerce
-  link: http://www.groupe-auchan.com/nos-activites/e-commerce/
-  logo: logo-auchan-ecommerce.jpg
 
 - name: Eliocity
   link: http://www.xee.com/
@@ -53,3 +53,8 @@
 - name: Smartesting
   link: http://www.smartesting.com/
   logo: logo-smartesting.jpg
+
+
+# - name: AtoS / Worldline
+# - name: Banque Accord
+# - name: Leroymerlin

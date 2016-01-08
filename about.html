@@ -6,7 +6,7 @@ description: >
     Passionnés de logiciels libres et convaincus par les méthodes de travail agiles, nous avons décidé de mettre notre passion à votre service. C'est pourquoi Azaé est uniquement composée d'experts qui conjuguent chaque jour passion et professionnalisme. En alliant le plaisir au sérieux nous sommes capables de vous fournir l'expertise adaptée à vos besoins.
 ---
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
+  <div class='col-md-12 '>
     <h1 class='color-scarlet-red'>Notre passion</h1>
   </div>
 </div>
@@ -23,7 +23,7 @@ description: >
   </div>
 </div>
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
+  <div class='col-md-12 '>
     <h1 class='color-orange'>Nos Valeurs</h1>
   </div>
 </div>
@@ -68,15 +68,12 @@ description: >
   </div>
 </div>
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
+  <div class='col-md-12 '>
     <h1 class="color-sky-blue">L'équipe</h1>
   </div>
 </div>
 {% for member in site.data.team %}
   <div class='row spacer-20'>
-    <div class='col-md-2'>
-      <img alt="Photo {{member.name}}" class="img-responsive img-thumbnail" src="{{member.photo}}" />
-    </div>
     <div class='col-md-10'>
       <h2>
       {{member.name}}
@@ -88,33 +85,40 @@ description: >
       </h2>
       <p>{{member.bio | markdownify}}</p>
     </div>
+    <div class='col-md-2'>
+      <img alt="Photo {{member.name}}" class="img-responsive img-thumbnail" src="{{member.photo}}" />
+    </div>
   </div>
 {% endfor %}
 
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
+  <div class='col-md-12'>
     <h1 class="color-chameleon">Nos amis</h1>
-    {% for partner in site.data.partners %}
-      <div class="partner-logo">
-        <a href='{{partner.link}}'>
-          <img src="{{partner.logo}}" alt="Logo {{partner.name}}">
-          <div class="text-center">{{partner.name}}</div>
-        </a>
-      </div>
-    {% endfor %}
+    <div class="text-center">
+      {% for partner in site.data.partners %}
+        <div class="partner-logo">
+          <a href='{{partner.link}}'>
+            <img src="{{partner.logo}}" alt="Logo {{partner.name}}">
+            <div class="text-center">{{partner.name}}</div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
 <div class='row spacer-20'>
-  <div class='col-md-12 text-center'>
-    <h1 class="color-scarlet-red">Nos clients <small>qui nous ont fait confiance</small></h1>
-    {% for customer in site.data.customers %}
-      <div class="partner-logo">
-        <a href='{{customer.link}}'>
-          <img src="/assets/images/{{customer.logo}}" alt="Logo {{customer.name}}">
-          <div class="text-center">{{customer.name}}</div>
-        </a>
-      </div>
-    {% endfor %}
+  <div class='col-md-12'>
+    <h1 class="color-scarlet-red">Nos clients <small>Ils nous font confiance</small></h1>
+    <div class="text-center">
+      {% for customer in site.data.customers %}
+        <div class="partner-logo">
+          <a href='{{customer.link}}'>
+            <img src="/assets/images/{{customer.logo}}" alt="Logo {{customer.name}}">
+            <div class="text-center">{{customer.name}}</div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
