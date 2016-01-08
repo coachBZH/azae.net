@@ -1,7 +1,30 @@
+#- name: Camaïeu
+#  link: http://www.camaieu.fr/
+#  logo: /assets/images/logo-camaieu.jpg
+
 - name: Conso globe
   link: http://www.consoglobe.com/
   logo: /assets/images/logo-consoglobe.png
 
-#- name: Camaïeu
-#  link: http://www.camaieu.fr/
-#  logo: /assets/images/logo-camaieu.jpg
+- name: E-Commerce
+  link: http://www.groupe-auchan.com/nos-activites/e-commerce/
+  logo: /assets/images/logo-auchan-ecommerce.jpg
+
+- name: Eliocity
+  link: http://www.xee.com/
+  logo: /assets/images/logo-eliocity.png
+
+- name: KBane
+  link: https://www.kbane.com/
+  logo: /assets/images/logo-kbane.jpg
+
+
+# - name: 3SI
+# - name: Adeo
+# - name: Agymat
+# - name: AtoS
+# - name: CDG59
+# - name: Eoweo
+# - name: OToit
+# - name: Smartesting
+# - name: Sopra
