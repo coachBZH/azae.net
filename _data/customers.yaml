@@ -2,17 +2,17 @@
   link: http://www.adeo.com/
   logo: /assets/images/logo-adeo.png
 
-#- name: Camaïeu
-#  link: http://www.camaieu.fr/
-#  logo: /assets/images/logo-camaieu.jpg
+- name: Camaïeu
+  link: http://www.camaieu.fr/
+  logo: /assets/images/logo-camaieu.jpg
 
 - name: Conso globe
   link: http://www.consoglobe.com/
   logo: /assets/images/logo-consoglobe.png
 
-- name: E-Commerce
-  link: http://www.groupe-auchan.com/nos-activites/e-commerce/
-  logo: /assets/images/logo-auchan-ecommerce.jpg
+- name: Auchan
+  link: http://www.auchan.com/
+  logo: /assets/images/logo-auchan.jpg
 
 - name: Eliocity
   link: http://www.xee.com/
@@ -36,6 +36,8 @@
 
 # - name: 3SI
 # - name: Agymat
-# - name: AtoS
+# - name: AtoS / Worldline
 # - name: CDG59
 # - name: Eoweo
+# - name: Banque Accord
+# - name: Leroymerlin
