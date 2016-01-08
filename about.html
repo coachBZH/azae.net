@@ -105,3 +105,16 @@ description: >
   </div>
 </div>
 
+<div class='row spacer-20'>
+  <div class='col-md-12 text-center'>
+    <h1 class="color-scarlet-red">Nos clients <small>qui nous ont fait confiance</small></h1>
+    {% for customer in site.data.customers %}
+      <div class="partner-logo">
+        <a href='{{customer.link}}'>
+          <img src="{{customer.logo}}" alt="Logo {{customer.name}}">
+          <div class="text-center">{{customer.name}}</div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
