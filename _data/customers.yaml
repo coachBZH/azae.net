@@ -26,10 +26,16 @@
   link: http://www.otoit2m.eu/
   logo: /assets/images/logo-2m.png
 
+- name: Sopra Steria
+  link: www.soprasteria.com/
+  logo: /assets/images/logo-sopra.png
+
+- name: Smartesting
+  link: http://www.smartesting.com/
+  logo: /assets/images/logo-smartesting.jpg
+
 # - name: 3SI
 # - name: Agymat
 # - name: AtoS
 # - name: CDG59
 # - name: Eoweo
-# - name: Smartesting
-# - name: Sopra
