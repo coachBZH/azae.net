@@ -1,3 +1,7 @@
+- name: Adeo
+  link: http://www.adeo.com/
+  logo: /assets/images/logo-adeo.png
+
 #- name: Camaïeu
 #  link: http://www.camaieu.fr/
 #  logo: /assets/images/logo-camaieu.jpg
@@ -18,13 +22,14 @@
   link: https://www.kbane.com/
   logo: /assets/images/logo-kbane.jpg
 
+- name: O'toit - 2M
+  link: http://www.otoit2m.eu/
+  logo: /assets/images/logo-2m.png
 
 # - name: 3SI
-# - name: Adeo
 # - name: Agymat
 # - name: AtoS
 # - name: CDG59
 # - name: Eoweo
-# - name: OToit
 # - name: Smartesting
 # - name: Sopra
