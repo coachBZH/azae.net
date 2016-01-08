@@ -18,6 +18,10 @@
   link: http://www.auchan.com/
   logo: logo-auchan.jpg
 
+- name: Banque Accord
+  link: https://www.banque-accord.fr/
+  logo: logo-banque-accord.png
+
 - name: Camaïeu
   link: http://www.camaieu.fr/
   logo: logo-camaieu.jpg
@@ -42,6 +46,10 @@
   link: https://www.kbane.com/
   logo: logo-kbane.jpg
 
+- name: Leroy Merlin
+  link: http://www.leroymerlin.fr/
+  logo: logo-leroy-merlin.png
+
 - name: O'toit - 2M
   link: http://www.otoit2m.eu/
   logo: logo-2m.png
@@ -54,7 +62,6 @@
   link: http://www.smartesting.com/
   logo: logo-smartesting.jpg
 
-
-# - name: AtoS / Worldline
-# - name: Banque Accord
-# - name: Leroymerlin
+- name: Worldline
+  link: http://worldline.com/fr/accueil.html
+  logo: logo-worldline.jpg
