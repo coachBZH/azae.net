@@ -1,35 +1,7 @@
 # Site settings
 production: false
 baseline: Catalyseur d'agilité
-keywords:
-- Agile
-- Amelioration continue
-- Artisan logiciel
-- Chef
-- Cloud
-- Coaching
-- Conseil
-- Devops
-- Docker
-- Entreprise libérée
-- Facilitation
-- Formation
-- Innovation
-- Intelligence collective
-- Lean
-- Lean Startup
-- Lille
-- Linux
-- Logiciel
-- Opensource
-- Puppet
-- Roubaix
-- Scrum
-- Serious games
-- Software Craftmanship
-- Startup
-- Tourcoing
-- Villeneuve d'ascq
+
 
 url: "http://azae.net"
 baseurl: ""
