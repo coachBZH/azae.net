@@ -47,18 +47,21 @@
 @font-face {
   font-family: "Linux Biolinum";
   src: url('/assets/fonts/LinBiolinum_R.woff') format('woff');
+  font-smooth: always;
 }
 
 @font-face {
   font-family: "Linux Biolinum";
   font-style: italic;
   src: url('/assets/fonts/LinBiolinum_RI.woff') format('woff');
+  font-smooth: always;
 }
 
 @font-face {
   font-family: "Linux Biolinum";
   font-weight: bold;
   src: url('/assets/fonts/LinBiolinum_RB.woff') format('woff');
+  font-smooth: always;
 }
 
 body {
