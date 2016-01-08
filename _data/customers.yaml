@@ -1,10 +1,26 @@
+- name: 3SI Group
+  link: http://www.groupe3si.com/
+  logo: /assets/images/logo-3si.png
+
 - name: Adeo
   link: http://www.adeo.com/
   logo: /assets/images/logo-adeo.png
 
-#- name: Camaïeu
-#  link: http://www.camaieu.fr/
-#  logo: /assets/images/logo-camaieu.jpg
+- name: Agymat
+  link: https://www.materiauxnet.com/qui-sommes-nous/
+  logo: /assets/images/logo-agymat.png
+
+- name: AtoS
+  link: http://atos.net/fr-fr/accueil.html
+  logo: /assets/images/logo-atos.jpg
+
+- name: Camaïeu
+  link: http://www.camaieu.fr/
+  logo: /assets/images/logo-camaieu.jpg
+
+- name: CDG59
+  link: http://www.cdg59.fr/
+  logo: /assets/images/logo-cdg59.jpg
 
 - name: Conso globe
   link: http://www.consoglobe.com/
@@ -17,6 +33,10 @@
 - name: Eliocity
   link: http://www.xee.com/
   logo: /assets/images/logo-eliocity.png
+
+- name: Eoweo
+  link: http://www.eoweo.com/
+  logo: /assets/images/logo-eoweo.png
 
 - name: KBane
   link: https://www.kbane.com/
@@ -33,9 +53,3 @@
 - name: Smartesting
   link: http://www.smartesting.com/
   logo: /assets/images/logo-smartesting.jpg
-
-# - name: 3SI
-# - name: Agymat
-# - name: AtoS
-# - name: CDG59
-# - name: Eoweo
