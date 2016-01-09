@@ -54,13 +54,13 @@
   link: http://www.otoit2m.eu/
   logo: logo-2m.png
 
-- name: Sopra Steria
-  link: www.soprasteria.com/
-  logo: logo-sopra.png
-
 - name: Smartesting
   link: http://www.smartesting.com/
   logo: logo-smartesting.jpg
+
+- name: Sopra Steria
+  link: www.soprasteria.com/
+  logo: logo-sopra.png
 
 - name: Worldline
   link: http://worldline.com/fr/accueil.html
