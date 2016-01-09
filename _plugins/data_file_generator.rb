@@ -29,7 +29,7 @@ module Jekyll
   end
 
   class DataPagesGenerator < Generator
-    safe true
+    safe :true
 
     def generate(site)
       data = site.config['page_gen']
