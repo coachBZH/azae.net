@@ -1,11 +1,11 @@
 - name: /ut7
   link: http://ut7.fr/
-  logo: /assets/images/logo-ut7.png
+  logo: logo-ut7.png
 
 - name: Efidev
   link: http://www.efidev.com/
-  logo: /assets/images/logo-efidev.png
+  logo: logo-efidev.png
 
 - name: Code Lutin
   link: https://www.codelutin.com/
-  logo: /assets/images/logo-codelutin.jpg
+  logo: logo-codelutin.jpg
