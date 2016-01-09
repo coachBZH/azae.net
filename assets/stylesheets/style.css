@@ -180,6 +180,7 @@ h4 {
 
 .partner-logo:hover {
   border: 1px solid #eee;
+  filter: none;
 }
 
 .partner-logo div {
@@ -204,6 +205,7 @@ h4 {
   width: 180px;
   height: 180px;
   line-height: 160px;
+  filter: grayscale(1.0);
 }
 .medium-logo img {
   width: 160px;
