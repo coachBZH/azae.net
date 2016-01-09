@@ -9,24 +9,54 @@ tags:
 
 ---
 # Contexte
-Récement, des équipes que nous accompagnons dans leur changement vers l'agilité ont fait un bilan des apports de la transformations en cours. Autour de la table il y avait, les PO, quelques utilisateurs, les scrum master, des représentants de l'équipe de production (ops) et moi. Alors que les utilisateurs observaient tous les effets attendu : plus de valeur, une plus grande réactivité, moins cher, confiance et implication, les équipes de production ont été très surprisent de compter 27% d'incidents en moins. D'ou l'idée de corréler les types de demandes et d'incident avec les bonnes pratiques agiles pour voir si la baisse était bien la conséquence de la transformation.
+Récement, des équipes que nous accompagnons dans leur changement vers l'agilité ont fait un bilan des apports de la transformations en cours. Autour de la table il y avait, les PO, quelques utilisateurs, les scrum master, des représentants de l'équipe de production (ops) et moi. Alors que les utilisateurs observaient tous les effets attendu : plus de valeur, une plus grande réactivité, moins cher, confiance et implication des équipes, la production été surprise de compter 27% d'incidents en moins. D'ou l'idée de corréler les types de demandes et d'incident avec les bonnes pratiques agiles pour voir si la baisse était bien la conséquence de la transformation.
 
 # Taxonomie ITIL
 
-Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Pour les icidents, nous nous sommes focalisé sur les catégories des origines de ces incidents. Et nous avons pris toutes les demandes.
+Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Pour les incidents, nous nous sommes focalisés sur les catégories des origines de ces incidents. Et nous avons pris toutes les demandes.
 
 ## Incidents
 
 Les "root cause" sont classées dans les catégories suivante : Application, Matériel, Livraison, Processus, Erreur humaine, Autre et Inconnu. 
-Nous avons volontairement exclus les 2 dernières catégories car elles ne regroupe que très peut d'incident.
+Nous avons volontairement exclus les 2 dernières catégories car elles ne regroupe que très peut d'incident. De même nous avons ignoré la catégorie Matériel qui semblait plus difficile à résoudre juste avec des pratiques. 
 
 ### Logiciel
 
 Cette catégorie regroupe les incidents dont l'origine est supposé être l'application.
 
-* Spécification : regroupe les incidnets qui mettent en évidence l'inadéquoition entre le logiciel et le besoin. Rapprocher les utilisateurs et les développeurs et livrer beaucoup plus souvent sont deux levier simple pour adapter rapidement le logiciel aux besoins du client.
-* Analyse d'impact : certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de chaine de traitement longue il n'est pas rare que l'effet domino soit observé sur une brique logiciel géré par une autre équipe. Pour réduire ce type d'incident, pratiquer le TDD, le BDD, et automatiser l'ensemble des tests.
-* Qualité de code : croire que l'application va principalement fonctionner dans le mode "nominale" est une erreur, l'environement de l'application est hostile et en cas de problème temporaire, l'application devrait être capable de reprendre toute seule : la base de donnée est aussi utilisé par les procéssus de maintenance, les erreurs réseaux sont possible et il n'est pas rare de voir un élément mécanique casser. Cette sous catégorie regroupe tous les incidents mettant en avant un code
+#### Spécification 
+Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. Rapprocher les utilisateurs et les développeurs et livrer beaucoup plus souvent sont deux levier simple pour adapter rapidement le logiciel aux besoins du client.
+
+#### Analyse d'impact
+Certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de chaine de traitement longue il n'est pas rare que l'effet domino soit observé sur une brique logiciel géré par une autre équipe. Pour réduire ce type d'incident, pratiquez le TDD, le BDD, et automatiser l'ensemble des tests.
+
+#### Qualité de code 
+Pour la production, une application qui s'arrête face au moindre petit problème c'est une application de mauvaise qualité. Pour palier à ces incidents, il est possible de prendre en compte les besoins non fonctionnel des ops dans le backlog en même temps que les besoins du PO, c'est une des bases de devops.
+
+#### Testing
+Quand un incident met en avant un bug applicatif, on peut supposer que la couverture de test n'est pas idéal.
+Pour palier ça, il y a le TDD et le BDD, mais aussi "l'infra as code" et le bon découpage des besoins. En effet si l'infrastructure est géré comme du code alors il sera facile de reconstruire des environement de test à la volée. De même, le bon découpage des besoins facilitera grandement les tests.
+On retrouve aussi ici les bugs corrigé en urgence, mais non corrigé dans une version suivante. Le trunk base et le déploiement continu permet de réduire au maximum ces problèmes.
+
+#### Capacité
+Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir le problème et augmenter les capacités juste avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code et la collaboration entre dev et ops sont des composantes clés de cette catégorie.
+
+### Livraison
+#### Packaging
+Automatisation des livraisons, trunc base
+
+#### Déploiement
+automatisation des livraisons, livraison en 1 clic, infra as code
+
+#### Configuration
+
+devops, automatisation des livraisons, infra as code
+
+### Process
+#### Documentation
+procédure pas à jour
+
+devops, identifier les besoins non fonctionnel et les ajouter dans le backlog
 
 
 * Matériel : cette catégorie parle d'elle même.
