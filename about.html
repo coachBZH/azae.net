@@ -57,14 +57,7 @@ description: >
     </p>
   </div>
   <div class='col-md-5'>
-    {% for reference in site.data.ecosystem %}
-      <div class="partner-logo">
-        <a href='{{reference.link}}'>
-          <img src="{{reference.logo}}" alt="Logo {{reference.name}}">
-          <div class="text-center">{{reference.name}}</div>
-        </a>
-      </div>
-    {% endfor %}
+    {% include tiled-logos.html items=site.data.ecosystem asset-path="/assets/images" %}
   </div>
 </div>
 <div class='row spacer-20'>
@@ -95,14 +88,7 @@ description: >
   <div class='col-md-12'>
     <h1 class="color-chameleon">Nos amis</h1>
     <div class="text-center">
-      {% for partner in site.data.partners %}
-        <div class="partner-logo">
-          <a href='{{partner.link}}'>
-            <img src="/assets/images/{{partner.logo}}" alt="Logo {{partner.name}}">
-            <div class="text-center">{{partner.name}}</div>
-          </a>
-        </div>
-      {% endfor %}
+      {% include tiled-logos.html items=site.data.partners asset-path="/assets/images" %}
     </div>
   </div>
 </div>
@@ -111,14 +97,7 @@ description: >
   <div class='col-md-12'>
     <h1 class="color-scarlet-red">Nos clients <small>Ils nous font confiance</small></h1>
     <div class="text-center">
-      {% for customer in site.data.customers %}
-        <div class="partner-logo">
-          <a href='{{customer.link}}'>
-            <img src="/assets/images/{{customer.logo}}" alt="Logo {{customer.name}}">
-            <div class="text-center">{{customer.name}}</div>
-          </a>
-        </div>
-      {% endfor %}
+      {% include tiled-logos.html items=site.data.customers asset-path="/assets/images" %}
     </div>
   </div>
 </div>
