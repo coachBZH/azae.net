@@ -69,6 +69,9 @@ body {
   font-size: 16px;
 }
 
+h4 {
+  font-weight: bold;
+}
 
 /* == Sections */
 
@@ -167,12 +170,9 @@ body {
 }
 
 .partner-logo {
-  width: 120px;
-  height: 120px;
   text-align: center;
   margin: 2px;
   border-radius: 6px;
-  line-height: 100px;
   display: inline-block;
   background-color: white;
   border: 1px solid white;
@@ -180,10 +180,6 @@ body {
 
 .partner-logo:hover {
   border: 1px solid #eee;
-}
-
-.partner-logo img {
-  width: 100px;
 }
 
 .partner-logo div {
@@ -194,6 +190,25 @@ body {
   text-decoration: none;
   color: inherit;
 }
+
+.short-logo {
+  width: 120px;
+  height: 120px;
+  line-height: 100px;
+}
+.short-logo img {
+  width: 100px;
+}
+
+.medium-logo {
+  width: 180px;
+  height: 180px;
+  line-height: 160px;
+}
+.medium-logo img {
+  width: 160px;
+}
+
 
 .label-block {
     font-weight: normal;
