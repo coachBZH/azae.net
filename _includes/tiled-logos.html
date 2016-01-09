@@ -1,7 +1,7 @@
 {% for item in include.items %}
-    <div class="partner-logo short-logo">
+    <div class="partner-logo {{ include.logo-class | default: 'short-logo' }} ">
         <a href='{{item.link}}'>
-            <img src="{{include.asset-path}}/{{item.logo}}" alt="Logo {{item.name}}">
+            <img src="{{ include.asset-path | default: '/assets/images' }}/{{item.logo}}" alt="Logo {{item.name}}">
             <div class="text-center">{{item.name}}</div>
         </a>
     </div>
