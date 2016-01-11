@@ -24,15 +24,15 @@ Nous pouvons accompagner l'ensemble des niveaux de l’organisation (Comité de 
 
 ## Accompagnement d'équipes de développement IT
 
-Dans un contexte avec une application vielle de 10 ans, nous avons sensibilisé aux valeurs agiles et avons aidé à leur mise en pratique. Nous avons formé l'ensemble des développeurs au software caftmanship.
+Dans un contexte "code legacy" avec une application vielle de 10 ans, nous avons sensibilisé aux valeurs agiles et avons aidé à leur mise en pratique. Nous avons formé l'ensemble des développeurs au software caftmanship. Après 6 mois d'intervention, les coûts de production étaient réduits de 5%, le turn-over quasiment supprimé et le "time to market" divisé par 6.
 
 ## Accompagnement d'une démarche devops
 
-Nous avons aligné l'ensemble des équipes de production (réseau, sécurité, base de données, système) avec les équipes de développement sur des objectifs business communs. La fluidification et l'automatisation des échanges entre les équipes ont permis de réduire par six le time to market et d'améliorer la boucle de feed-back.
+Nous avons aligné l'ensemble des équipes de production (réseau, sécurité, base de données, système) avec les équipes de développement sur des objectifs business communs. La fluidification et l'automatisation des échanges entre les équipes ont permis de réduire par six le "time to market" et d'améliorer la boucle de feed-back.
 
 ## Mise en place d'un centre de service agile
 
-Nous avons monté l'équipe, puis nous l'avons soutenu au jour le jour durant le premier projet pilote. Nous avons ensuite formé les relais internes pour rendre l'équipe totalement autonome.
+Dans un context de concurence entre centres de services, nous avons monté l'équipe agile, puis nous l'avons soutenu au jour le jour durant le premier projet pilote. Nous avons ensuite formé les relais internes pour rendre l'équipe totalement autonome. Au bout d'un an, la majorité des gens du métier ne voulais passer que par eux. 
 
 ## Sauvetage d'une équipe déséspérée
 
