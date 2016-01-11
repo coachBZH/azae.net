@@ -25,7 +25,7 @@ Nous avons volontairement exclus les 2 dernières catégories car elles ne regro
 Cette catégorie regroupe les incidents dont l'origine est supposé être l'application.
 
 #### Spécification 
-Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. Rapprocher les utilisateurs et les développeurs et livrer beaucoup plus souvent sont deux levier simple pour adapter rapidement le logiciel aux besoins du client.
+Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. Rapprocher les utilisateurs et les développeurs et livrer beaucoup plus souvent sont deux levier simple pour adapter rapidement le logiciel aux besoins du client : Un PO opérationnel, Collaboration Biz/Dev, Affinage du backlog, Découpage des taches, BDD, collaboration devops.
 
 #### Analyse d'impact
 Certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de chaine de traitement longue il n'est pas rare que l'effet domino soit observé sur une brique logiciel géré par une autre équipe. Pour réduire ce type d'incident, pratiquez le TDD, le BDD, et automatiser l'ensemble des tests.
@@ -93,8 +93,9 @@ Les demandes quand à elles, sont classé en 3 grandes catégories :
 # Résumé 
 
 {: .table }
-Catégorie  | Pratique
----------- | ----------
-Logiciel:Spécification  | Colocaliser le PO avec l'équipe, livrer plus souvent, faire des démos à chaque fin d'itération
-Logiciel:Analyse d'impact | TDD, BDD, automatisation de tous les tests
-
+Catégorie  | Pratique   | Description
+---------- | ---------- | -----------
+Logiciel:Spécification  | Colocaliser le PO avec l'équipe, livrer plus souvent, faire des démos à chaque fin d'itération | Ce type d'incident apparait quand le besoin est mal identifié
+Logiciel:Analyse d'impact | TDD, BDD, automatisation de tous les tests | De type d'incident apparait quand l'application génère un impact sur une autre application
+Logiciel:Qualité du code | | Problème de fuite mémoire, problème de robustesse, de résiliance
+Logiciel:Testing | | Mauvaise couverture de test besoin bien identifié
