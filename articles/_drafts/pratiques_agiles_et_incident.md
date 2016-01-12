@@ -60,22 +60,15 @@ Réduire les incidents de packagings et de déploiement c'est avant tout automat
 
 #### Configuration
 
-devops, automatisation des livraisons, infra as code
+métrologie, devops, automatisation des livraisons, infra as code
 
 ### Process
 #### Documentation
-procédure pas à jour
-
-devops, identifier les besoins non fonctionnel et les ajouter dans le backlog
-
-* Matériel : cette catégorie parle d'elle même.
-* Process : Quand un process est mal défini, mal documenté ou mal suivi.
-* Erreur humaine : les erreurs humaines non lié au process.
-* Autre incidents
-* Inconnu : l'origine n'a pas été trouvé
-
-Notez que ces 3 dernières catégories ne regroupent que très peux d'incident.
-
+procédure pas à jour ou non présente : devops
+#### Manque de compétences
+certaines nouvelles fonctionnalités livrées impactent le travail des ops, que ce soit celle très gourmande en ressource que l'ops peut désactiver en cas de gros trafic ou celle critique qui requière un niveau de service différent sur une ressource dépendante.
+#### Problème de supervision
+et si on travillait sur la métrologie :-) 
 
 ## Demandes
 
