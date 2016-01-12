@@ -25,21 +25,34 @@ Nous avons volontairement exclus les 2 dernières catégories car elles ne regro
 Cette catégorie regroupe les incidents dont l'origine est supposé être l'application.
 
 #### Spécification 
-Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. Rapprocher les utilisateurs et les développeurs et livrer beaucoup plus souvent sont deux levier simple pour adapter rapidement le logiciel aux besoins du client : Un PO opérationnel, Collaboration Biz/Dev, Affinage du backlog, Découpage des taches, BDD, collaboration devops.
+Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. 
+
+Améliorer la collaboration entre les utilisateurs et les développeurs est un levier simple pour adapter rapidement le logiciel aux besoins du client. Ce qui passe par de nombreux outils ou pratique : 
+
+* Un Productowner correctement identifié dont le rôle est bien compris par tout le monde.
+* Faire participer les utilisateurs et les équipes à des ateliers d'affinage du backlog commun.
+* Travailler le découpage des taches pour livrer plus vite de petits morceaux sur les quelles l'utilisateur pourra donner très vite un avis
+* BDD : travailler avec l'utisateur pour que l'expression des tests automatiques lui soit suffisemment claire.
 
 #### Analyse d'impact
-Certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de chaine de traitement longue il n'est pas rare que l'effet domino soit observé sur une brique logiciel géré par une autre équipe. Pour réduire ce type d'incident, pratiquez le TDD, le BDD, et automatiser l'ensemble des tests.
+Certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de systèmes complexes l'effet domino est observable sur une brique logiciel géré par une autre équipe, voir même sur un progiciel. 
+
+Pour réduire ce type d'incident, pratiquez le TDD, le BDD, et automatiser l'ensemble des tests, est une bonne base de départ, mais tous les incidents ne pourront pas être supprimé, il est en effet impossible de penser à tous les cas de tests possible. Une bonne métrologie capable de remonter rapidement les liens de cause à effet permetrons d'une part de réduire ce type d'incident en simplifiant une partie de l'analyse d'impacte, et d'autre part de voir le problème avant l'incident pour le corriger au plus vite. Ce qui implique de pouvoir livrer très vite.
 
 #### Qualité de code 
-Pour la production, une application qui s'arrête face au moindre petit problème c'est une application de mauvaise qualité. Pour palier à ces incidents, il est possible de prendre en compte les besoins non fonctionnel des ops dans le backlog en même temps que les besoins du PO, c'est une des bases de devops.
+Pour la production, une application qui s'arrête face au moindre changement d'environement (coupure réseau, disque plein, reboot d'un service avant un autre, etc.) c'est une application de mauvaise qualité. 
+
+Pour palier à ces incidents, il est primordiale de prendre en compte les besoins non fonctionnel des ops dans le backlog en même temps que les besoins du PO, c'est une des bases de devops. Donc invitez vos ops à vos ateliers d'affinage du backlog, et développez ces besoins comme les autres, avec des tests automatisés, du code propre et finement découpé.
 
 #### Testing
 Quand un incident met en avant un bug applicatif, on peut supposer que la couverture de test n'est pas idéal.
-Pour palier ça, il y a le TDD et le BDD, mais aussi "l'infra as code" et le bon découpage des besoins. En effet si l'infrastructure est géré comme du code alors il sera facile de reconstruire des environement de test à la volée. De même, le bon découpage des besoins facilitera grandement les tests.
-On retrouve aussi ici les bugs corrigé en urgence, mais non corrigé dans une version suivante. Le trunk base et le déploiement continu permet de réduire au maximum ces problèmes.
+
+Pour palier ça, il y a bien évidement le TDD et le BDD, mais aussi "l'infra as code" et le bon découpage des besoins. En effet si l'infrastructure est géré comme du code alors il sera facile de reconstruire des environement de test à la volée. De même, le bon découpage des besoins facilitera grandement les tests.
+
+On retrouve aussi ici les bugs corrigés en urgence, mais non correctement reportés dans une version suivante. Le trunk base et le déploiement continu permet de réduire au maximum ces problèmes. En effet n'utiliser qu'une seule base de code dans une seule version, permet de réduire de supprimer le problème.
 
 #### Capacité
-Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir le problème et augmenter les capacités juste avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code et la collaboration entre dev et ops sont des composantes clés de cette catégorie.
+Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir les problèmes et augmenter les capacités avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code, la métrologie et la collaboration entre dev et ops sont des composantes clés pour la réduction de ce type d'incidents.
 
 ### Livraison
 #### Packaging
@@ -58,7 +71,6 @@ procédure pas à jour
 
 devops, identifier les besoins non fonctionnel et les ajouter dans le backlog
 
-
 * Matériel : cette catégorie parle d'elle même.
 * Process : Quand un process est mal défini, mal documenté ou mal suivi.
 * Erreur humaine : les erreurs humaines non lié au process.
@@ -66,8 +78,6 @@ devops, identifier les besoins non fonctionnel et les ajouter dans le backlog
 * Inconnu : l'origine n'a pas été trouvé
 
 Notez que ces 3 dernières catégories ne regroupent que très peux d'incident.
-
-
 
 
 ## Demandes
