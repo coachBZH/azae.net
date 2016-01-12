@@ -79,33 +79,23 @@ Notez que ces 3 dernières catégories ne regroupent que très peux d'incident.
 
 ## Demandes
 
-Les demandes quand à elles, sont classé en 3 grandes catégories : 
-* Les actions
+### Application
 
-* Action
-** Provisioning : User requires access to a service or part of a service, e.g. a security permission, a menu option, a token, a digital certificate, a client install, a desktop device, a phone, etc.
-** Booking : Scheduled attendance at training, seminar, meeting, reservation of a resource, annual leave. 
-** Ordering : Books, desks, catering, stationery, travel. 
-** Change : as defined by change management, typically means change to a CI. Some organisations allow users to open RFCs directly, others have some form of prior request entity. 
-** Work : tasks that falls outside change management. Run a report. Move a PC. Install a projector.
-* Support
-** Incident : an unplanned interruption to an IT service or reduction in the quality of an IT service. (Question: if an interruption or degradation of service is within the terms of the SLA, is it an Incident? ) 
-** Fault : Failure or detected imminent failure of a CI, no service impact (yet). Only users within IT would be expected to report these, or an automated tool. If confirmed, it will spawn a Problem. (This was much debated recently. If you follow ITIL then an incident and a fault are the same thing.) 
-** Help : Correcting data arising from user error (NOT from a Problem). Restoring a deleted file, untangling a mess... 
-** Advice : How do I … ? Should I … ? Which is the best way to … ? 
-* Input
-** Proposal / Suggestion / Feedback
-** Complaint
+Lancement de fonction manuel à la demande des utilisateurs, mise à jour de paramètres applicatifs, installation manuel de composants, relivraison urgente, etc.
 
-# Résumé 
+Parmis ces demandes certaines sont très fréquentes, favoriser la collaboration entre dev, ops et biz permettra de prendre en compte la création d'écran et/ou de solution pour automatiser et/ou donner aux utilisateurs suffisement d'autonomie dans l'executions de ces demandes.
 
-{: .table }
-Catégorie  | Pratique   | Description
----------- | ---------- | -----------
-Logiciel:Spécification  | Colocaliser le PO avec l'équipe, livrer plus souvent, faire des démos à chaque fin d'itération | Ce type d'incident apparait quand le besoin est mal identifié
-Logiciel:Analyse d'impact | TDD, BDD, automatisation de tous les tests | De type d'incident apparait quand l'application génère un impact sur une autre application
-Logiciel:Qualité du code | | Problème de fuite mémoire, problème de robustesse, de résiliance
-Logiciel:Testing | | Mauvaise couverture de test besoin bien identifié
+### Demandes d'accès
+
+Toutes les créations, mise à jour ou suppréssion de données lié à la gestion des droits dans ou en dehors de l'application.
+
+idem précédent.
+
+### Gestion de données
+
+Toutes les demmandes pour jouer des requetes SQL, de la mise à jour de fichiers de données, des extractions, demandes de dumps, de synchro de base ou autre rentrent dans cette catégorie
+
+solution idem précédent.
 
 # Taxonomie
 
