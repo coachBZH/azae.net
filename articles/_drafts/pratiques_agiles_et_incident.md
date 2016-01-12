@@ -44,7 +44,7 @@ Pour la production, une application qui s'arrête face au moindre changement d'e
 
 Pour palier à ces incidents, il est primordiale de prendre en compte les besoins non fonctionnel des ops dans le backlog en même temps que les besoins du PO, c'est une des bases de devops. Donc invitez vos ops à vos ateliers d'affinage du backlog, et développez ces besoins comme les autres, avec des tests automatisés, du code propre et finement découpé.
 
-#### Testing
+#### Tests
 Quand un incident met en avant un bug applicatif, on peut supposer que la couverture de test n'est pas idéal.
 
 Pour palier ça, il y a bien évidement le TDD et le BDD, mais aussi "l'infra as code" et le bon découpage des besoins. En effet si l'infrastructure est géré comme du code alors il sera facile de reconstruire des environement de test à la volée. De même, le bon découpage des besoins facilitera grandement les tests.
@@ -52,14 +52,11 @@ Pour palier ça, il y a bien évidement le TDD et le BDD, mais aussi "l'infra as
 On retrouve aussi ici les bugs corrigés en urgence, mais non correctement reportés dans une version suivante. Le trunk base et le déploiement continu permet de réduire au maximum ces problèmes. En effet n'utiliser qu'une seule base de code dans une seule version, permet de réduire de supprimer le problème.
 
 #### Capacité
-Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir les problèmes et augmenter les capacités avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code, la métrologie et la collaboration entre dev et ops sont des composantes clés pour la réduction de ce type d'incidents.
+Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge et les intégrer dès le début, donc prendre en compte ce besoins non fonctionnel à la création du backlog, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir les problèmes et augmenter les capacités avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code, la métrologie et la collaboration entre dev et ops sont des composantes clés pour la réduction de ce type d'incidents.
 
 ### Livraison
-#### Packaging
-Automatisation des livraisons, trunc base
-
-#### Déploiement
-automatisation des livraisons, livraison en 1 clic, infra as code
+#### Packaging, Déploiement
+Réduire les incidents de packagings et de déploiement c'est avant tout automatiser ce processus pour éviter les erreurs humaines. Le travail d'automatisation passera problablement par une collaboration devops, de l'infra as code et du "trunck base developpement"
 
 #### Configuration
 
@@ -109,3 +106,27 @@ Logiciel:Spécification  | Colocaliser le PO avec l'équipe, livrer plus souvent
 Logiciel:Analyse d'impact | TDD, BDD, automatisation de tous les tests | De type d'incident apparait quand l'application génère un impact sur une autre application
 Logiciel:Qualité du code | | Problème de fuite mémoire, problème de robustesse, de résiliance
 Logiciel:Testing | | Mauvaise couverture de test besoin bien identifié
+
+# Taxonomie
+
+* Incidents
+* * Application
+* * * Specification
+* * * Analyse d'impact
+* * * Qualité de code
+* * * Tests
+* * * Capacité
+* * Livraison
+* * * Packaging
+* * * Déploiement
+* * * Configuration
+* * Matériel
+* * Process
+* * * Manque de documentation
+* * * Erreur dans une procédure
+* * * Manque de connaissance
+* * * Problème de supervision
+* Demandes
+* * Application
+* * Demande d'accès
+* * Gestion de données
