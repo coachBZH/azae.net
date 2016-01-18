@@ -13,62 +13,65 @@ Récement, des équipes que nous accompagnons dans leur changement vers l'agilit
 
 # Taxonomie ITIL
 
-Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Pour les incidents, nous nous sommes focalisés sur les catégories des origines de ces incidents. Et nous avons pris toutes les demandes.
+Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Voici l'arbre de classement des incidents et des demandes que nous avons étudié : 
+
+* Incidents
+  * Logiciel
+  * Livraison
+  * Processus
+    * Manque de documentation
+    * Erreur dans une procédure
+    * Manque de connaissance
+    * Problème de supervision
+* Demandes
+  * Application
+  * Demande d'accès
+  * Gestion de données
 
 ## Incidents
 
-Les "root cause" sont classées dans les catégories suivante : Application, Matériel, Livraison, Processus, Erreur humaine, Autre et Inconnu. 
-Nous avons volontairement exclus les 2 dernières catégories car elles ne regroupe que très peut d'incident. De même nous avons ignoré la catégorie Matériel qui semblait plus difficile à résoudre juste avec des pratiques. 
-
 ### Logiciel
 
-Cette catégorie regroupe les incidents dont l'origine est supposé être l'application.
+Cette catégorie regroupe les incidents dont l'origine est supposé être l'application. Ce qui regroupe : 
 
-#### Spécification 
-Regroupe les incidents qui mettent en évidence l'inadéquation entre le logiciel et le besoin. 
+* les incidents mettant en évidence l'inadéquation entre le logiciel et le besoin
+* les incidents lié à une mauvaise annalyse d'impact interapplications : un changement dans l'application qui génère un bug dans une autre application
+* les incidents au manque de robustesse de l'application : un changement dans l'environement (coupure réseau, disque plein, reboot d'un service distant, etc.) qui bloque ou stope l'application.
+* les incidents mettant en avant des bugs ou des régressions
+* les incidents lié à la fluctuation de la charge.
 
-Améliorer la collaboration entre les utilisateurs et les développeurs est un levier simple pour adapter rapidement le logiciel aux besoins du client. Ce qui passe par de nombreux outils ou pratique : 
 
-* Un Productowner correctement identifié dont le rôle est bien compris par tout le monde.
-* Faire participer les utilisateurs et les équipes à des ateliers d'affinage du backlog commun.
-* Travailler le découpage des taches pour livrer plus vite de petits morceaux sur les quelles l'utilisateur pourra donner très vite un avis
-* BDD : travailler avec l'utisateur pour que l'expression des tests automatiques lui soit suffisemment claire.
+Améliorer la collaboration entre les utilisateurs, les développeurs et la production est le levier principal pour réduire ces incidents. Ce qui passe entre autre par : 
 
-#### Analyse d'impact
-Certaines modification de code générent des régressions ou des bug par effet domino, dans le cadre de systèmes complexes l'effet domino est observable sur une brique logiciel géré par une autre équipe, voir même sur un progiciel. 
-
-Pour réduire ce type d'incident, pratiquez le TDD, le BDD, et automatiser l'ensemble des tests, est une bonne base de départ, mais tous les incidents ne pourront pas être supprimé, il est en effet impossible de penser à tous les cas de tests possible. Une bonne métrologie capable de remonter rapidement les liens de cause à effet permetrons d'une part de réduire ce type d'incident en simplifiant une partie de l'analyse d'impacte, et d'autre part de voir le problème avant l'incident pour le corriger au plus vite. Ce qui implique de pouvoir livrer très vite.
-
-#### Qualité de code 
-Pour la production, une application qui s'arrête face au moindre changement d'environement (coupure réseau, disque plein, reboot d'un service avant un autre, etc.) c'est une application de mauvaise qualité. 
-
-Pour palier à ces incidents, il est primordiale de prendre en compte les besoins non fonctionnel des ops dans le backlog en même temps que les besoins du PO, c'est une des bases de devops. Donc invitez vos ops à vos ateliers d'affinage du backlog, et développez ces besoins comme les autres, avec des tests automatisés, du code propre et finement découpé.
-
-#### Tests
-Quand un incident met en avant un bug applicatif, on peut supposer que la couverture de test n'est pas idéal.
-
-Pour palier ça, il y a bien évidement le TDD et le BDD, mais aussi "l'infra as code" et le bon découpage des besoins. En effet si l'infrastructure est géré comme du code alors il sera facile de reconstruire des environement de test à la volée. De même, le bon découpage des besoins facilitera grandement les tests.
-
-On retrouve aussi ici les bugs corrigés en urgence, mais non correctement reportés dans une version suivante. Le trunk base et le déploiement continu permet de réduire au maximum ces problèmes. En effet n'utiliser qu'une seule base de code dans une seule version, permet de réduire de supprimer le problème.
-
-#### Capacité
-Cette catégorie parle d'elle même, rentrent ici les incidents lié à un problème de charge. Automatiser les tests de charge et les intégrer dès le début, donc prendre en compte ce besoins non fonctionnel à la création du backlog, mais aussi surveiller et corréler les métriques systèmes et applicatives pour voir venir les problèmes et augmenter les capacités avant que le problème d'arrive permettra de réduire ces incidents. L'infra as code, la métrologie et la collaboration entre dev et ops sont des composantes clés pour la réduction de ce type d'incidents.
+* Un Product Owner ou responsable produit correctement identifié dont le rôle est bien compris par tout le monde.
+* Faire participer les utilisateurs, la production et les équipes aux ateliers d'affinage du backlog.
+* Travailler le découpage des taches pour livrer plus vite de petits morceaux sur lesquelles l'utilisateur pourra donner très vite un avis
+* BDD : travailler avec les utisateurs pour que l'expression des tests automatiques leur soit suffisemment claire.
+* TDD : penser test avant de produire du code, pour obtenir une application testé automatiquement à chaque commit y compris les tests de charges et les tests de résistance aux modifications d'environements.
+* Mettre en place une bonne métrologie capable de remonter rapidement les liens de cause à effet permetra d'une part de simplifier une partie de l'analyse d'impacte et d'autre part de voir le problème avant l'incident pour le corriger au plus vite. La métrologie perlet aussi d'anticiper les problèmes de charge.
+* Le déploiement continu : livrer très vite de tout petits incréments de logiciel pour avoir un feedback rapide de vos utilisateurs
+* "l'infra as code" vous permettra d'automatiser la création d'environements pour reproduire rapidement un bug ou faire face à une forte montée en charge.
+* Pratiquer le "trunc base" ou partager le code le plus simplement possible pour voir au plus tôt les problèmes et éviter tous les problèmes de report entre versions.
+* Automatiser les tests de charges 
 
 ### Livraison
-#### Packaging, Déploiement
-Réduire les incidents de packagings et de déploiement c'est avant tout automatiser ce processus pour éviter les erreurs humaines. Le travail d'automatisation passera problablement par une collaboration devops, de l'infra as code et du "trunck base developpement"
+Réduire les incidents de packagings et de déploiement c'est avant tout automatiser ce processus pour éviter les erreurs humaines. Le travail d'automatisation passera problablement par une collaboration devops, de "l'infra as code" et du "trunck base developpement"
 
-#### Configuration
+Réduire les problèmes de configuration applicative est plus délicat, il faudra au moins surveiller que l'application est bien oppérationnel en suivant les gestes métiers, mais aussi promouvoir la collaboration devops et l'automatisation des livraisons.
 
-métrologie, devops, automatisation des livraisons, infra as code
+### Processus
 
-### Process
-#### Documentation
-procédure pas à jour ou non présente : devops
-#### Manque de compétences
-certaines nouvelles fonctionnalités livrées impactent le travail des ops, que ce soit celle très gourmande en ressource que l'ops peut désactiver en cas de gros trafic ou celle critique qui requière un niveau de service différent sur une ressource dépendante.
-#### Problème de supervision
-et si on travillait sur la métrologie :-) 
+Rentre dans cette catégorie tous les incidents métant en cause les processus et les outils. Pour résumer, dans ITIL, une action répétitive doit au minimum être documenté dans une procédure que l'opérateur pourra suivre pas à pas avec un certains nombre d'outils. 
+Rentre dans cette catégorie, tous les incidents mettant en cause la procédure, que ce soit parcequ'elle est absente ou pas à jour. L'origine du problème étant varié : la production n'est pas au courrant d'une nouvelle fonctionnalité, donc forcémenent non documenté ou parceque le responsable de la procédure n'a pas correctement fait son travail.
+Si un outil utilisé par la production ne fait pas correctement le travail par manque de configuration ou manque de fonctionnalité, alors l'incident rentre aussi dans cette catégorie.
+
+Une bonne collaboration devops permettra de réduire une bonne partie de ces incidents : 
+
+* Inviter la production aux ateliers de construction du backlog et aux démonstrations du produit en fin d'itération
+* Mettre en place des interupteurs applicatifs pour par exemple laisser la production désactiver une fonctionnalité très gourmande en ressource en cas de forte charge.
+* Faire paticiper la production à la réflexion d'architecture, pour par exemple les prévenir au plus tôt de l'utilisation d'une ressource qui deviendra critique.
+
+Les problèmes de supervisions rentre aussi dans cette catégorie, en effet, la supervision est un outil. Travailler sur une métrologie partagé entre tous les acteurs du projet permettra de réduire une partie des incidents.
 
 ## Demandes
 
@@ -92,24 +95,3 @@ solution idem précédent.
 
 # Taxonomie
 
-* Incidents
-* * Application
-* * * Specification
-* * * Analyse d'impact
-* * * Qualité de code
-* * * Tests
-* * * Capacité
-* * Livraison
-* * * Packaging
-* * * Déploiement
-* * * Configuration
-* * Matériel
-* * Process
-* * * Manque de documentation
-* * * Erreur dans une procédure
-* * * Manque de connaissance
-* * * Problème de supervision
-* Demandes
-* * Application
-* * Demande d'accès
-* * Gestion de données
