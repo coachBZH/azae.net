@@ -1,5 +1,5 @@
 ---
-title: Corrélation entre les pratiques agiles et l'activité de la production
+title: Réduire la charge de la production grace à l'agilité
 authors:
   - Thomas Clavier
 contributors:
@@ -19,10 +19,6 @@ Classer, trier les demandes et les incidents pour analyser et corriger les probl
   * Logiciel
   * Livraison
   * Processus
-    * Manque de documentation
-    * Erreur dans une procédure
-    * Manque de connaissance
-    * Problème de supervision
 * Demandes
   * Application
   * Demande d'accès
@@ -61,8 +57,8 @@ Réduire les problèmes de configuration applicative est plus délicat, il faudr
 
 ### Processus
 
-Rentre dans cette catégorie tous les incidents métant en cause les processus et les outils. Pour résumer, dans ITIL, une action répétitive doit au minimum être documenté dans une procédure que l'opérateur pourra suivre pas à pas avec un certains nombre d'outils. 
-Rentre dans cette catégorie, tous les incidents mettant en cause la procédure, que ce soit parcequ'elle est absente ou pas à jour. L'origine du problème étant varié : la production n'est pas au courrant d'une nouvelle fonctionnalité, donc forcémenent non documenté ou parceque le responsable de la procédure n'a pas correctement fait son travail.
+Dans cette catégorie nous trouverons tous les incidents mettant en cause les processus et les outils. Pour résumer, dans ITIL, une action répétitive doit au minimum être documenté dans une procédure que l'opérateur pourra suivre pas à pas avec un certains nombre d'outils. 
+Rentre donc dans cette catégorie, tous les incidents mettant en cause la procédure, que ce soit parcequ'elle est absente ou pas à jour. L'origine du problème étant varié : la production n'est pas au courrant d'une nouvelle fonctionnalité, donc forcémenent non documenté ou parceque le responsable de la procédure n'a pas correctement fait son travail.
 Si un outil utilisé par la production ne fait pas correctement le travail par manque de configuration ou manque de fonctionnalité, alors l'incident rentre aussi dans cette catégorie.
 
 Une bonne collaboration devops permettra de réduire une bonne partie de ces incidents : 
@@ -71,27 +67,25 @@ Une bonne collaboration devops permettra de réduire une bonne partie de ces inc
 * Mettre en place des interupteurs applicatifs pour par exemple laisser la production désactiver une fonctionnalité très gourmande en ressource en cas de forte charge.
 * Faire paticiper la production à la réflexion d'architecture, pour par exemple les prévenir au plus tôt de l'utilisation d'une ressource qui deviendra critique.
 
-Les problèmes de supervisions rentre aussi dans cette catégorie, en effet, la supervision est un outil. Travailler sur une métrologie partagé entre tous les acteurs du projet permettra de réduire une partie des incidents.
+Les problèmes de supervisions rentre aussi dans cette catégorie, en effet la supervision est un outil. Travailler sur une métrologie partagé entre tous les acteurs du projet permettra de réduire une partie des incidents.
 
 ## Demandes
 
 ### Application
 
-Lancement de fonction manuel à la demande des utilisateurs, mise à jour de paramètres applicatifs, installation manuel de composants, relivraison urgente, etc.
-
-Parmis ces demandes certaines sont très fréquentes, favoriser la collaboration entre dev, ops et biz permettra de prendre en compte la création d'écran et/ou de solution pour automatiser et/ou donner aux utilisateurs suffisement d'autonomie dans l'executions de ces demandes.
+Lancement de fonction manuel à la demande des utilisateurs, mise à jour de paramètres applicatifs, installation manuel de composants, relivraison urgente, etc. Tous ces cas de figure rentre dans la catégorie "Demandes applicatives".
 
 ### Demandes d'accès
 
 Toutes les créations, mise à jour ou suppréssion de données lié à la gestion des droits dans ou en dehors de l'application.
 
-idem précédent.
 
 ### Gestion de données
 
 Toutes les demmandes pour jouer des requetes SQL, de la mise à jour de fichiers de données, des extractions, demandes de dumps, de synchro de base ou autre rentrent dans cette catégorie
 
-solution idem précédent.
+### Solution
+Parmis ces demandes certaines sont très fréquentes, favoriser la collaboration entre dev, ops et biz permettra de prendre en compte la création d'écran ou de solution pour automatiser et donner aux utilisateurs suffisement d'autonomie dans l'executions de ces demandes.
 
-# Taxonomie
+
 
