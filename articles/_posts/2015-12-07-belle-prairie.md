@@ -22,10 +22,10 @@ Affin de partager cet objectif, j'aime bien coucher par écrit la vision sur un 
 
 ## Réalisation
 
-Une fois que l'objectif est partagé, faire au moins 2 équipes avec au maximum 5 personnes par équipes, puis faire 2 groupes. À chaque équipe, vous donner le matériel pour produire le tableau (feutres, grande feuille, etc.) Attention, vous n'avez que 2 minutes pour faire le tableau.
+Une fois que l'objectif est partagé, faire 2 équipes avec 4 à 6 personnes par équipes. À chaque équipe, vous donner le matériel pour produire le tableau (feutres, grande feuille, etc.) Attention, vous n'avez que 2 minutes pour faire le tableau.
 
-- Un premier groupe d'équipes réalisera le tableau uniquement depuis la vision.
-- Le second groupe d'équipes réalisera le tableau depuis le cahier des charges suivant :
+- Une premiere équipe réalisera le tableau uniquement depuis la vision.
+- La seconde équipe réalisera le tableau depuis le cahier des charges suivant :
 
 > - 34 brins d'herbe verte
 > - 6 papillons bleus
