@@ -1,0 +1,27 @@
+- name: Coaching
+  icon: fa-users
+  color: color-scarlet-red
+  url: /services/coaching/
+  description: >
+    Accompagnement dans la mise en place une démarche d'amélioration continue et d'entreprise libérée.
+
+- name: Facilitation
+  icon: fa-support
+  color: color-chameleon
+  url: /services/facilitation/
+  description: >
+    Animation de séminaire, facilitation d'atelier pour révéler l'intelligence collective de votre organisation.
+
+- name: Formations
+  icon: fa-graduation-cap
+  color: color-sky-blue
+  url: /services/training/
+  description: >
+    Organisme de formation agréé, nos formations peuvent être prises en charge.
+
+- name: Conseil
+  icon: fa-info
+  color: color-orange
+  url: /services/consulting/
+  description: >
+    Conseil en développement logiciel et artisans du logiciel, expert en logiciel libre.

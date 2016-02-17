@@ -3,31 +3,6 @@ layout: default
 
 description: >
     Azaé vous accompagne dans votre innovation organisationnelle. Capable d'intervenir sur toute la chaîne de production de valeur du logiciel, de la conception à l'exploitation sans oublier les autres équipes de votre entreprise.
-
-services:
-- name: Coaching
-  icon: fa-users
-  color: color-scarlet-red
-  url: /services/coaching/
-  description: Accompagnement dans la mise en place une démarche d'amélioration continue et d'entreprise libérée.
-
-- name: Facilitation
-  icon: fa-support
-  color: color-chameleon
-  url: /services/facilitation/
-  description: Animation de séminaire, facilitation d'atelier pour révéler l'intelligence collective de votre organisation.
-
-- name: Formations
-  icon: fa-graduation-cap
-  color: color-sky-blue
-  url: /services/training/
-  description: Organisme de formation agréé, nos formations peuvent être prises en charge.
-
-- name: Conseil
-  icon: fa-info
-  color: color-orange
-  url: /services/consulting/
-  description: Conseil en développement logiciel et artisans du logiciel, expert en logiciel libre.
 ---
 <div class="text-center">
   <img alt="Azaé" src="/assets/images/logo-azae.png">
@@ -47,7 +22,7 @@ services:
   </div>
 </div>
 <div class="row">
-  {% for service in page.services %}
+  {% for service in site.data.services %}
   <div class="col-md-3 col-xs-6">
     <div class="service-block">
       <a href="{{service.url}}">
