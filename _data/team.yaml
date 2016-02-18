@@ -26,9 +26,9 @@
   social:
   - url: https://github.com/oalbiez
     icon: fa-github
-  - url: https://twitter.com/thomasclavier
-    icon: fa-twitter
   - url: https://twitter.com/OlivierAlbiez
+    icon: fa-twitter
+  - url: https://www.linkedin.com/in/olivieralbiez
     icon: fa-linkedin
   bio: >
     Je suis artisan logiciel et coach agile, passionné des méthodes de travail et de l'auto-organisation dans
