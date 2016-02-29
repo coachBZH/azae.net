@@ -10,24 +10,26 @@ tags:
   - managment
 ---
 
-Dans cet article, nous allons essayer de faire un parallelle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise. (TODO: ce que nous considérons etre une bonne gestion du risque...)
-
+Dans cet article, nous allons essayer de faire un parallèle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise. 
+Nous essairons à travers ce parallèle d'esquicer ce que nous pensons être une bonne gestion du risque en entreprise.
 
 ## Chez Yakovleff
 
-Graph niveau de risque: 0 | minimal | majeur | létal
+Graph niveau de risque: 0 | mineur | majeur | létal
 
-- minimal: remise en cause d'une étape d'une opération
-- majeur: remise en cause de l'operation, mais pas la capacité à opérer
-- létal: mort
+- mineur: risque qui ne remet pas en cause la capacité à opérer, ni l'opération
+- majeur: remise en cause de l'opération, mais pas la capacité à opérer
+- létal: remise en cause de la capacité à opérer : mort, rédition, etc.
 
-maximiser le risque: rester entre minimal et majeur.
+maximiser le risque: rester entre minimal et majeur. tout niveau hierarchique doit maximiser son risque sans être létale. 
+en se métant en risque létal, il oblige ses supérieurs. 
+en revanche, il est possible qu'un niveau hirarchique mette en risque létal un niveau inférieur.
 
-le refus de prendre un risque est un risque létal (prévisible, inaction, ...)
+le refus de prendre un risque est un risque létal (prévisible, inaction, ...) nucléaire, aérien, chars.
 
-Bénéfices:
+bénéfices:
 - baisser la lisibilité par l'adversaire: etre imprevisible
-- augementer l'efficacité opérationelle: (TODO: préciser ?)
+- augementer l'efficacité opérationelle: (todo: préciser ?)
 
 
 ((
@@ -39,13 +41,23 @@ Bénéfices:
     TODO: exemples ?
 ))
 
-
 ## Dans l'entreprise
 
-Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité.
+À la différence du militaire, nous pensons que le risque ne se défini, même localement, que par le risque qu'il fait courrir à la stratégie globale de l'entreprise. 
+Par exemple gérer le risque de démotivation d'un expert chimiste chez kodack n'a pas de sens dans le pivot vers le numérique.
+
+De façon similaire aux militaires, la gestion du risque doit se faire au plus près de l'action. 
+Par exemple le risque d'absences devrait être géré au niveau des équipes. En revanche le risque d'incident férroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, etc.) 
+
+Pour l'entreprise prendre un risque mineur 
+mineur majeur = risque financier / image de l'entreprise.
+
+De la même façon que pour les militaire, l'absence de risque est une énorme prise de risque pour la viabilité à long terme de l'entreprise : Kodack et le numérique.
+Il faut prendre des petits risques tout le temps pour interagire avec lui et apprendre à connaitre son environement : faut toucher ton environement pour voir s'il bouge, et donc pouvoir s'adapter aux changements.
+
+Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité. Faire / penser différenment pour tester.
 
 Voici quelques exemples.
-
 
 ### Free
 
