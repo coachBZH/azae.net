@@ -11,21 +11,20 @@ tags:
 ---
 
 Dans cet article, nous allons essayer de faire un parallèle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise. 
-Nous essairons à travers ce parallèle d'esquicer ce que nous pensons être une bonne gestion du risque en entreprise.
+Nous essairons à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
 
 ## Chez Yakovleff
 
 Graph niveau de risque: 0 | mineur | majeur | létal
 
-- mineur: risque qui ne remet pas en cause la capacité à opérer, ni l'opération
+- mineur: risque qui ne remet pas en cause la capacité à opérer, ni l'opération en cours
 - majeur: remise en cause de l'opération, mais pas la capacité à opérer
-- létal: remise en cause de la capacité à opérer : mort, rédition, etc.
+- létal: remise en cause de la capacité à opérer : mort, reddition, etc.
 
-maximiser le risque: rester entre minimal et majeur. tout niveau hierarchique doit maximiser son risque sans être létale. 
-en se métant en risque létal, il oblige ses supérieurs. 
-en revanche, il est possible qu'un niveau hirarchique mette en risque létal un niveau inférieur.
+Le Gal Yakovleff recommande de choisir des actions dans l'intervalle risque mineur-risque majeur, en essayant de le maximiser.
+En effet, quand on reste dans le choix des actions non risquées, on s'interdit un ensemble d'actions opérationnelles, et l'on obtient donc un résultat sous-optimal. Pratiquement, ce résultat sous-optimal devient un risque létal (on affiche sa prévisibilité et son inaction dans un environnement hostile). Quand on dépasse le seuil du risque majeur, on oblige les niveaux hiérarchiques supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat: on réduit dont son espace de décision, on interfère sur ses décisions. En revanche, il est autorisé à un niveau hirarchique donné de mettre en risque létal un niveau inférieur.
 
-le refus de prendre un risque est un risque létal (prévisible, inaction, ...) nucléaire, aérien, chars.
+Extrêma: (à ôter de la réflexion sur l'analogie que l'on peut faire avec le monde "business as usual" de l'entreprise hors révolution technologique) Quid des changements de doctrines (de la cavalerie blindé, au support aérien puis à la dissuasion nucléaire)? Ces changements de paradigme de conflits sont non-perçus par les opposants -- ou trop tard pour adapter l'infrastructure industrielle adaptée -- et immédiatement destructeur de toutes les anciennes technologies. L'armée "historique" subissant ce nouveau type de doctrine-arme doit alors envisager des actions proches de la létalité, car toute autre alternative conduit à un risque de destruction certain.
 
 bénéfices:
 - baisser la lisibilité par l'adversaire: etre imprevisible
@@ -43,17 +42,24 @@ bénéfices:
 
 ## Dans l'entreprise
 
-À la différence du militaire, nous pensons que le risque ne se défini, même localement, que par le risque qu'il fait courrir à la stratégie globale de l'entreprise. 
-Par exemple gérer le risque de démotivation d'un expert chimiste chez kodack n'a pas de sens dans le pivot vers le numérique.
+À la différence du militaire, nous pensons que le risque n'a de signification -- même localement dans les arbitrages sur les risques d'un département par exemple -- que par le risque qu'il fait courir à la stratégie globale de l'entreprise. 
+Exemple: gérer le risque de démotivation d'un expert chimiste chez Kodak ne fait aucun sens dans le pivot "de survie" vers le numérique.
 
-De façon similaire aux militaires, la gestion du risque doit se faire au plus près de l'action. 
-Par exemple le risque d'absences devrait être géré au niveau des équipes. En revanche le risque d'incident férroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, etc.) 
+Par contre, de façon analogue aux contextes militaire, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie: décentralisation de la décision au niveau le plus pertinent d'analyse et d'action). 
+Exemples: le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile etc.) 
 
-Pour l'entreprise prendre un risque mineur 
-mineur majeur = risque financier / image de l'entreprise.
+Dans le contexte de l'entreprise, les niveaux de risques ont des définitions proches du domaine militaire: 
 
-De la même façon que pour les militaire, l'absence de risque est une énorme prise de risque pour la viabilité à long terme de l'entreprise : Kodack et le numérique.
-Il faut prendre des petits risques tout le temps pour interagire avec lui et apprendre à connaitre son environement : faut toucher ton environement pour voir s'il bouge, et donc pouvoir s'adapter aux changements.
+- mineur: risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
+- majeur: remise en cause de l'activité en cours, mais pas la capacité future à opérer: risque financiers assurables
+- létal: remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires, image de l'entreprise...
+
+En élaborant l'analogie militaire du risque de "non prise de risque", dans un environnement raisonnablement concurrentil ( ce qui est probablement de toutes les industries technologiques actuelles), une entreprise ne peut pas agir uniquement dans le but d'éviter toute prise de risque.
+En effet, un environnement concurrentiel est -- par nature -- chaotique. On pose l'hypothèse que les outils d'une organisation commerciale standard s'appuie sur les outils de la complexité (bureaucratie, processus, indicateurs...). La structure commerciale va donc essayer de stabiliser -- temporairement -- des zones où l'on saura agir, avec ces outils de la complexité. Il y a donc un effet miroir: l'organisation -- avec des outils de la complexité -- va se définir des espaces où elle sait agir -- qui sont donc des zones de complexité et non de chaos.
+En partique, cette complexité organisationnelle est seulement apte à agir sur cette complexité spécifique, et ne sait pas d'elle-même construire les outils qui surveillent l'environnement -- qui reste chaotique, elle n'a pas les capacités de perception/de détection des événements qui rendent caduque cette stabilité temporaire. 
+
+En particulier: la seule façon de garder contact avec un environnement chaotique est d'interagir pro-activement, d'entrer en contact avec lui suffisament souvent pour détecter s'il change de nature ou seulement de degré. 
+Cette interaction ne peut pas être une simple extrapolation (ie: une innovation) du monde "complexe" où se trouve l'organisation commerciale, mais doit se positionner à la frontière du chaotique: il faut faire preuve de créativité pour la franchir. Il ne s'agit pas uniquement de reparamétrerles processus internes de l'organisation mais de les reconfigurer/recombiner/contredire/abstraire/remplacer... afin qu'ils deviennent opératifs sur une frontière qui devient progressivement perméable au chaos environnants, et d'y définir un nouvel espace de stabilité qui sera d'une nature de complexité différente.
 
 Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité. Faire / penser différenment pour tester.
 
