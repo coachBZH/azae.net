@@ -50,6 +50,6 @@ Je profite de l'occasion pour parler
 
 - Des équipes auto-organisées, partager une vision pour que chacun soit capable de faire des choix en toute autonomie.
 - De l'importance de fournir le "Quoi" et le "Pour qui" sans aborder le "Comment", c'est l'équipe qui sait comment faire, ce sont les experts.
-- De la difficulté de décrire une idée, une pensée. L'échange oral, accompagné de retour direct sur le produit en cours de réalisation est bien plus riche que le cahier des charges écrit. Il est souvent préférable de privilégier une vision partagée puis d'asseoir le PO dans l'équipe.
+- De la difficulté de décrire une idée, une pensée. L'échange oral, accompagné de retour direct sur le produit en cours de réalisation est bien plus riche que le cahier des charges écrit. Il est souvent préférable de privilégier une vision partagée puis d'assoir le PO dans l'équipe.
 
 Après cet exercice, les tableaux réalisés peuvent être exposés dans le bureau. Ils seront un point d'ancrage pour se remémorer l'apprentissage.
