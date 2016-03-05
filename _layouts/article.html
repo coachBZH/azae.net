@@ -17,6 +17,7 @@ layout: default
     "height": "400 px"
   },
   "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
   "author": [
     {% for author in page.authors %}
       {"@type": "Person", "name": "{{ author }}"}
