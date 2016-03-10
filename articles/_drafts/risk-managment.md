@@ -72,23 +72,17 @@ Voici quelques exemples.
 
 ### Free
 
-Free mets sur le marche sa premmière box en annoncant le triple play avec en resultante une réduction de la TVA. Les concurrents ont tous applaudis en copiant l'optimisation fiscale, sans penser qu'ils allaient disctibuer de la télé. A partir de cet instant et pour plusieurs années, free sera systématiquement en avance sur la concurrance.
-
-prise de risque: créativité technique
+Free mets sur le marche sa premmière box en annoncant le triple play avec en resultante une réduction de la TVA. Les concurrents ont tous applaudis en copiant l'optimisation fiscale, sans penser qu'ils allaient disctibuer de la télé. A partir de cet instant et pour plusieurs années, free sera systématiquement en avance sur la concurrence. La prise de risque de Free est dans la créativité technique.
 
 
 ### Toyota
 
-Toyota va transformer son organisation dans les année 1950, en s'inspirant des supermarché américain et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs facons de faire. Leur concurrent mettront près de 50 ans pour comprendre.
-
-prise de risque: créativité organisationelle
+Toyota va transformer son organisation dans les année 1950, en s'inspirant des supermarché américain et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs facons de faire. Leur concurrent mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationelle.
 
 
 ### Favi
 
-Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leader incontesté sur leur marché.
-
-prise de risque: créativité organisationelle
+Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leader incontesté sur leur marché. Içi encore le prise de risque est dans la créativité organisationelle.
 
 
 ### Kodak
