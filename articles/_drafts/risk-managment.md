@@ -87,7 +87,11 @@ Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation
 
 ### Kodak
 
-http://www.paristechreview.com/2012/02/20/kodak-lecons-faillite/
+La société a été fondée par George Eastman en 1881. En 1885, la société lance le film souple qui fera leur succès.
+
+Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc ratés le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodac qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.
+
+Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
 
 
 ---
