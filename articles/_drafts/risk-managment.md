@@ -11,24 +11,25 @@ tags:
 ---
 
 Dans cet article, nous allons essayer de faire un parallèle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise.
+
 Nous essairons à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
 
 
 ## Chez Yakovleff
 
-Graph niveau de risque: 0 | mineur | majeur | létal
+Le Général Yakovleff identifié trois niveaux de risques :
 
-- mineur: risque qui ne remet pas en cause ni la capacité à opérer, ni l'opération en cours
-- majeur: remise en cause de l'opération, mais pas la capacité à opérer
-- létal: remise en cause de la capacité à opérer : mort, reddition, etc.
+- le risque faible ou limité, qui n'engage que les modalités d'execution de la mission
+- le risque significatif engage le succès de la mission
+- le risque critique engage la survie de l'unité
 
-Le Général Yakovleff recommande de choisir des actions dans l'intervalle risque mineur-risque majeur, en essayant de le maximiser. Vouloir minimiser le risque c'est s'interdire un ensemble d'actions et donc se restreindre des possibilités.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque c'est s'interdire un ensemble d'actions et donc se restreindre des possibilités.
 
-En conséquence et paradoxalement, minimiser les risques finit par faire courrir un risque létal. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
+En conséquence et paradoxalement, minimiser les risques finit par faire courrir un risque critique. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
 
 Les bénéfices attendus dans la maximisations des risques sont pour le militaire de baisser sa lisibilité par l'adversaire, d'etre imprévisible.
 
-D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supperieur à prendre des risques plus grands pour compenser l'attitude timoré des niveaux subalternes. A l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas on obligerai les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirai dont leurs espaces de décision. En revanche, il est autorisé à un niveau hirarchique donné de mettre en risque létal un niveau inférieur.
+D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supperieur à prendre des risques plus grands pour compenser l'attitude timoré des niveaux subalternes. A l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas on obligerai les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirai dont leurs espaces de décision. En revanche, il est autorisé à un niveau hirarchique donné de mettre en risque critique un niveau inférieur.
 
 Pour illustrer nous allons regarder un exemple de prise de risque et un exemple de non prise de risque.
 
@@ -48,9 +49,15 @@ A l'aube du 15 septembre 1950, 230 navires U.S. firent leur apparition au large 
 L'armée nord-coréenne n'avait pas envisagé une invasion à Incheon et même après la prise de Green Beach, la NKPA supposa (probablement grâce à la désinformation du contre-espionnage américain) que le débarquement principal se ferait à Gunsan. En conséquence, seule une faible force fut envoyée en renfort à Incheon, qui arriva sur place alors que la tête de pont allié était déjà bien établie, les forces de l'ONU ayant pris possession des deux plages (Blue et Red)
 
 
-## Exemple de non prise de risque
+### La drole de guerre
 
-((OAL: à trouver))
+Un bel exemple de non prise de risque décrit par le Général Yakovleff est la passivité française et anglaise pendant la "drole de guerre" entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940.
+
+La seule offensive sera le 7 septembre ou l'armé française attaquera mollement, avec deux corps d’armée, la Sarre. L’offensive durera dix jours, et n’avancera que de dix kilomètres en territoire allemand.
+
+À part cela, la France ne fait rien de concret. Elle avait pourtant peu à craindre des Allemands car à peu près toutes leurs troupes étaient engagées dans la campagne de Pologne.
+
+Cette inaction laissera aux Allemends le temps de se préparer et d'avoir l'initaitive de l'opération "Fall Gelb" le 10 mai 1940.
 
 
 ## Dans l'entreprise
@@ -63,7 +70,7 @@ Dans le contexte de l'entreprise, nous proposons la définition suivante des niv
 
 - mineur: risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
 - majeur: remise en cause de l'activité en cours, mais pas la capacité future à opérer: risque financiers assurables
-- létal: remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires...
+- critique: remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires...
 
 Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire / penser différenment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
 
