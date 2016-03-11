@@ -6,7 +6,7 @@ tags:
   outil
 ---
 
-# Temperatur reading par [Virginia Satir](ttps://fr.wikipedia.org/wiki/Virginia_Satir)
+# Temperature reading par [Virginia Satir](ttps://fr.wikipedia.org/wiki/Virginia_Satir)
 
 C'est une forme de rétrospective de groupe, que Virginia Satir proposait aux familles qu'elle accompagnait. C’est une réunion où les personnes se parlent et font l’expérience individuelle d’appartenir à un groupe. 
 Elle proposait de le faire une fois par semaine en famille afin de garder un rythme d'amélioration continue.
