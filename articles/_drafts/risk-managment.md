@@ -12,26 +12,26 @@ tags:
 
 Dans cet article, nous allons essayer de faire un parallèle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise.
 
-Nous essairons à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
+Nous essaierions à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
 
 
 ## Chez Yakovleff
 
 Le Général Yakovleff identifié trois niveaux de risques :
 
-- le risque faible ou limité, qui n'engage que les modalités d'execution de la mission
+- le risque faible ou limité, qui n'engage que les modalités d'exécution de la mission
 - le risque significatif engage le succès de la mission
 - le risque critique engage la survie de l'unité
 
-Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque c'est s'interdire un ensemble d'actions et donc se restreindre des possibilités.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc se restreindre des possibilités.
 
-En conséquence et paradoxalement, minimiser les risques finit par faire courrir un risque critique. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
+En conséquence et paradoxalement, celui qui ne consent pas le risque à bon escient se condamne à prendre plus tard des risques bien plus élevés. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
 
-Les bénéfices attendus dans la maximisations des risques sont pour le militaire de baisser sa lisibilité par l'adversaire, d'etre imprévisible.
+Les bénéfices attendus dans la maximisation des risques sont, pour le militaire, de baisser sa lisibilité par l'adversaire, d'être imprévisibles.
 
-D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supperieur à prendre des risques plus grands pour compenser l'attitude timoré des niveaux subalternes. A l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas on obligerai les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirai dont leurs espaces de décision. En revanche, il est autorisé à un niveau hirarchique donné de mettre en risque critique un niveau inférieur.
+D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes. À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirait dont leurs espaces de décision. En revanche, il est autorisé à un niveau hiérarchique donné de mettre en risque critique un niveau inférieur.
 
-Pour illustrer nous allons regarder un exemple de prise de risque et un exemple de non prise de risque.
+Pour illustrer, nous allons regarder un exemple de prise de risque et un exemple de non prise de risque.
 
 
 ### Débarquement de la force ONU dirigé par les américains à Incheon
