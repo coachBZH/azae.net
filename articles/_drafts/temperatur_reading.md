@@ -19,14 +19,13 @@ Nos amis d'[/ut7](http://ut7.fr/posts/blog/2015/11/18/annimer-vos-retrospectives
 
 ## Le déroulement
 
-il est découpé en 5 étapes :
+Il est découpé en 5 étapes :
 
-* Une appréciation positive : partager 5 merci à d'autres personnes du groupe pour quelque chose que vous avez apprécié de leur part depuis le dernier conseil. Cette étape permet de mettre le groupe dans un dynamique positive.
-* Les plaintes, les espoirs et les rêves : décrire 2 choses que vous espérez à long terme et à cours terme. un partenaire qui comprend vos rêves est en mesure de les aider à se produire. En accompagnant votre plainte, espoire ou rêve d'un plan d'action personnel, vous déchargerez le groupe du sentiment de responsabilité sans l'empécjer de vous aider. Par exemple : j'aimerais ne pas manger de la soupe tous les soirs, je vais préparer le diner demain soir.
+* Une appréciation positive : partager 5 mercis à d'autres personnes du groupe pour quelque chose que vous avez apprécié de leur part depuis le dernier conseil. Cette étape permet de mettre le groupe dans un dynamique positive.
+* Les plaintes, les espoirs et les rêves : décrire 2 choses que vous espérez à long terme et à cours terme. Un partenaire qui comprend vos rêves est en mesure de les aider à se produire. En accompagnant votre plainte, espoir ou rêve d'un plan d'action personnel, vous déchargerez le groupe du sentiment de responsabilité sans l'empêcher de vous aider. Par exemple : j'aimerais ne pas manger de la soupe tous les soirs, je vais préparer le dîner demain soir.
 * Les puzzles : ce que l'on ne comprend pas dans le groupe, les mystères et les rumeurs.
 * Les information et les nouvelles
 
 # Conclusion
 
-Cette forme de rétrospective démarre sur un dynamique très positive avant d'aborder les actions personnelles d'amélioration et conclue sur la vie du groupe. En mettant en avant des actions personnelles, on implique chaque membre du groupe à s'engager dans l'amélioration continue, sans exclure une réel dynamique de groupe.
-Elle est particulièrement adapté aux équipes qui ne sont pas totalement alignées.
+Cette forme de rétrospective démarre sur un dynamique très positive avant d'aborder les actions personnelles d'amélioration et conclue sur la vie du groupe. En mettant en avant des actions personnelles, on implique chaque membre du groupe à s'engager dans l'amélioration continue, sans exclure une réelle dynamique de groupe. Elle est particulièrement adaptée aux équipes qui ne sont pas totalement alignées.
