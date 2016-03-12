@@ -36,17 +36,17 @@ Pour illustrer, nous allons regarder un exemple de prise de risque et un exemple
 
 ### Débarquement de la force ONU dirigé par les américains à Incheon
 
-Le dimanche 25 juin 1950, la corée du nord franchissent le 38e parallèle et envahissent la corée du sud.
+Le dimanche 25 juin 1950, la Corée du nord franchissent le 38e parallèle et envahissent la corée du sud.
 
 Malgré l’envoi de forces américaines en Corée, les Nord-Coréens s’emparèrent de Séoul, la capitale du Sud, le 28 juin et repoussèrent les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan et dont la ligne de front passait par la ville majeure de Daegu.
 
-Le général MacArthur imagina alors un plan, baptisé "Chromite", en vue de renverser le cours de la guerre en Corée. Ce plan prévoyait le débarquement de forces U.S. à Incheon, grosse localité portuaire proche de Seoul (30 kilomètres) et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes. Si le plan réussissait, les Américains auraient tôt fait de reconquérir le noeud routier vital de Seoul et de couper les Nord-Coréens de leurs sources de ravitaillement. Affaiblis, les nord-coréens seraient dès lors pris à partie par les troupes défendant la poche de Pusan qui contre-attaqueraient vigoureusement.
+Le général MacArthur imagina alors un plan, baptisé "Chromite", en vue de renverser le cours de la guerre en Corée. Ce plan prévoyait le débarquement de forces U.S. à Incheon, grosse localité portuaire proche de Seoul (30 kilomètres) et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes. Si le plan réussissait, les Américains auraient tôt fait de reconquérir le noeud routier vital de Seoul et de couper les Nord-Coréens de leurs sources de ravitaillement. Affaiblis, les Nord-coréens seraient dès lors pris à partie par les troupes défendant la poche de Pusan qui contre-attaqueraient vigoureusement.
 
-Le plan initial fut regardé avec scepticisme par les autres généraux parce que les défenses naturelles et artificielles d'Incheon étaient redoutables. Les approches possibles vers Incheon étaient limitées à deux passages, « Flying Fish » et le « Canal Est », qui pouvaient être facilement bloqués par des mines. Par ailleurs ces canaux subissaient un courant important, qui pouvait changer rapidement de force, passant de trois à huit nœuds. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues. Le commandant Arlie G. Capps résuma : « Nous avions dressé une liste de chaque désavantage naturel et géographique et Incheon les a tous ».
+Le plan initial fut regardé avec scepticisme par les autres généraux parce que les défenses naturelles et artificielles d'Incheon étaient redoutables. Les approches possibles vers Incheon étaient limitées à deux passages, « Flying Fish » et le « Canal Est », qui pouvaient être facilement bloqués par des mines. Par ailleurs, ces canaux subissaient un courant important, qui pouvait changer rapidement de force, passant de trois à huit nœuds. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues. Le commandant Arlie G. Capps résuma : « Nous avions dressé une liste de chaque désavantage naturel et géographique et Incheon les a tous ».
 
-A l'aube du 15 septembre 1950, 230 navires U.S. firent leur apparition au large d'Incheon. En date du 16 septembre, le succès américain pouvait être tenu comme complet. Le débarquement sur les trois plages avait réussi et le terrain d'aviation de Kimpo avait été conquis au prix de 196 tués U.S. Face aux 13.000 hommes débarqués, les Nord-Coréens ne pouvaient plus opposer que 1.700 adversaires, ayant déjà perdu plus de 200 hommes dans les combats.
+À l'aube du 15 septembre 1950, 230 navires U.S. firent leur apparition au large d'Incheon. En date du 16 septembre, le succès américain pouvait être tenu comme complet. Le débarquement sur les trois plages avait réussi et le terrain d'aviation de Kimpo avait été conquis au prix de 196 tués U.S. Face aux 13.000 hommes débarqués, les Nord-Coréens ne pouvaient plus opposer que 1.700 adversaires, ayant déjà perdu plus de 200 hommes dans les combats.
 
-L'armée nord-coréenne n'avait pas envisagé une invasion à Incheon et même après la prise de Green Beach, la NKPA supposa (probablement grâce à la désinformation du contre-espionnage américain) que le débarquement principal se ferait à Gunsan. En conséquence, seule une faible force fut envoyée en renfort à Incheon, qui arriva sur place alors que la tête de pont allié était déjà bien établie, les forces de l'ONU ayant pris possession des deux plages (Blue et Red)
+L'armée nord-coréenne n'avait pas envisagé une invasion à Inchon, et même après la prise de Green Beach, la Corée du nord supposa (probablement grâce à la désinformation du contre-espionnage américain) que le débarquement principal se ferait à Gunsan. En conséquence, seule une faible force fut envoyée en renfort à Incheon, qui arriva sur place alors que la tête de pont allié était déjà bien établie.
 
 
 ### La drole de guerre
@@ -62,41 +62,39 @@ Cette inaction laissera aux Allemends le temps de se préparer et d'avoir l'init
 
 ## Dans l'entreprise
 
-De façon analogue aux contextes militaire, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie: décentralisation de la décision au niveau le plus pertinent d'analyse et d'action).
+De façon analogue aux contextes militaire, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie : décentralisation de la décision au niveau le plus pertinent d'analyse et d'action).
 
-Par exemple, le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile etc.)
+Par exemple, le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche, le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile, etc.)
 
 Dans le contexte de l'entreprise, nous proposons la définition suivante des niveaux de risques :
 
-- mineur: risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
-- majeur: remise en cause de l'activité en cours, mais pas la capacité future à opérer: risque financiers assurables
-- critique: remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires...
+- mineur : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
+- majeur : remise en cause de l'activité en cours, mais pas la capacité future à opérer : risque financier assurable
+- critique : remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires...
 
-Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire / penser différenment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
+Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire / penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
 
 Voici quelques exemples.
 
 
 ### Free
 
-Free mets sur le marche sa premmière box en annoncant le triple play avec en resultante une réduction de la TVA. Les concurrents ont tous applaudis en copiant l'optimisation fiscale, sans penser qu'ils allaient disctibuer de la télé. A partir de cet instant et pour plusieurs années, free sera systématiquement en avance sur la concurrence. La prise de risque de Free est dans la créativité technique.
+Free met sur le marché sa première box en annonçant le triple play avec en résultante une réduction de la TVA. Les concurrents ont tous applaudi en copiant l'optimisation fiscale, sans penser qu'ils allaient distribuer de la télé. À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. La prise de risque de Free est dans la créativité technique.
 
 
 ### Toyota
 
-Toyota va transformer son organisation dans les année 1950, en s'inspirant des supermarché américain et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs facons de faire. Leur concurrent mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationelle.
+Toyota va transformer son organisation dans les années 1950, en s'inspirant des supermarchés américains et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs façons de faire. Leurs concurrents mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationnelle.
 
 
 ### Favi
 
-Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leader incontesté sur leur marché. Içi encore le prise de risque est dans la créativité organisationelle.
+Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leaders incontestés sur leur marché. Ici encore la prise de risque est dans la créativité organisationnelle.
 
 
 ### Kodak
 
-La société a été fondée par George Eastman en 1881. En 1885, la société lance le film souple qui fera leur succès.
-
-Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc ratés le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodac qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.
+Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodac qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.
 
 Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
 
