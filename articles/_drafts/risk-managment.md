@@ -17,7 +17,7 @@ Nous essaierions à travers ce parallèle d'esquisser ce que nous pensons être 
 
 ## Chez Yakovleff
 
-Le Général Yakovleff identifié trois niveaux de risques :
+Le Général Yakovleff identifie trois niveaux de risques :
 
 - le risque faible ou limité, qui n'engage que les modalités d'exécution de la mission
 - le risque significatif engage le succès de la mission
