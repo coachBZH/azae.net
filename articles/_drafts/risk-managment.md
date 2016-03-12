@@ -12,7 +12,7 @@ tags:
 
 Dans cet article, nous allons essayer de faire un parallèle entre la gestion du risque dans la doctrine de Général Yakovleff et la gestion du risque en entreprise.
 
-Nous essaierions à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
+Nous essaierons à travers ce parallèle d'esquisser ce que nous pensons être une bonne gestion du risque en entreprise.
 
 
 ## Chez Yakovleff
