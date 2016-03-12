@@ -1,11 +1,10 @@
 ---
-title:  "La gestion du risque"
+title:  "Le managment du chaos"
 authors:
   - Olivier Albiez
   - Hervé Taboubou
   - Thomas Clavier
 tags:
-  - military
   - concepts
   - managment
 ---
