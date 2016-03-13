@@ -31,10 +31,12 @@ Les bénéfices attendus dans la maximisation des risques sont, pour le militair
 
 D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes. À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirait dont leurs espaces de décision. En revanche, il est autorisé à un niveau hiérarchique donné de mettre en risque critique un niveau inférieur.
 
+### Exemples
+
 Pour illustrer, nous allons regarder un exemple de prise de risque et un exemple de non prise de risque.
 
 
-### Débarquement de la force ONU dirigé par les américains à Incheon
+#### Débarquement de la force ONU dirigé par les américains à Incheon
 
 Le dimanche 25 juin 1950, la Corée du Nord envahit la Corée du Sud. Malgré l’envoi de forces américaines en Corée, les Nord-Coréens s’emparent de Séoul, la capitale du Sud, le 28 juin et repoussent les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan.
 
@@ -48,7 +50,7 @@ Le plan initial fut regardé avec scepticisme par les autres généraux parce qu
 L'armée nord-coréenne n'avait pas envisagé une invasion à Inchon, et même après le début des opérations, la Corée du Nord supposa que le débarquement principal se ferait ailleurs à Gunsan. En conséquence, seule une faible force fut envoyée en renfort à Incheon, qui arriva sur place alors que la tête de pont allié était déjà bien établie.
 
 
-### La « drôle de guerre »
+#### La « drôle de guerre »
 
 Un bel exemple de non prise de risque décrit par le Général Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940.
 
@@ -66,30 +68,30 @@ Par exemple, le risque d'absence du personnel devrait être géré au niveau des
 Dans le contexte de l'entreprise, nous proposons la définition suivante des niveaux de risques :
 
 - mineur : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
-- majeur : remise en cause de l'activité en cours, mais pas la capacité future à opérer : risque financier assurable
-- critique : remise en cause de la capacité à opérer : faillite, BFR KO, violation de contraintes légales ou réglementaires...
+- majeur : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
+- critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...)
 
-Pour l'entreprise, pour atteindre les bénéfices similaires - lisibilité et efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire / penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
-
-Voici quelques exemples.
+Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
 
 
-### Free
+### Exemples
+
+#### Free
 
 Free met sur le marché sa première box en annonçant le triple play avec en résultante une réduction de la TVA. Les concurrents ont tous applaudi en copiant l'optimisation fiscale, sans penser qu'ils allaient distribuer de la télé. À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. La prise de risque de Free est dans la créativité technique.
 
 
-### Toyota
+#### Toyota
 
 Toyota va transformer son organisation dans les années 1950, en s'inspirant des supermarchés américains et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs façons de faire. Leurs concurrents mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationnelle.
 
 
-### Favi
+#### Favi
 
 Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leaders incontestés sur leur marché. Ici encore la prise de risque est dans la créativité organisationnelle.
 
 
-### Kodak
+#### Kodak
 
 Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodac qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.
 
