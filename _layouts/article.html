@@ -42,15 +42,14 @@ layout: default
 </script>
 
 <div class="post">
-    <div class="row">
-        <div class="page-header">
+    <div class="row page-header article-header">
             {% if page.illustration %}
-            <div class="col-md-2">
-                <img alt='{{ page.title }} illustration' src='{{page.illustration}}' height="150">
+            <div class="col-md-3">
+                <img alt='{{ page.title }} illustration' src='{{page.illustration}}' class="img-responsive">
             </div>
             {% endif %}
-            <div class="col-md-10">
-                <h1 class="post-title">
+            <div class="col-md-9">
+                <h1>
                     {{ page.title }}
                     <small>{{ page.subtitle }}</small>
                 </h1>
@@ -70,7 +69,6 @@ layout: default
                   <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
                 </p>
             </div>
-        </div>
     </div>
     <div class="row">
       <div class="col-md-12">

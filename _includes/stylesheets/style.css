@@ -229,3 +229,8 @@ h4 {
 .image-100 {
   width: 100px;
 }
+
+.article-header {
+  padding-top: 1em;
+  border-top: solid 1px #eee;
+}
