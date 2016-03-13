@@ -67,11 +67,11 @@ Par exemple, le risque d'absence du personnel devrait être géré au niveau des
 
 Dans le contexte de l'entreprise, nous proposons la définition suivante des niveaux de risques :
 
-- mineur : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
-- majeur : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
-- critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...)
+- risque faible : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
+- risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
+- risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...)
 
-Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque en restant sous le risque majeur.
+Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque sans prendre de risque critique.
 
 
 ### Exemples
