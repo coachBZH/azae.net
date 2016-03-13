@@ -29,6 +29,26 @@ title: Articles
 
 <!--
 <div class="row">
+    <div class="col-md-3">
+        <h1>Par Tags</h1>
+    </div>
+    <div class="col-md-9 spacer-20">
+      <ul class="list-group">
+        {% for tag_map in site.tags %}
+          {% assign tag = tag_map | first %}
+          {% assign articles = tag_map | last %}
+          <li class="list-group-item">
+            {{tag}}
+            <span class="badge">{{ articles.size }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+</div>
+-->
+
+<!--
+<div class="row">
     <div class="col-md-12">
         <h1>Par Tags</h1>
     </div>
@@ -55,6 +75,32 @@ title: Articles
     </div>
 {% endfor %}
 -->
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Par ordre alphabétique</h1>
+    </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <ul class="list-group article-list">  
+      {% assign sorted_articles = (site.categories.articles | sort: 'title') %}
+      {% for article in sorted_articles %}
+      <li class="list-group-item">
+        {% if article.tags.size > 0 %}
+        <span class="pull-right">
+          {% for tag in article.tags %}
+          <span class="label label-default">{{tag}}</span>
+          {% endfor %}
+        </span>
+        {% endif %}
+        <a href="{{ article.url }}">{{ article.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
 
 <!--
 <div class="row">
