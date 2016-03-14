@@ -1,5 +1,5 @@
 ---
-title:  "Forum ouvert"
+title: Forum ouvert
 authors:
   - Olivier Albiez
 tags:

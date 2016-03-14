@@ -1,5 +1,5 @@
 ---
-title:  "World Café"
+title: World Café
 authors:
   - Olivier Albiez
 tags:

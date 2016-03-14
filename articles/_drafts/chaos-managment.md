@@ -1,5 +1,5 @@
 ---
-title:  "Le managment du chaos"
+title: Le managment du chaos
 authors:
   - Olivier Albiez
   - Hervé Taboubou

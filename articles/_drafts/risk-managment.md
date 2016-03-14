@@ -1,5 +1,5 @@
 ---
-title:  "La gestion du risque"
+title: La gestion du risque
 authors:
   - Olivier Albiez
   - Hervé Taboubou
