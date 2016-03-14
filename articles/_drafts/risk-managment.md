@@ -20,16 +20,18 @@ Nous essaierons à travers ce parallèle d'esquisser ce que nous pensons être u
 Le Général Yakovleff identifie trois niveaux de risques :
 
 - le risque faible ou limité, qui n'engage que les modalités d'exécution de la mission
-- le risque significatif engage le succès de la mission
-- le risque critique engage la survie de l'unité
+- le risque significatif qui engage le succès de la mission
+- le risque critique qui engage la survie de l'unité
 
-Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc se restreindre des possibilités.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités.
 
-En conséquence et paradoxalement, celui qui ne consent pas le risque à bon escient se condamne à prendre plus tard des risques bien plus élevés. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
+En conséquence et paradoxalement, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés. En effet, on devient tellement prévisible par l'adversaire qu'il lui devient facile de contrer les actions.
 
 Les bénéfices attendus dans la maximisation des risques sont, pour le militaire, de baisser sa lisibilité par l'adversaire, d'être imprévisibles.
 
-D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique prennent à sa charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes. À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. On réduirait dont leurs espaces de décision. En revanche, il est autorisé à un niveau hiérarchique donné de mettre en risque critique un niveau inférieur.
+D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique se charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes. 
+À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. 
+On réduirait donc leurs espaces de décision. En revanche, il est autorisé à un niveau hiérarchique donné de mettre en risque critique un niveau inférieur.
 
 ### Exemples
 
