@@ -1,24 +1,24 @@
 ---
 title: Lecture de la température
 authors:
-  Thomas Clavier
+- Thomas Clavier
 tags:
-  outil
+- outil
 illustration: /assets/images/articles/temperature-reading/illustration.jpg
 ---
 
-# Temperature reading par [Virginia Satir](ttps://fr.wikipedia.org/wiki/Virginia_Satir)
+## Temperature reading par [Virginia Satir](ttps://fr.wikipedia.org/wiki/Virginia_Satir)
 
-C'est une forme de rétrospective de groupe, que Virginia Satir proposait aux familles qu'elle accompagnait. C’est une réunion où les personnes se parlent et font l’expérience individuelle d’appartenir à un groupe. 
+C'est une forme de rétrospective de groupe, que Virginia Satir proposait aux familles qu'elle accompagnait. C’est une réunion où les personnes se parlent et font l’expérience individuelle d’appartenir à un groupe.
 Elle proposait de le faire une fois par semaine en famille afin de garder un rythme d'amélioration continue.
-Nos amis d'[/ut7](http://ut7.fr/posts/blog/2015/11/18/annimer-vos-retrospectives-avec-le-conseil.html) l'appel le conseil. 
+Nos amis d'[/ut7](http://ut7.fr/posts/blog/2015/11/18/annimer-vos-retrospectives-avec-le-conseil.html) l'appel le conseil.
 
-## Les rôles
+### Les rôles
 * Un guide qui va s'assurer que les règles sont respectées, il annonce les étapes dans l'ordre et peut aussi jouer le maître du temps.
 * Les participants, tout le monde y compris le guide.
 
 
-## Le déroulement
+### Le déroulement
 
 Il est découpé en 5 étapes :
 
@@ -27,6 +27,6 @@ Il est découpé en 5 étapes :
 * Les puzzles : ce que l'on ne comprend pas dans le groupe, les mystères et les rumeurs.
 * Les information et les nouvelles
 
-# Conclusion
+## Conclusion
 
 Cette forme de rétrospective démarre sur un dynamique très positive avant d'aborder les actions personnelles d'amélioration et conclue sur la vie du groupe. En mettant en avant des actions personnelles, on implique chaque membre du groupe à s'engager dans l'amélioration continue, sans exclure une réelle dynamique de groupe. Elle est particulièrement adaptée aux équipes qui ne sont pas totalement alignées.
