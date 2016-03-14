@@ -66,7 +66,19 @@
 
 body {
   font-family: 'Linux Biolinum';
-  font-size: 16px;
+  font-size: 18px;
+}
+
+.post h2 {
+  color: #a40000;
+}
+.post h3 {
+  color: #4e9a06;
+}
+p {
+  text-align: justify;
+  -moz-hyphens: auto;
+  word-wrap: break-word;
 }
 
 h4 {
@@ -234,3 +246,4 @@ h4 {
   padding-top: 1em;
   border-top: solid 1px #eee;
 }
+
