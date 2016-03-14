@@ -4,6 +4,7 @@ authors:
   Thomas Clavier
 tags:
   outil
+illustration: /assets/images/articles/temperature-reading/illustration.jpg
 ---
 
 # Temperature reading par [Virginia Satir](ttps://fr.wikipedia.org/wiki/Virginia_Satir)
