@@ -2,6 +2,8 @@
 title: Lecture de la température
 authors:
 - Thomas Clavier
+contributors:
+  - Olivier Albiez
 tags:
 - outil
 illustration: /assets/images/articles/temperature-reading/illustration.jpg
