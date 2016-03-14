@@ -1,5 +1,5 @@
 ---
-title:  "No Estimates"
+title: No Estimates
 authors:
   - Olivier Albiez
 tags:

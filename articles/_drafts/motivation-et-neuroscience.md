@@ -1,5 +1,5 @@
 ---
-title:  "La motivation"
+title: La motivation
 authors:
   - Olivier Albiez
 tags:

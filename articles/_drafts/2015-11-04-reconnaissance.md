@@ -1,5 +1,5 @@
 ---
-title:  "L'art de la reconnaissance"
+title: L'art de la reconnaissance
 authors:
   - Olivier Albiez
 tags:

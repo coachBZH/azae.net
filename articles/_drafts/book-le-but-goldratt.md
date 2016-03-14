@@ -1,5 +1,5 @@
 ---
-title:  "Le but, Eliyahu M. Goldratt"
+title: Le but, Eliyahu M. Goldratt
 authors:
   - Olivier Albiez
 tags:

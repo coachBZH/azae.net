@@ -1,5 +1,5 @@
 ---
-title:  "Stratégies de branches"
+title: Stratégies de branches
 authors:
   - Olivier Albiez
 tags:
