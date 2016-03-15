@@ -69,18 +69,6 @@ body {
   font-size: 18px;
 }
 
-.post h2 {
-  color: #a40000;
-}
-.post h3 {
-  color: #4e9a06;
-}
-p {
-  text-align: justify;
-  -moz-hyphens: auto;
-  word-wrap: break-word;
-}
-
 h4 {
   font-weight: bold;
 }
@@ -247,3 +235,15 @@ h4 {
   border-top: solid 1px #eee;
 }
 
+.post {
+  text-align: justify;
+  -moz-hyphens: auto;
+  word-wrap: break-word;
+}
+
+.post h2 {
+  color: #a40000;
+}
+.post h3 {
+  color: #4e9a06;
+}
