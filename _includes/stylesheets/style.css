@@ -46,21 +46,25 @@
 
 @font-face {
   font-family: "Linux Biolinum";
-  src: url('/assets/fonts/LinBiolinum_R.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+  src: url('/assets/fonts/LinBiolinum_R.otf') format('opentype');
   font-smooth: always;
 }
 
 @font-face {
   font-family: "Linux Biolinum";
   font-style: italic;
-  src: url('/assets/fonts/LinBiolinum_RI.woff') format('woff');
+  font-weight: normal;
+  src: url('/assets/fonts/LinBiolinum_RI.otf') format('opentype');
   font-smooth: always;
 }
 
 @font-face {
   font-family: "Linux Biolinum";
+  font-style: normal;
   font-weight: bold;
-  src: url('/assets/fonts/LinBiolinum_RB.woff') format('woff');
+  src: url('/assets/fonts/LinBiolinum_RB.otf') format('opentype');
   font-smooth: always;
 }
 
