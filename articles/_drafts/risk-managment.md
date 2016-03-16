@@ -17,7 +17,7 @@ Nous essaierons à travers ce parallèle d'esquisser ce que nous pensons être u
 
 ## Chez Yakovleff
 
-Le Général Yakovleff identifie trois niveaux de risques :
+Yakovleff identifie trois niveaux de risques :
 
 - le risque faible ou limité, qui n'engage que les modalités d'exécution de la mission
 - le risque significatif qui engage le succès de la mission
@@ -29,8 +29,8 @@ En conséquence et paradoxalement, celui qui ne prend pas de risque à bon escie
 
 Les bénéfices attendus dans la maximisation des risques sont, pour le militaire, de baisser sa lisibilité par l'adversaire, d'être imprévisibles.
 
-D'autre part, le Général Yakovleff insiste pour que chaque niveau hiérarchique se charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes. 
-À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat. 
+D'autre part, le Yakovleff insiste pour que chaque niveau hiérarchique se charge de maximiser les risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude timorée des niveaux subalternes.
+À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer dans une décision de protéger ou non l'outil de combat.
 On réduirait donc leurs espaces de décision. En revanche, il est autorisé à un niveau hiérarchique donné de mettre en risque critique un niveau inférieur.
 
 ### Exemples
@@ -54,7 +54,7 @@ L'armée nord-coréenne n'avait pas envisagé une invasion à Inchon, et même a
 
 #### La « drôle de guerre »
 
-Un bel exemple de non prise de risque décrit par le Général Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940.
+Un bel exemple de non prise de risque décrit par le Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940.
 
 La seule offensive sera le 7 septembre où l'armé française attaquera mollement, avec deux corps d’armée, la Sarre. L’offensive durera dix jours, et n’avancera que de dix kilomètres en territoire allemand. À part cela, la France ne fait rien de concret. Elle avait pourtant peu à craindre des Allemands car à peu près toutes leurs troupes étaient engagées dans la campagne de Pologne.
 
