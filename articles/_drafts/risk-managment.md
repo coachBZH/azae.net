@@ -23,32 +23,29 @@ Yakovleff identifie trois niveaux de risques :
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage la survie de l'unité
 
-Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. D'autre part, maximiser le risque c'est augementer son imprevisibilité.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. Maximiser le risque c'est donc augmenter son imprevisibilité.
 
 En conséquence et paradoxalement, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés.
 
-D'autre part, Yakovleff insiste pour que chaque niveau hiérarchique se charge de maximiser ses risques. Ceci pour ne pas obliger le niveau supérieur à prendre des risques plus grands pour compenser l'attitude trop prudente des niveaux subalternes.
+D'autre part, chaque niveau hiérarchique se charge de maximiser ses risques, quitte à mettre en risque critique des niveaux inferieurs. En effet, le niveau supérieur ne doit pas être contraint à prendre des risques en compensation d'attitudes trop prudentes.
 
-À l'opposé, il n'est pas souhaitable de dépasser le seuil du risque majeur, car dans ce cas, on obligerait les niveaux supérieurs à s'impliquer pour protéger ou non l'outil de combat. On réduirait donc leurs espaces de décision. En revanche, il est admi qu'un niveau hiérarchique donné mette en risque critique un niveau inférieur.
+À l'opposé, un niveau donné ne doit pas dépasser son propre seuil de risque critique, car cela réduit l'espace de décisions des niveaux supérieurs en les obligeant à s'impliquer dans la décision de protéger -- ou non -- l'outil de combat.
 
 
 ### Exemples
 
-Pour illustrer, nous allons regarder un exemple de prise de risque et un exemple de non prise de risque.
+Nous allons regarder deux exemples mettant en évidence la prise de risque et son refus.
 
 
 #### Débarquement de la force ONU dirigé par les américains à Incheon
 
-Le dimanche 25 juin 1950, la Corée du Nord envahit la Corée du Sud. Malgré l’envoi de forces américaines en Corée, les Nord-Coréens s’emparent de Séoul, la capitale du Sud, le 28 juin et repoussent les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan.
+Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces américaines(sous mandat ONU) en Corée, la NKPA s’empare de Séoul et repousse les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan.
 
-Le général MacArthur imagine alors un plan, baptisé "Chromite", en vue de renverser le cours de la guerre en Corée. Ce plan prévoit le débarquement de forces U.S. à Incheon, grosse localité portuaire proche de Seoul (30 kilomètres) et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes.
-En cas de succès, les Américains auraient tôt fait de reconquérir le nœud routier vital de Seoul et de couper les Nord-Coréens de leurs sources de ravitaillement. Affaiblis, les Nord-coréens seraient dès lors pris à partie par les troupes défendant la poche de Pusan qui contre-attaqueraient vigoureusement.
+Le général MacArthur imagine alors le plan « Chromite », en vue de renverser le cours de la guerre en Corée. Il prévoit le débarquement de forces à Incheon, localité portuaire proche de Seoul et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes. L'objectif est de reconquérir le nœud routier vital de Seoul et de couper la NKPA de ses sources de ravitaillement.
 
-Le plan initial fut regardé avec scepticisme par les autres généraux parce que les défenses naturelles et artificielles d'Incheon étaient redoutables. Les approches possibles vers Incheon étaient limitées à deux passages, « Flying Fish » et le « Canal Est », qui pouvaient être facilement bloqués par des mines. Par ailleurs, ces canaux subissaient un courant important, qui pouvait changer rapidement de force, passant de trois à huit nœuds. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues. Le commandant Arlie G. Capps résuma : « Nous avions dressé une liste de chaque désavantage naturel et géographique et Incheon les a tous ».
+L'interet pour notre démonstration est que le plan fut perçu comme trop risqué par les autres généraux en raison des défenses naturelles et artificielles d'Incheon. En effet, les approches possibles vers Incheon étaient limitées à deux passages, qui pouvaient être facilement bloqués par des mines et dont les courants pouvaient changer rapidement de force. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues.
 
-À l'aube du 15 septembre 1950, 230 navires U.S. firent leur apparition au large d'Incheon. En date du 16 septembre, le succès américain pouvait être tenu comme complet. Le débarquement avait réussi et le terrain d'aviation de Kimpo avait été conquis.
-
-L'armée nord-coréenne n'avait pas envisagé une invasion à Inchon, et même après le début des opérations, la Corée du Nord supposa que le débarquement principal se ferait ailleurs à Gunsan. En conséquence, seule une faible force fut envoyée en renfort à Incheon, qui arriva sur place alors que la tête de pont allié était déjà bien établie.
+Le 16 semptembre, le succès américain pouvait être tenu comme complet : le débarquement avait réussi et le terrain d'aviation de Kimpo avait été conquis. La NKPA n'a jamais envisagé une invasion à Incheon. Même après le début des opérations, elle supposa que le débarquement principal se ferait ailleurs et seule une faible force fut envoyée en renfort à Incheon.
 
 
 #### La « drôle de guerre »
