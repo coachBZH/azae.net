@@ -50,26 +50,32 @@ Le 16 semptembre, le succès américain pouvait être tenu comme complet : le d�
 
 #### La « drôle de guerre »
 
-Un bel exemple de non prise de risque décrit par Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940.
+Un exemple caractéristique de non-prise de risque décrit par Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940, soit près de 8 mois d'inaction.
 
-La seule offensive sera le 7 septembre où l'armé française attaquera mollement, avec deux corps d’armée, la Sarre. L’offensive durera dix jours, et n’avancera que de dix kilomètres en territoire allemand. À part cela, la France ne fait rien de concret. Elle avait pourtant peu à craindre des Allemands car à peu près toutes leurs troupes étaient engagées dans la campagne de Pologne.
+Hormis une offensive de 10 jours sur la Sarre, l'armée française ne fera rien de concret. Elle avait pourtant peu à craindre des Allemands car à peu près toutes leurs troupes étaient engagées dans la campagne de Pologne.
 
-Cette inaction laissera aux Allemends le temps de se préparer et d'avoir l'initaitive de l'opération "Fall Gelb" qui débutera le 10 mai 1940.
+Cette inaction laissera aux Allemands le temps de se préparer après l'invasion de la Pologne et d'avoir l'initaitive de l'opération "Fall Gelb" qui débuta le 10 mai 1940.
+
+
+#### Aboukir
+
+
+#### WWII Rommel vs Patton
 
 
 ## Dans l'entreprise
-
-De façon analogue aux contextes militaire, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie : décentralisation de la décision au niveau le plus pertinent d'analyse et d'action).
-
-Par exemple, le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche, le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile, etc.)
 
 Dans le contexte de l'entreprise, nous proposons la définition suivante des niveaux de risques :
 
 - risque faible : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
 - risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
-- risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...)
+- risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...).
 
-Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risque se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque sans prendre de risque critique.
+De façon analogue aux contextes militaires, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie : décentralisation de la décision au niveau le plus pertinent d'analyse et d'action). Par exemple, le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche, le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile, etc.)
+
+Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risques se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque sans prendre de risque critique.
+
+La majorité des entreprises ne prennent pas de risque, sauf contraintes.
 
 
 ### Exemples
