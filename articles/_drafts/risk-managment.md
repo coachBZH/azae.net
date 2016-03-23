@@ -23,11 +23,11 @@ Yakovleff identifie trois niveaux de risques :
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage la survie de l'unité
 
-Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. Maximiser le risque c'est donc augmenter son imprevisibilité.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. Maximiser le risque, c'est donc augmenter son imprévisibilité.
 
 En conséquence et paradoxalement, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés.
 
-D'autre part, chaque niveau hiérarchique se charge de maximiser ses risques, quitte à mettre en risque critique des niveaux inferieurs. En effet, le niveau supérieur ne doit pas être contraint à prendre des risques en compensation d'attitudes trop prudentes.
+D'autre part, chaque niveau hiérarchique se charge de maximiser ses risques, quitte à mettre en risque critique des niveaux inférieurs. En effet, le niveau supérieur ne doit pas être contraint à prendre des risques en compensation d'attitudes trop prudentes.
 
 À l'opposé, un niveau donné ne doit pas dépasser son propre seuil de risque critique, car cela réduit l'espace de décisions des niveaux supérieurs en les obligeant à s'impliquer dans la décision de protéger -- ou non -- l'outil de combat.
 
@@ -39,13 +39,13 @@ Nous allons regarder deux exemples mettant en évidence la prise de risque et so
 
 #### Débarquement de la force ONU dirigé par les américains à Incheon
 
-Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces américaines(sous mandat ONU) en Corée, la NKPA s’empare de Séoul et repousse les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan.
+Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces américaines (sous mandat ONU) en Corée, la NKPA s’empare de Séoul et repousse les Américains et les Sud-Coréens vers une enclave, de 130 kilomètres et sur 80, située autour de la ville portuaire de Pusan.
 
-Le général MacArthur imagine alors le plan « Chromite », en vue de renverser le cours de la guerre en Corée. Il prévoit le débarquement de forces à Incheon, localité portuaire proche de Seoul et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes. L'objectif est de reconquérir le nœud routier vital de Seoul et de couper la NKPA de ses sources de ravitaillement.
+Le général MacArthur imagine alors le plan « Chromite », en vue de renverser le cours de la guerre en Corée. Il prévoit le débarquement de forces à Incheon, localité portuaire proche de Séoul et voisine du terrain d'aviation de Kimpo, loin derrière les lignes nord-coréennes. L'objectif est de reconquérir le nœud routier vital de Séoul et de couper la NKPA de ses sources de ravitaillement.
 
-L'interet pour notre démonstration est que le plan fut perçu comme trop risqué par les autres généraux en raison des défenses naturelles et artificielles d'Incheon. En effet, les approches possibles vers Incheon étaient limitées à deux passages, qui pouvaient être facilement bloqués par des mines et dont les courants pouvaient changer rapidement de force. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues.
+L'intérêt pour notre démonstration est que le plan fut perçu comme trop risqué par les autres généraux en raison des défenses naturelles et artificielles d'Incheon. En effet, les approches possibles vers Incheon étaient limitées à deux passages, qui pouvaient être facilement bloqués par des mines et dont les courants pouvaient changer rapidement de force. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues.
 
-Le 16 semptembre, le succès américain pouvait être tenu comme complet : le débarquement avait réussi et le terrain d'aviation de Kimpo avait été conquis. La NKPA n'a jamais envisagé une invasion à Incheon. Même après le début des opérations, elle supposa que le débarquement principal se ferait ailleurs et seule une faible force fut envoyée en renfort à Incheon.
+Le 16 septembre, le succès américain pouvait être tenu comme complet : le débarquement avait réussi et le terrain d'aviation de Kimpo avait été conquis. La NKPA n'a jamais envisagé une invasion à Incheon. Même après le début des opérations, elle supposa que le débarquement principal se ferait ailleurs et seule une faible force fut envoyée en renfort à Incheon.
 
 
 #### La « drôle de guerre »
@@ -71,11 +71,11 @@ Dans le contexte de l'entreprise, nous proposons la définition suivante des niv
 - risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
 - risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...).
 
-Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous posons que la prise de risques se traduise par la créativité. C'est à dire faire ou penser différemment et expérimenter.
+Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous posons que la prise de risques se traduise par la créativité. C'est-à-dire faire ou penser différemment et expérimenter.
 
 Il faudrait donc pour une entreprise maximiser sa prise de risque sans prendre de risque critique. Et de façon analogue aux contextes militaires, il faudrait la décentraliser dans tous les niveaux de l'organisation.
 
-Notre position est clairement en décalage par rapport à la définition du "bon managment" qui serait de minimiser ou de borner les risques, alors que ne pas optimiser sa prise de risque, c'est se comdamner à prendre des risque plus grand à l'avenir.
+Notre position est clairement en décalage par rapport à la définition du "bon management" qui serait de minimiser ou de borner les risques, alors que ne pas optimiser sa prise de risque, c'est se condamner à prendre des risques plus grands à l'avenir.
 
 
 ### Exemples
