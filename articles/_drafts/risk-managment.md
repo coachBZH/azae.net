@@ -71,14 +71,17 @@ Dans le contexte de l'entreprise, nous proposons la définition suivante des niv
 - risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
 - risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...).
 
-De façon analogue aux contextes militaires, la gestion de chaque risque doit se faire au plus près de l'action adaptée (ie : décentralisation de la décision au niveau le plus pertinent d'analyse et d'action). Par exemple, le risque d'absence du personnel devrait être géré au niveau des équipes, des managers locaux. En revanche, le risque d'incident ferroviaire pourra être géré à plusieurs niveaux (dans le train, sur les quais, cellule de crise, délégation à des services de sécurité civile, etc.)
+Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous posons que la prise de risques se traduise par la créativité. C'est à dire faire ou penser différemment et expérimenter.
 
-Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous pensons que la prise de risques se traduit à travers la créativité ; faire et penser différemment et expérimenter. Nous pensons donc qu'une entreprise doit maximiser sa prise de risque sans prendre de risque critique.
+Il faudrait donc pour une entreprise maximiser sa prise de risque sans prendre de risque critique. Et de façon analogue aux contextes militaires, il faudrait la décentraliser dans tous les niveaux de l'organisation.
 
-La majorité des entreprises ne prennent pas de risque, sauf contraintes.
+Notre position est clairement en décalage par rapport à la définition du "bon managment" qui serait de minimiser ou de borner les risques, alors que ne pas optimiser sa prise de risque, c'est se comdamner à prendre des risque plus grand à l'avenir.
 
 
 ### Exemples
+
+Nous allons montrer quelques exemples mettant en évidence cette prise de risque.
+
 
 #### Free
 
