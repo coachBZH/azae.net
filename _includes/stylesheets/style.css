@@ -251,3 +251,8 @@ h4 {
 .post h3 {
   color: #4e9a06;
 }
+
+.infosup {
+  padding: 1em;
+  background-color: #eee;
+}

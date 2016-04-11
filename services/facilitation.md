@@ -11,11 +11,26 @@ Avec un objectif clair élaboré avec vous ou à partir d'un problème de votre 
 
 L'atelier est souvent le déclencheur du mouvement, et nous vous proposons de vous [accompagner](/services/coaching) dans le temps pour transformer réellement votre organisation.
 
-    L'organisation est souvent la même :
-    - mise en place d'un petit groupe d'organisateur
-    - préparation de l'événement (vision, logistique, communication, etc.)
-    - facilitation de l'événement
-    - clôture et partage des plans d'actions de chacun
+
+<div class="infosup">
+  <div class="row">
+    <div class="col-md-1 text-center">
+      <i class="fa fa-lightbulb-o" style="font-size:60px; color: #333;"></i>
+    </div>
+    <div class="col-md-11">
+
+      L'organisation est souvent la même :
+      <ul>
+        <li> mise en place d'un petit groupe d'organisateur </li>
+        <li> préparation de l'événement (vision, logistique, communication, etc.) </li>
+        <li> facilitation de l'événement </li>
+        <li> clôture et partage des plans d'actions de chacun </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
 
 # Nos outils
 
