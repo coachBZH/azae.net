@@ -13,7 +13,7 @@ Récement, des équipes que nous accompagnons dans leur changement vers l'agilit
 
 # Taxonomie ITIL
 
-Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Voici l'arbre de classement des incidents et des demandes que nous avons étudié : 
+Classer, trier les demandes et les incidents pour analyser et corriger les problèmes les plus importants en priorité est une des grandes forces d'ITIL. Voici l'arbre de classement des incidents et des demandes que nous avons utilisé : 
 
 * Incidents
   * Logiciel
@@ -28,64 +28,55 @@ Classer, trier les demandes et les incidents pour analyser et corriger les probl
 
 ### Logiciel
 
-Cette catégorie regroupe les incidents dont l'origine est supposé être l'application. Ce qui regroupe : 
+Cette catégorie regroupe les incidents dont l'origine est supposé être l'application. Ce qui regroupe :
 
 * les incidents mettant en évidence l'inadéquation entre le logiciel et le besoin
-* les incidents lié à une mauvaise annalyse d'impact interapplications : un changement dans l'application qui génère un bug dans une autre application
-* les incidents au manque de robustesse de l'application : un changement dans l'environement (coupure réseau, disque plein, reboot d'un service distant, etc.) qui bloque ou stope l'application.
+* les incidents lié à une mauvaise annalyse d'impact interapplications : un changement dans l'application génère un bug dans une autre application
+* les incidents lié au manque de robustesse de l'application : un changement dans l'environement (coupure réseau, disque plein, reboot d'un service distant, etc.) qui bloque ou stope l'application.
 * les incidents mettant en avant des bugs ou des régressions
 * les incidents lié à la fluctuation de la charge.
 
-
-Améliorer la collaboration entre les utilisateurs, les développeurs et la production est le levier principal pour réduire ces incidents. Ce qui passe entre autre par : 
-
-* Un Product Owner ou responsable produit correctement identifié dont le rôle est bien compris par tout le monde.
-* Faire participer les utilisateurs, la production et les équipes aux ateliers d'affinage du backlog.
-* Travailler le découpage des taches pour livrer plus vite de petits morceaux sur lesquelles l'utilisateur pourra donner très vite un avis
-* BDD : travailler avec les utisateurs pour que l'expression des tests automatiques leur soit suffisemment claire.
-* TDD : penser test avant de produire du code, pour obtenir une application testé automatiquement à chaque commit y compris les tests de charges et les tests de résistance aux modifications d'environements.
-* Mettre en place une bonne métrologie capable de remonter rapidement les liens de cause à effet permetra d'une part de simplifier une partie de l'analyse d'impacte et d'autre part de voir le problème avant l'incident pour le corriger au plus vite. La métrologie perlet aussi d'anticiper les problèmes de charge.
-* Le déploiement continu : livrer très vite de tout petits incréments de logiciel pour avoir un feedback rapide de vos utilisateurs
-* "l'infra as code" vous permettra d'automatiser la création d'environements pour reproduire rapidement un bug ou faire face à une forte montée en charge.
-* Pratiquer le "trunc base" ou partager le code le plus simplement possible pour voir au plus tôt les problèmes et éviter tous les problèmes de report entre versions.
-* Automatiser les tests de charges 
-
 ### Livraison
-Réduire les incidents de packagings et de déploiement c'est avant tout automatiser ce processus pour éviter les erreurs humaines. Le travail d'automatisation passera problablement par une collaboration devops, de "l'infra as code" et du "trunck base developpement"
 
-Réduire les problèmes de configuration applicative est plus délicat, il faudra au moins surveiller que l'application est bien oppérationnel en suivant les gestes métiers, mais aussi promouvoir la collaboration devops et l'automatisation des livraisons.
+Dans cette catégorie, on retrouve l'ensemble des incidents de livraison : package incomplet ou mal construit, problème de configuration applicative, erreur dans une procédure de livraison, etc.
 
 ### Processus
 
-Dans cette catégorie nous trouverons tous les incidents mettant en cause les processus et les outils. Pour résumer, dans ITIL, une action répétitive doit au minimum être documenté dans une procédure que l'opérateur pourra suivre pas à pas avec un certains nombre d'outils. 
-Rentre donc dans cette catégorie, tous les incidents mettant en cause la procédure, que ce soit parcequ'elle est absente ou pas à jour. L'origine du problème étant varié : la production n'est pas au courrant d'une nouvelle fonctionnalité, donc forcémenent non documenté ou parceque le responsable de la procédure n'a pas correctement fait son travail.
-Si un outil utilisé par la production ne fait pas correctement le travail par manque de configuration ou manque de fonctionnalité, alors l'incident rentre aussi dans cette catégorie.
+Dans cette catégorie, nous trouvons tous les incidents mettant en cause les processus et les outils. Brièvement, dans ITIL, une action répétitive doit au minimum être documenté dans une procédure que l'opérateur pourra suivre pas à pas avec un certains nombre d'outils. 
+Tous les incidents mettant en cause la procédure, que ce soit parcequ'elle est absente ou pas à jour. Par exemple, une procédure qui ne fait pas référence à une nouvelle fonctionnalité rentre de facto dans cette catégorie.
 
-Une bonne collaboration devops permettra de réduire une bonne partie de ces incidents : 
-
-* Inviter la production aux ateliers de construction du backlog et aux démonstrations du produit en fin d'itération
-* Mettre en place des interupteurs applicatifs pour par exemple laisser la production désactiver une fonctionnalité très gourmande en ressource en cas de forte charge.
-* Faire paticiper la production à la réflexion d'architecture, pour par exemple les prévenir au plus tôt de l'utilisation d'une ressource qui deviendra critique.
-
-Les problèmes de supervisions rentre aussi dans cette catégorie, en effet la supervision est un outil. Travailler sur une métrologie partagé entre tous les acteurs du projet permettra de réduire une partie des incidents.
+Si un outil utilisé par la production ne fait pas correctement le travail par manque de configuration ou manque de fonctionnalité, alors l'incident rentre aussi dans cette catégorie. 
+La supervision faisant parti des outils, une grande partie des problèmes de supervision (sonde en décalage avec le code applicatif, problème de configuration, etc.) rentrent dans cette catégorie.
 
 ## Demandes
 
-### Application
+En complément des incidents, la production est confronté à un certain nombre de demandes :
 
-Lancement de fonction manuel à la demande des utilisateurs, mise à jour de paramètres applicatifs, installation manuel de composants, relivraison urgente, etc. Tous ces cas de figure rentre dans la catégorie "Demandes applicatives".
+* Les lancement de fonction manuel à la demande des utilisateurs, mise à jour de paramètres applicatifs, installation manuel de composants, relivraison urgente, etc. Tous ces cas de figure rentre dans la catégorie "Demandes applicatives".
+* Toutes les créations, mise à jour ou suppréssion de données lié à la gestion des droits dans ou en dehors de l'application rentre dans la catégorie "Gestion des accès"
+* Enfin, toutes les demmandes de manipulation de données (execussion de requetes SQL, mise à jour de fichiers, extractions, demandes de dumps, de synchro de base, etc. ) rentrent dans la catégorie "Gestion des données"
 
-### Demandes d'accès
+# Bilan
 
-Toutes les créations, mise à jour ou suppréssion de données lié à la gestion des droits dans ou en dehors de l'application.
+## En place
 
+Faire émerger un certain nombre de bonnes pratiques en fonction des besoins, à effectivement permis de faire baisser le nombre d'incident.
+Améliorer la collaboration entre les utilisateurs, les développeurs et la production était le levier principal. Ce qui passe entre autre par : 
 
-### Gestion de données
+* Un Product Owner ou responsable produit correctement identifié dont le rôle est bien compris par tout le monde.
+* Travailler le découpage des taches pour livrer plus vite de petits morceaux sur lesquelles l'utilisateur peut donner très vite un avis
+* Travailler avec les utisateurs pour que l'expression des tests automatiques leur soit suffisemment claire (BDD)
+* Penser test avant de produire du code (TDD), pour obtenir une application testé automatiquement à chaque commit.
+* Livrer très vite de tout petits incréments de logiciel pour avoir un feedback rapide des utilisateurs, c'est le déploiement continu
+* Gérer l'infrastructure comme du code pour permettre d'automatiser la création d'environements par les développeurs afin de reproduire rapidement un bug ou pour la production pour faire face à une forte montée en charge.
+* Pratiquer le "trunc base" ou partager le code le plus simplement possible pour voir au plus tôt les problèmes et éviter autant que possible les problèmes de report entre versions.
+* Automatiser les déploiements pour déployer plus vite afin d'aller chercher plus souvant le feedback des utilisateurs tout en évitant les erreurs humaine.
 
-Toutes les demmandes pour jouer des requetes SQL, de la mise à jour de fichiers de données, des extractions, demandes de dumps, de synchro de base ou autre rentrent dans cette catégorie
+Toutes ces bonnes pratiques ont été mise en place, elles résultent d'une volonté commune, utilisateurs, développeurs et production à vouloir améliorer en continu leur collaboration. 
 
-### Solution
+## Reste à faire 
 Parmis ces demandes certaines sont très fréquentes, favoriser la collaboration entre dev, ops et biz permettra de prendre en compte la création d'écran ou de solution pour automatiser et donner aux utilisateurs suffisement d'autonomie dans l'executions de ces demandes.
-
-
-
+* Faire participer les utilisateurs, la production et les équipes aux ateliers d'affinage du backlog.
+* Penser test avant de produire du code, pour obtenir une application testé automatiquement à chaque commit y compris les tests de charges et les tests de résistance aux modifications d'environements.
+* Mettre en place une bonne métrologie capable de remonter rapidement les liens de cause à effet permetant d'une part de simplifier une partie de l'analyse d'impacte et d'autre part de voir le problème avant l'incident pour le corriger au plus vite.
+* Avoir des tests fonctionnel automatique applicable en production

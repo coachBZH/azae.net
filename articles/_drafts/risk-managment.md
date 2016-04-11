@@ -23,7 +23,7 @@ Yakovleff identifie trois niveaux de risques :
 - le risque significatif qui engage le succès de la mission
 - le risque critique qui engage la survie de l'unité
 
-Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. Maximiser le risque, c'est donc augmenter son imprévisibilité.
+Il conseille de maximiser les risques, sans prendre de risque critique. Vouloir minimiser le risque, c'est s'interdire un ensemble d'actions et donc restreindre les possibilités. Maximiser le risque, c'est d'une certaine façon, augmenter son imprévisibilité.
 
 En conséquence et paradoxalement, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés.
 

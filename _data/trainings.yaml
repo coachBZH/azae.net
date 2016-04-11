@@ -23,3 +23,6 @@
   description: "4h pour découvrir git et ses secrets"
   tags: [technical, beginers]
 
+- title: Le leadership agile
+  description: "Appréhender les clés de la direction agile"
+  tags: [methods]
