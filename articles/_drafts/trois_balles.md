@@ -1,5 +1,5 @@
 ---
-title: La jeu des trois balles
+title: Les trois balles
 authors:
   - Olivier Albiez
   - Hervé Taboubou
@@ -9,7 +9,7 @@ tags:
   - outil
 ---
 
-Ce petit jeu sérieu aussi appelé le flow-game vous aidera à mettre en oeuvre en moins de 45min de l'amélioration continu et de l'auto-organisation. Il permetra en sus d'aborder la différence entre innovation et créativité.
+Ce petit jeu sérieux aussi appelé le flow-game vous aidera à mettre en œuvre en moins de 45 minutes de l'amélioration continu et de l'auto-organisation. Il permettra en sus d'aborder la différence entre innovation et créativité.
 
 ## Ouverture
 
@@ -21,7 +21,8 @@ Matériel :
 
 Commencez par présenter l'objectif :
 
-> L'objectif c'est de faire circuler les 3 balles par chaque personne du groupe dans un ordre définit le plus vite possible.
+> L'objectif c'est de faire circuler les 3 balles, le plus vite possible, par chaque personne du groupe, dans un ordre défini.
+>
 > Pour définir l'ordre, je vous propose de vous mettre en cercle et de vous passer les balles avec les 2 règles suivantes : 
 >
 > - pas à vos voisins directs
@@ -31,21 +32,21 @@ Commencez par présenter l'objectif :
 
 Une fois que l'ordre est défini, on peut lancer les itérations du jeu, chaque itération se déroulera de la façon suivante : 
 
-- leur demander une estimation de leur performance
+- demander une estimation de leur futur performance
 - mesurer le temps de parcours des balles et l'afficher
 - débriefer avec le groupe
 - laisser le groupe s'améliorer avant de relancer une itération.
 
 La seule règle importante est que chaque participant doit toucher les balles dans l'ordre défini. Les participants peuvent tout remettre en cause sauf la garantie de l'ordre de toucher des balles.
 
-Durant la phase de débriefing nous stimulons le groupe de différentes manières : 
+Durant la phase de débriefing, nous stimulons le groupe de différentes manières : 
 
 - Qu'avez-vous appris durant cette itération ?
 - Qu'avez-vous observé sur votre organisation ?
 - Qui a décidé de cette amélioration ?
 - Je connais des groupes qui vont 2 fois plus vite ...
-- Mettre en évidance les amélioration qui remettent en cause les règles implicites du départ (le cercle, la position des personnes dans la salle, etc.)
-- Souvenez-vous il y a N itérations, pensiez vous qu'il était possible d'aller aussi vite ?
+- Mettre en évidence les améliorations qui remettent en cause les règles implicites du départ (le cercle, la position des personnes dans la salle, etc.)
+- Souvenez-vous, il y a N itérations, pensiez-vous qu'il était possible d'aller aussi vite ?
 
 Limiter le temps des phases d'amélioration. 
 
@@ -62,13 +63,14 @@ Notons particulièrement :
 
 ## Notes 
 
-- Innovation vs créativité
+- Innovation vs créativité, point abordé dans un article à venir.
 - Auto-organisation
 - élément moteur pour s'améliorer : le challenge (qui est moteur du challenge dans la vraie vie ?)
 - capacité d'estimation ...
 - moins d'une seconde à 40
 - ratio temps d'amélioration / production => reco : 33% du temps.
 - Équipe avec un but inaténiable, finalement ils pense que c'est possible.
-
+- La phase d'initialisation peut oublier des gens : algo modulo, 
+- Notion de limite d'amélioration possible
 
 
