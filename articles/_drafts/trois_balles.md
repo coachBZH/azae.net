@@ -60,6 +60,7 @@ Notons particulièrement :
 - varier les contraintes en cours de jeu (le client à changé d'avis)
 - mesurer un nombre de passage de balles dans un temps déterminé
 - ne faire que challenger et laisser le groupe animer les débriefing, observer et noter puis faire une rétrospective globale du jeu.
+- l'animateur peut être vue comme un PO, et on peut demander au débriefing : en avez-vous parlé à votre PO ?
 
 ## Notes 
 
