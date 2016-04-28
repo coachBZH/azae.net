@@ -32,23 +32,26 @@ Commencez par présenter l'objectif :
 
 Une fois que l'ordre est défini, on peut lancer les itérations du jeu, chaque itération se déroulera de la façon suivante : 
 
-- demander une estimation de leur futur performance
-- mesurer le temps de parcours des balles et l'afficher
-- débriefer avec le groupe
-- laisser le groupe s'améliorer avant de relancer une itération.
+- demander une estimation de leur futur performance,
+- mesurer le temps de parcours des balles et l'afficher,
+- débriefer avec le groupe,
+- laisser le groupe s'améliorer avant de relancer une itération,
+- limitez le temps des phases d'amélioration.
 
 La seule règle importante est que chaque participant doit toucher les balles dans l'ordre défini. Les participants peuvent tout remettre en cause sauf la garantie de l'ordre de toucher des balles.
 
 Durant la phase de débriefing, nous stimulons le groupe de différentes manières : 
 
 - Qu'avez-vous appris durant cette itération ?
-- Qu'avez-vous observé sur votre organisation ?
+- Qu'avez-vous observé ? sur votre organisation, sur les relations etc.
 - Qui a décidé de cette amélioration ?
+- Pensez-vous qu'il est possible d'aller encore plus vite ?
 - Je connais des groupes qui vont 2 fois plus vite ...
 - Mettre en évidence les améliorations qui remettent en cause les règles implicites du départ (le cercle, la position des personnes dans la salle, etc.)
 - Souvenez-vous, il y a N itérations, pensiez-vous qu'il était possible d'aller aussi vite ?
+- Observer le ratio entre le temps d'amélioration et le temps de production, celà évoque quelque chose pour vous ?
 
-Limiter le temps des phases d'amélioration. 
+Au bout d'un temps donné, ou une fois que l'équipe arrive à faire moins d'une secondes, il est temps de faire une rétrospective de l'activité.
 
 ## Animation
 
@@ -64,14 +67,21 @@ Notons particulièrement :
 
 ## Notes 
 
+A travers ce petit jeux, il est possible d'aborder l'ensemble de ces points, soit en rétrospective d'activité, soit en débriefing d'itération : 
+
 - Innovation vs créativité, point abordé dans un article à venir.
-- Auto-organisation
-- élément moteur pour s'améliorer : le challenge (qui est moteur du challenge dans la vraie vie ?)
-- capacité d'estimation ...
-- moins d'une seconde à 40
-- ratio temps d'amélioration / production => reco : 33% du temps.
-- Équipe avec un but inaténiable, finalement ils pense que c'est possible.
-- La phase d'initialisation peut oublier des gens : algo modulo, 
+- L'auto-organisation.
+- Le leadership.
+- Quelles sont les éléments moteurs pour s'améliorer : 
+  - le challenge (qui est moteur du challenge dans la vraie vie ?)
+  - le jeux, la reconnaissance, etc.
+  - moving motivators
+  - qui fixe les objectifs (but inaténiable finalement possible)
+- Capacité d'estimation, utilité de l'estimation.
+- Le ratio temps d'amélioration / production => recomandé 33% du temps.
+- La phase d'initialisation peut oublier des gens, quel est l'apprentissage ?
 - Notion de limite d'amélioration possible
+
+De notre côté nous avons observé qu'il est possible de faire moins d'une seconde à 40.
 
 
