@@ -65,23 +65,24 @@ Notons particulièrement :
 - ne faire que challenger et laisser le groupe animer les débriefing, observer et noter puis faire une rétrospective globale du jeu.
 - l'animateur peut être vue comme un PO, et on peut demander au débriefing : en avez-vous parlé à votre PO ?
 
-## Notes 
+## Notes sur les apprentissages
 
 A travers ce petit jeux, il est possible d'aborder l'ensemble de ces points, soit en rétrospective d'activité, soit en débriefing d'itération : 
 
-- Innovation vs créativité, point abordé dans un article à venir.
-- L'auto-organisation.
-- Le leadership.
-- Quelles sont les éléments moteurs pour s'améliorer : 
+- Innovation vs créativité, ce point sera abordé dans un article à venir.
+- L'auto-organisation, ce que c'est, quel en sont les leviers et comment permettre sa mise en place.
+- Le leadership, quel en sont les principaux ressorts et pourquoi c'est important que chaque membre de l'équipe développe sont leadership.
+- Quelles sont les éléments moteurs de l'amélioration continu :
   - le challenge (qui est moteur du challenge dans la vraie vie ?)
   - le jeux, la reconnaissance, etc.
   - moving motivators
-  - qui fixe les objectifs (but inaténiable finalement possible)
-- Capacité d'estimation, utilité de l'estimation.
+  - qui fixe les objectifs ? Un but inaténiable finalement possible.
+- Estimation, capacité de chacun à estimer, utilité et responsabilité.
 - Le ratio temps d'amélioration / production => recomandé 33% du temps.
 - La phase d'initialisation peut oublier des gens, quel est l'apprentissage ?
-- Notion de limite d'amélioration possible
+- Notion de limite d'amélioration possible, limite ressenti vs limite réelle ? Qui fixe les limites de l'amélioration ? 
 
-De notre côté nous avons observé qu'il est possible de faire moins d'une seconde à 40.
+
+Enfin et pour conclure, de notre côté nous avons observé qu'il est possible de faire moins d'une seconde avec un groupe de 40 personnes.
 
 
