@@ -29,6 +29,9 @@ YAGNI est l'acronyme _You Ain't Gonna Need It_ (Tu n'en auras pas besoin). L'id�
 
 DRY est l'acronyme de _Don't Repeat Yourself_ (Ne vous répétez pas). Ce principe cherche la simplicité par la factorisation du code. En effet, la duplication de code est couteuse en maintenance, en test et en correction.
 
+## Conslusion
+
+En simplifiant le code au niveau technique ([KISS]) et au niveau fonctionnel ([YAGNI]) on réduit les coûts de maintenance. 
 
 ---
 Sources:

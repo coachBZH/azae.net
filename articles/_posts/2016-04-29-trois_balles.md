@@ -7,6 +7,7 @@ authors:
 tags:
   - serious game
   - outil
+illustration: /assets/images/articles/trois-balles/equipe.jpg
 ---
 
 Ce petit jeu sérieux aussi appelé le flow-game vous aidera à mettre en œuvre en moins de 45 minutes de l'amélioration continue et de l'auto-organisation. Il permettra en sus d'aborder la différence entre innovation et créativité.
