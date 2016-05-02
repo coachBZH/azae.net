@@ -40,9 +40,20 @@ Nous animons des serious games (ateliers ludiques en français) pour focaliser l
 
 Nous utilisons régulièrement des légos, des kaplas, des ballons, des ciseaux, des feutres et du papier ainsi que d'autres jeux divers comme support de nos ateliers.
 
-    Pourquoi ça marche ?
-    - nous aimons tous jouer,
-    - les simulations ludiques permettent des apprentissages riches et pérennes, en se détachant de nos     mauvaises habitudes, sans contraintes techniques et en toute autonomie, chacun va pouvoir apprendre.
+<div class="infosup">
+  <div class="row">
+    <div class="col-md-1 text-center">
+      <i class="fa fa-lightbulb-o" style="font-size:60px; color: #333;"></i>
+    </div>
+    <div class="col-md-11">
+      Pourquoi ça marche ?
+      <ul>
+        <li> nous aimons tous jouer,</li>
+        <li> les simulations ludiques permettent des apprentissages riches et pérennes, en se détachant de nos     mauvaises habitudes, sans contraintes techniques et en toute autonomie, chacun va pouvoir apprendre.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ## Intelligence collective
 

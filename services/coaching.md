@@ -10,11 +10,22 @@ Nous mettons notre expérience et notre expertise pour révéler les talents de 
 
 Nous partagons les valeurs du [Manifeste Agile] et notre grande expérience dans les transformations agile nous permet de vous guider pour trouver le meilleur chemin d'amélioration. Notre objectif est l'autonomie de vos équipes, donc de trouver des relais chez vous pour que les processus d'améliorations continuent sans nous.
 
-    Définir ensemble un plan de transition agile :
-    - déclencher le mouvement à l'aide d'ateliers ludique,
-    - accompagner le mouvement avec du coaching et du mentoring,
-    - rythmer la transition, mettre en place de l'amélioration continue,
-    - sensibiliser à l'amélioration de l'outil de production.
+<div class="infosup">
+  <div class="row">
+    <div class="col-md-1 text-center">
+      <i class="fa fa-lightbulb-o" style="font-size:60px; color: #333;"></i>
+    </div>
+    <div class="col-md-11">
+      Définir ensemble un plan de transition agile :
+      <ul>
+        <li> déclencher le mouvement à l'aide d'ateliers ludique,</li>
+        <li> accompagner le mouvement avec du coaching et du mentoring,</li>
+        <li> rythmer la transition, mettre en place de l'amélioration continue,</li>
+        <li> sensibiliser à l'amélioration de l'outil de production.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 Convaincu qu’il n’y a pas de performance sans bonheur, et pas de bonheur sans responsabilité, nous pensons qu'il est possible de laisser les producteurs de valeurs s'auto-organiser et progresser vers un modèle d'entreprise libérée.
 
