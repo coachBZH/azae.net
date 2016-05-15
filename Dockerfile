@@ -3,7 +3,7 @@ from tclavier/nginx
 env DEBIAN_FRONTEND noninteractive
 
 run apt-get update \
- && apt-get install -y -q \
+ && apt-get install -y \
     bundler \
     git \
     locales \
