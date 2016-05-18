@@ -10,8 +10,8 @@ tags:
   - managment
 ---
 
-Dans cet article, nous regarderons la notion de prise de risque dans la doctrine du Général Yakovleff et nous proposerons comment l'adapter dans les entreprises.
-
+À la lecture du livre <<Tactique théorique>> de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
+Dans cet article, nous allons vous partager notre interprétation du risque dans la doctrine du Général Yakovleff adapté à l'entreprise.
 
 ## La prise de risque chez Yakovleff
 
@@ -25,73 +25,51 @@ Dans ce cadre, Yakovleff identifie trois niveaux de risques, indépendemment du 
 
 Il recommande de maximiser les risques, sans atteindre un niveau critique.
 
-Chercher à minimiser le risque, cela revient à restreindre ses possibliiltés en écartant toute celles qui seront jugées trop risquées. Ce qui simplifie le travail de l'adversaire qui aura moins de cas à étudier et donc pourra plus facilement anticiper les actions.
+Chercher à minimiser le risque, cela revient à restreindre ses possiblilités en écartant toute celles qui seront jugées trop risquées. Ce qui simplifie le travail de l'adversaire qui a ainsi moins de cas à étudier et donc pourra plus facilement anticiper les actions.
 
-Yakovleff mets alors en évidence le paradoxe, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés.
+Yakovleff mets alors en évidence le paradoxe suivant, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser le retard ou les pertes accumulés durant la période ou il était prévisible.
 
+Regardons ensemble deux exemples mettant en évidence ce paradoxe.
 
+### Débarquement de la force ONU à Incheon
 
+Dans cet exemple nous verons comment l'ONU à maximisé sont risque pour être totalement imprévisible.
 
+Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces ONU en Corée, la NKPA s’empare de Séoul et repousse l'ONU.
 
-D'autre part, chaque niveau hiérarchique se charge de maximiser ses risques, quitte à mettre en risque critique des niveaux inférieurs. En effet, le niveau supérieur ne doit pas être contraint à prendre des risques en compensation d'attitudes trop prudentes.
-
-À l'opposé, un niveau donné ne doit pas dépasser son propre seuil de risque critique, car cela réduit l'espace de décisions des niveaux supérieurs en les obligeant à s'impliquer dans la décision de protéger -- ou non -- l'outil de combat.
-
-
-### Exemples
-
-Nous allons regarder deux exemples mettant en évidence la prise de risque et son refus.
-
-
-#### Débarquement de la force ONU à Incheon
-
-Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces ONU en Corée, la NKPA s’empare de Séoul et repousse l'ONU et les Sud-Coréens vers une enclave autour de la ville portuaire de Pusan.
-
-Le général MacArthur imagine alors le plan « Chromite », en vue de renverser le cours de la guerre en Corée. Il prévoit le débarquement de forces à Incheon, localité portuaire proche de Séoul, loin derrière les lignes nord-coréennes. L'objectif est de reconquérir le nœud routier vital de Séoul et de couper la NKPA de ses sources de ravitaillement.
-
-L'intérêt pour notre démonstration est que le plan fut perçu comme trop risqué par les autres généraux en raison des défenses naturelles et artificielles d'Incheon. En effet, les approches possibles vers Incheon étaient limitées à deux passages, qui pouvaient être facilement bloqués par des mines et dont les courants pouvaient changer rapidement de force. Enfin, les possibilités d'ancrage étaient réduites, et le port entouré par d'énormes digues.
+Le général MacArthur imagine alors un débarquement de forces à Incheon, loin derrière les lignes nord-coréennes dans un lieu perçu comme trop risqué par les généraux adverse en raison des défenses naturelles et artificielles.
 
 Le 16 septembre, le succès de l'ONU pouvait être tenu comme complet. La NKPA n'a jamais envisagé une invasion à Incheon. Même après le début des opérations, elle supposa que le débarquement principal se ferait ailleurs et seule une faible force fut envoyée en renfort à Incheon.
 
+### La « drôle de guerre »
 
-#### La « drôle de guerre »
+Entre le 3 septembre 1939 et le 10 mai 1940, les forces française, convaincu de l'avantage que leur donne la ligne Maginot, sont massés sur la frontière allemande.
+En face les allemands sont en partie derrière la ligne Siegfried et majoritairement dans la campagne de Pologne.
+Pour les français, prendre le risque de quitter les fortifictations de la ligne Maginot pour attaquer les allemands est impensable.
 
-Un exemple caractéristique de non-prise de risque décrit par Yakovleff est la passivité française et anglaise pendant la « drôle de guerre » entre le 3 septembre 1939 et l'offensive allemande du 10 mai 1940, soit près de 8 mois d'inaction.
+L'armée Française étant tellement prévisible, qu'il fut facile pour les Allemands de passer par la Belgique pour contourner la ligne Maginot.
 
-Hormis une offensive de 10 jours sur la Sarre, l'armée française ne fera rien de concret. Elle avait pourtant peu à craindre des Allemands car à peu près toutes leurs troupes étaient engagées dans la campagne de Pologne.
-
-Cette inaction laissera aux Allemands le temps de se préparer après l'invasion de la Pologne et d'avoir l'initaitive de l'opération "Fall Gelb" qui débuta le 10 mai 1940.
-
-
-#### Aboukir
-
-
-#### WWII Rommel vs Patton
-
+Cet exemple montre comment la non prise de risque des Français était en soit une prise de risque bien plus grande.
 
 ## Dans l'entreprise
 
-Dans le contexte de l'entreprise, nous proposons la définition suivante des niveaux de risques :
+Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Yakovleff, nous avons : 
 
-- risque faible : risque qui ne remet pas en cause la capacité future à opérer, ni les activités et processus en cours
+- risque faible : risque qui ne remet pas en cause la capacité de production actuel et future de l'entreprise.
 - risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
-- risque critique : remise en cause de la capacité à opérer (faillite, BFR KO, violation de contraintes légales ou réglementaires...).
+- risque critique : remise en cause de la capacité de production actuel et futur de l'entreprise : faillite, BFR KO, violation de contraintes légales ou réglementaires ...
 
-Pour l'entreprise, pour atteindre les bénéfices similaires, la lisibilité et l'efficacité, nous posons que la prise de risques se traduise par la créativité. C'est-à-dire faire ou penser différemment et expérimenter.
+L'évocation du paradoxe de la prise de risque avec pour objectif l'imprévisibilité résonne chez nous comme la nécessité pour l'entreprise de faire preuve de créativité, de penser différemment et d'expérimenter le plus possible. 
 
-Il faudrait donc pour une entreprise maximiser sa prise de risque sans prendre de risque critique. Et de façon analogue aux contextes militaires, il faudrait la décentraliser dans tous les niveaux de l'organisation.
+Notre position est clairement en décalage par rapport à la définition du "bon management" qui serait de minimiser ou de borner les risques.
 
-Notre position est clairement en décalage par rapport à la définition du "bon management" qui serait de minimiser ou de borner les risques, alors que ne pas optimiser sa prise de risque, c'est se condamner à prendre des risques plus grands à l'avenir.
+À travers quelques exemples, nous allons essayer de mettre en évidence notre propos.
 
+### Free
 
-### Exemples
-
-Nous allons montrer quelques exemples mettant en évidence cette prise de risque.
-
-
-#### Free
-
-Free met sur le marché sa première box en annonçant le triple play avec en résultante une réduction de la TVA. Les concurrents ont tous applaudi en copiant l'optimisation fiscale, sans penser qu'ils allaient distribuer de la télé. À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. La prise de risque de Free est dans la créativité technique.
+18 septembre 2002 : Free lance sa première Freebox et son premier forfait ADSL. Un accès illimité pour 29,99 €/mois, c'est du jamais vu face aux forfaits concurrents avoisinant les 45 €. Ils annoncent à l'époque que la téléphonie et la télévision feront bientôt parti de l'abonnement. Les concurrents ont tous applaudi en copiant l'optimisation fiscale, sans penser qu'ils allaient réellement faire du triple play. En effet à l'époque la TVA applicable à un lot (ADSL + Téléphone + Télévision) était librement choisis parmi les taux des éléments composant le pac, comme la télévision était à 5%, la TVA du pac pouvait donc être de 5%.
+À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. 
+Créer du triple play et le faire était une énorme prise de risque, personne ne pensait il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Pourtant le 31 juillet 2003 free à ajouter la téléphonie gratuite et illimité à son offre et le 1er décembre 2003 la télévision.
 
 
 #### Toyota
