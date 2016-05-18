@@ -10,7 +10,8 @@ tags:
   - managment
 ---
 
-À la lecture du livre Tactique théorique de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
+
+À la lecture du livre [Tactique théorique] de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
 Dans cet article, nous allons vous partager notre interprétation du risque dans la doctrine du Général Yakovleff adapté à l'entreprise.
 
 
@@ -54,7 +55,7 @@ Notre position est clairement en décalage par rapport à la définition du "bon
 À travers quelques exemples, nous allons illustrer notre propos.
 
 
-### Free
+#### Free
 
 Le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL. Ils annoncent à l'époque que la téléphonie et la télévision feront bientôt parti de l'abonnement, dans une offre triple play. À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. Créer du triple play et le faire était une énorme prise de risque, personne ne pensait il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Pourtant le 31 juillet 2003 free à ajouter la téléphonie gratuite et illimité à son offre et le 1er décembre 2003 la télévision.
 
@@ -82,3 +83,4 @@ Sources:
 
 [Bataille d'Inchéon]: https://fr.wikipedia.org/wiki/Bataille_d%27Incheon
 [« drôle de guerre »]: https://fr.wikipedia.org/wiki/Dr%C3%B4le_de_guerre
+[Tactique théorique]: {% post_url 2016-05-18-book-tactique-tehorique-yakovleff-michel %}
