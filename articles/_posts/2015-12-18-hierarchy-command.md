@@ -25,4 +25,10 @@ _Il est donc préférable de traiter les demandes des subordonnés avant celles 
 
 D'autre part, si l'organisation exige qu'un subordonné demande l'autorisation à son supérieur pour chaque action qu'il va entreprendre, alors ce subordonné va être considérablement ralenti. La encore, il est préférable de laisser l'initiative aux subordonnés et de les laisser rendre compte de leurs décisions et intentions.
 
+---
+Sources:
+
+- [Tactique théorique]
+
+
 [Tactique théorique]: {% post_url 2016-05-18-book-tactique-tehorique-yakovleff-michel %}

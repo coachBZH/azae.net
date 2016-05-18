@@ -73,6 +73,11 @@ Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation
 
 Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodak qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
 
+---
+Sources:
+
+- [Tactique théorique]
+
 
 [Bataille d'Inchéon]: https://fr.wikipedia.org/wiki/Bataille_d%27Incheon
 [« drôle de guerre »]: https://fr.wikipedia.org/wiki/Dr%C3%B4le_de_guerre
