@@ -14,6 +14,7 @@ tags:
   - leadership
 ---
 
+Dans son livre [Tactique théorique], Yakovleff explique le fonctionnement d'une hiérarchie militaire.
 
 Dans une organisation militaire hiérarchisée, chaque niveau a son propre cycle de décision. Ce cycle meusure le temps entre deux plans d'actions successifs.
 
@@ -24,7 +25,4 @@ _Il est donc préférable de traiter les demandes des subordonnés avant celles 
 
 D'autre part, si l'organisation exige qu'un subordonné demande l'autorisation à son supérieur pour chaque action qu'il va entreprendre, alors ce subordonné va être considérablement ralenti. La encore, il est préférable de laisser l'initiative aux subordonnés et de les laisser rendre compte de leurs décisions et intentions.
 
----
-Sources:
-
-- Tactique théorique, Michel Yakovleff. Economica, Coll. « Stratégies et doctrines ». Paris, 2e édition, 2009.
+[Tactique théorique]: {% post_url 2016-05-18-book-tactique-tehorique-yakovleff-michel %}
