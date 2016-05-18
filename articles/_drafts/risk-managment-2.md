@@ -10,8 +10,9 @@ tags:
   - managment
 ---
 
-À la lecture du livre <<Tactique théorique>> de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
+À la lecture du livre Tactique théorique de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
 Dans cet article, nous allons vous partager notre interprétation du risque dans la doctrine du Général Yakovleff adapté à l'entreprise.
+
 
 ## La prise de risque chez Yakovleff
 
@@ -29,52 +30,38 @@ Chercher à minimiser le risque, cela revient à restreindre ses possiblilités 
 
 Yakovleff mets alors en évidence le paradoxe suivant, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser le retard ou les pertes accumulés durant la période ou il était prévisible.
 
+Pour illustrer ce point, Yakovleff fait référence au débarquement de la force ONU à Inchéon le 15 semptembre 1950, où le général MaxArthur surprendra ses adversaires en réalisant une action jugée trops risquée
+
 Regardons ensemble deux exemples mettant en évidence ce paradoxe.
 
-### Débarquement de la force ONU à Incheon
+Notre premier exemple est la [Bataille d'Inchéon] le 15 septembre 1950 où le général MacArthur suprend ses adversaire en réalisant un débarquement dans un lieu perçu comme trop risqué par les généraux adverses en raison des défenses naturelles et artificielles.
 
-Dans cet exemple nous verons comment l'ONU à maximisé sont risque pour être totalement imprévisible.
+L'autre exemple, cette fois de non-prise de risque, est la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 194 où les forces françaises vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive à l'ouest de mai 1940. Cette offensive se terminera par la capitulation de la France.
 
-Le dimanche 25 juin 1950, la NKPA (North Korean People's Army) envahit la Corée du Sud. Malgré l’envoi de forces ONU en Corée, la NKPA s’empare de Séoul et repousse l'ONU.
-
-Le général MacArthur imagine alors un débarquement de forces à Incheon, loin derrière les lignes nord-coréennes dans un lieu perçu comme trop risqué par les généraux adverse en raison des défenses naturelles et artificielles.
-
-Le 16 septembre, le succès de l'ONU pouvait être tenu comme complet. La NKPA n'a jamais envisagé une invasion à Incheon. Même après le début des opérations, elle supposa que le débarquement principal se ferait ailleurs et seule une faible force fut envoyée en renfort à Incheon.
-
-### La « drôle de guerre »
-
-Entre le 3 septembre 1939 et le 10 mai 1940, les forces française, convaincu de l'avantage que leur donne la ligne Maginot, sont massés sur la frontière allemande.
-En face les allemands sont en partie derrière la ligne Siegfried et majoritairement dans la campagne de Pologne.
-Pour les français, prendre le risque de quitter les fortifictations de la ligne Maginot pour attaquer les allemands est impensable.
-
-L'armée Française étant tellement prévisible, qu'il fut facile pour les Allemands de passer par la Belgique pour contourner la ligne Maginot.
-
-Cet exemple montre comment la non prise de risque des Français était en soit une prise de risque bien plus grande.
 
 ## Dans l'entreprise
 
-Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Yakovleff, nous avons : 
+Dans le contexte de l'entreprise, et pour reprendre les 3 niveaux de risque de Yakovleff, nous avons :
 
 - risque faible : risque qui ne remet pas en cause la capacité de production actuel et future de l'entreprise.
 - risque significatif : remise en cause de l'activité en cours, mais pas la capacité future à opérer (risque financier assurable)
 - risque critique : remise en cause de la capacité de production actuel et futur de l'entreprise : faillite, BFR KO, violation de contraintes légales ou réglementaires ...
 
-L'évocation du paradoxe de la prise de risque avec pour objectif l'imprévisibilité résonne chez nous comme la nécessité pour l'entreprise de faire preuve de créativité, de penser différemment et d'expérimenter le plus possible. 
+L'évocation du paradoxe de la prise de risque avec pour objectif l'imprévisibilité résonne chez nous comme la nécessité pour l'entreprise de faire preuve de créativité, de penser différemment et d'expérimenter le plus possible.
 
 Notre position est clairement en décalage par rapport à la définition du "bon management" qui serait de minimiser ou de borner les risques.
 
-À travers quelques exemples, nous allons essayer de mettre en évidence notre propos.
+À travers quelques exemples, nous allons illustrer notre propos.
+
 
 ### Free
 
-18 septembre 2002 : Free lance sa première Freebox et son premier forfait ADSL. Un accès illimité pour 29,99 €/mois, c'est du jamais vu face aux forfaits concurrents avoisinant les 45 €. Ils annoncent à l'époque que la téléphonie et la télévision feront bientôt parti de l'abonnement. Les concurrents ont tous applaudi en copiant l'optimisation fiscale, sans penser qu'ils allaient réellement faire du triple play. En effet à l'époque la TVA applicable à un lot (ADSL + Téléphone + Télévision) était librement choisis parmi les taux des éléments composant le pac, comme la télévision était à 5%, la TVA du pac pouvait donc être de 5%.
-À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. 
-Créer du triple play et le faire était une énorme prise de risque, personne ne pensait il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Pourtant le 31 juillet 2003 free à ajouter la téléphonie gratuite et illimité à son offre et le 1er décembre 2003 la télévision.
+Le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL. Ils annoncent à l'époque que la téléphonie et la télévision feront bientôt parti de l'abonnement, dans une offre triple play. À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence. Créer du triple play et le faire était une énorme prise de risque, personne ne pensait il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Pourtant le 31 juillet 2003 free à ajouter la téléphonie gratuite et illimité à son offre et le 1er décembre 2003 la télévision.
 
 
 #### Toyota
 
-Toyota va transformer son organisation dans les années 1950, en s'inspirant des supermarchés américains et de la mise en rayon des produits. Ils vont publier, documenter et diffuser leurs façons de faire. Leurs concurrents mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationnelle.
+Toyota va transformer son organisation dans les années 1950, en s'inspirant des supermarchés américains et de la mise en rayon des produits. Ils vont documenter et diffuser leurs façons de faire. Leurs concurrents mettront près de 50 ans pour comprendre. La prise de risque de Toyota est dans la créativité organisationnelle.
 
 
 #### Favi
@@ -84,12 +71,14 @@ Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation
 
 #### Kodak
 
-Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodac qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.
-
-Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
+Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les marges élevées des pellicules argentiques. Ils ont donc raté le passage au numérique et sont resté sur une technologie de moins en moins utilisée. Ironiquement, c'est Kodak qui a inventé les capteurs CCD utilisés dans les appareils photos numériques.Le résultat est que Kodak a déposé le bilan le 19 janvier 2012.
 
 
 ---
 Sources:
 
 - Tactique théorique, Michel Yakovleff. Economica, Coll. « Stratégies et doctrines ». Paris, 2e édition, 2009.
+
+
+[Bataille d'Inchéon]: https://fr.wikipedia.org/wiki/Bataille_d%27Incheon
+[« drôle de guerre »]: https://fr.wikipedia.org/wiki/Dr%C3%B4le_de_guerre
