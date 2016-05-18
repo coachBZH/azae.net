@@ -31,8 +31,6 @@ Chercher à minimiser le risque, cela revient à restreindre ses possiblilités 
 
 Yakovleff mets alors en évidence le paradoxe suivant, celui qui ne prend pas de risque à bon escient se condamne à prendre plus tard des risques bien plus élevés pour compenser le retard ou les pertes accumulés durant la période ou il était prévisible.
 
-Pour illustrer ce point, Yakovleff fait référence au débarquement de la force ONU à Inchéon le 15 semptembre 1950, où le général MaxArthur surprendra ses adversaires en réalisant une action jugée trops risquée
-
 Regardons ensemble deux exemples mettant en évidence ce paradoxe.
 
 Notre premier exemple est la [Bataille d'Inchéon] le 15 septembre 1950 où le général MacArthur suprend ses adversaires en réalisant un débarquement dans un lieu négligé par les généraux adverses en raison des défenses naturelles et artificielles.
