@@ -52,8 +52,7 @@ layout: default
             {% endif %}
             <div class="col-md-5">
                 <h1>
-                    {{ page.title }}
-                    <small>{{ page.subtitle }}</small>
+                    {{ page.title }} {% if page.subtitle %}<br><small>{{ page.subtitle }}</small> {% endif %}
                 </h1>
                 {% if page.tags.size > 0 %}
                     <p >
@@ -67,9 +66,11 @@ layout: default
                   <i class='fa fa-calendar'></i> {{ page.date | date: "%b %-d, %Y" }}
 
                 </p>
+                {% if page.authors %}
                 <p class="post-meta">
                   <i class='fa fa-user'></i> {{ page.authors | join: ", " }}
                 </p>
+                {% endif %}
             </div>
     </div>
     <div class="row">
