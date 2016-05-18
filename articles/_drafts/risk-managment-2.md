@@ -35,7 +35,7 @@ Regardons ensemble deux exemples mettant en évidence ce paradoxe.
 
 Notre premier exemple est la [Bataille d'Inchéon] le 15 septembre 1950 où le général MacArthur suprend ses adversaires en réalisant un débarquement dans un lieu négligé par les généraux adverses en raison des défenses naturelles et artificielles.
 
-L'autre exemple, cette fois de non-prise de risque, est la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 où les forces alliées vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive à l'ouest de mai 1940. Cette offensive se terminera par la capitulation de la France.
+L'autre exemple, cette fois de non-prise de risque, est la [« drôle de guerre »] entre le 3 septembre 1939 et le 10 mai 1940 où les forces alliées vont laisser aux Allemands le temps de terminer leur offensive polonaise, de se réorganiser et de préparer leur offensive à l'ouest de mai 1940. Cette inaction s'explique par le sentiment de sécurité offert par la ligne Maginot et l'incapacité du commandement français à se mettre d'accord. Cette offensive se terminera par la capitulation de la France.
 
 
 ## Dans l'entreprise
@@ -55,10 +55,9 @@ Notre position est clairement en décalage par rapport à la définition du "bon
 
 #### Free
 
-Le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL. Ils annoncent à l'époque que la téléphonie et la télévision feront bientôt parti de l'abonnement.
-À partir de cet instant et pour plusieurs années, Free sera systématiquement en avance sur la concurrence.
-Créer du triple play et le faire était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL.
-Pourtant le 31 juillet 2003 free à ajouter la téléphonie gratuite et illimité à son offre et le 1er décembre 2003 c'était la télévision.
+Le 18 septembre 2002, Free lance sa première Freebox et son premier forfait ADSL plus de 30% moins cher que la concurrence. Le 31 juillet 2003, Free ajoute la téléphonie gratuite et illimité à son offre. Le 1er décembre 2003,
+Free annonce l'arrivée de la télévision. Créer du triple play était une énorme prise de risque, personne ne pensait qu'il était techniquement possible de faire passer de la téléphonie et de la télévision de qualité dans une offre ADSL. Cela donnera à Free une avance sur la concurrence pour plusieurs années.
+
 
 #### Toyota
 
