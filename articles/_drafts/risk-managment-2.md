@@ -66,7 +66,7 @@ Toyota va transformer son organisation dans les années 1950, en s'inspirant des
 
 #### Favi
 
-Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leaders incontestés sur leur marché. Ici encore la prise de risque est dans la créativité organisationnelle.
+Sous l'impulsion de Jean-François Zobrist, Favi va transformer son organisation sur le modèle des entreprises libérées. Rapidement, ils deviendront leaders incontestés sur leur marché. Ici encore la prise de risque est dans la créativité organisationnelle. (Suppression du controle)
 
 
 #### Kodak
@@ -77,8 +77,10 @@ Pendant près de vingt ans, Kodak a refusé de prendre le risque de diminuer les
 Sources:
 
 - [Tactique théorique]
+- [Kodak: les leçons d’une faillite]
 
 
 [Bataille d'Inchéon]: https://fr.wikipedia.org/wiki/Bataille_d%27Incheon
 [« drôle de guerre »]: https://fr.wikipedia.org/wiki/Dr%C3%B4le_de_guerre
+[Kodak: les leçons d’une faillite]: http://www.paristechreview.com/2012/02/20/kodak-lecons-faillite/
 [Tactique théorique]: {% post_url 2016-05-18-book-tactique-tehorique-yakovleff-michel %}
