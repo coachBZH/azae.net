@@ -1,17 +1,17 @@
 ---
-title: La gestion du risque
+title: La prise de risque dans l'entreprise: éclairages inattendus des militaires
 authors:
   - Olivier Albiez
-  - Hervé Taboubou
   - Thomas Clavier
+  - Hervé Taboubou
 tags:
   - military
   - concepts
-  - managment
+  - management
 ---
 
 
-À la lecture du livre [Tactique théorique] de Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
+À la lecture du livre [Tactique théorique] du Général Michel Yakovleff nous avons fait un certain nombre de parallèles avec le monde de l'entreprise.
 Dans cet article, nous allons vous partager notre interprétation du risque dans la doctrine du Général Yakovleff adapté à l'entreprise.
 
 
